@@ -1,0 +1,162 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+
+  margin: 0 auto;
+}
+
+.main__wrapper {
+}
+
+.description {
+  width: 450px;
+  height: auto;
+  margin: 0 auto;
+  font-size: 0.8rem;
+  line-height: 1.4rem;
+}
+
+.sentence {
+  width: 450px;
+  height: auto;
+  font-weight: bolder;
+  font-size: 1rem;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px dashed rgb(17, 206, 26);
+}
+
+.board {
+  position: relative;
+  width: 450px;
+  height: 300px;
+
+  margin: 0 auto;
+
+  padding: 10px;
+  border: 1px dashed rgb(18, 169, 189);
+}
+
+.panel-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 450px;
+  height: 100px;
+
+  margin: 0 auto;
+}
+
+.btn-check,
+.btn-next {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 200px;
+  height: 60px;
+
+  background-color: rgb(255, 0, 17);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.301);
+  outline: transparent;
+  border-radius: 5px;
+  border: none;
+
+  color: rgba(255, 255, 255, 0.863);
+  font-size: 1rem;
+  font-weight: bolder;
+}
+.btn-check:hover,
+.btn-next:hover {
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.btn-check:active,
+.btn-next:active {
+  transform: translate(1px, 1px);
+}
+
+.btn-next {
+  background-color: rgb(0, 155, 2);
+}
+
+.word,
+.word_active {
+  position: absolute;
+  display: inline-block;
+
+  padding: 10px 20px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgb(119, 119, 119);
+  border-radius: 3px;
+  background-color: rgba(253, 234, 171, 0.116);
+  transition: all 1s;
+
+  cursor: pointer;
+}
+
+.success,
+.error {
+  position: absolute;
+  z-index: 2;
+  bottom: 10%;
+  left: 10%;
+
+  display: inline-block;
+  text-align: center;
+  align-content: center;
+  vertical-align: middle;
+
+  line-height: 130px;
+
+  border-radius: 10px;
+  border: 2px solid rgb(4, 119, 6);
+
+  width: 80%;
+  height: 45%;
+
+  background-color: rgb(0, 155, 2);
+  color: white;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.error {
+  border: 2px solid rgb(148, 0, 13);
+  background-color: rgb(175, 0, 15);
+}
+
+.orange {
+  background-color: rgb(255, 72, 0);
+  border: 1px solid rgb(201, 57, 1);
+  color: white;
+}
+
+.green {
+  background-color: rgb(0, 255, 21);
+  border: 1px solid rgb(5, 184, 20);
+  color: white;
+}
+
+.blue {
+  background-color: rgba(0, 119, 255, 0.87);
+  border: 1px solid rgb(4, 95, 199);
+  color: white;
+}
+
+.purple {
+  background-color: rgba(174, 0, 255, 0.87);
+  border: 1px solid rgba(148, 4, 214, 0.87);
+  color: white;
+}
+
+.yellow {
+  background-color: rgba(255, 217, 0, 0.87);
+  border: 1px solid rgba(211, 180, 5, 0.87);
+  color: white;
+}
+
+.hide {
+  display: none;
+}

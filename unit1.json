@@ -1,0 +1,103 @@
+{
+  "name": "Unit 1",
+  "questions": [
+    {
+      "ru": "Она моя мама.",
+      "en": "She is my mum.",
+      "addWord": "are He am It"
+    },
+    {
+      "ru": "Они девочки.",
+      "en": "They are girls.",
+      "addWord": "is Those am It"
+    },
+    {
+      "ru": "Я счастлив.",
+      "en": "I am happy.",
+      "addWord": "are He is It glad"
+    },
+    {
+      "ru": "Он твой папа?",
+      "en": "Is he your dad?",
+      "addWord": "are She am It mum"
+    },
+    {
+      "ru": "Она твоя бабушка?",
+      "en": "Is she your grandma?",
+      "addWord": "are She am It granddad"
+    },
+    {
+      "ru": "Ты малыш?",
+      "en": "Are you a baby?",
+      "addWord": "am He is It child"
+    },
+    {
+      "ru": "Он ковбой.",
+      "en": "He is a cowboy.",
+      "addWord": "are He am It king"
+    },
+    {
+      "ru": "Они ковбои.",
+      "en": "They are cowboys.",
+      "addWord": "am He is It clowns"
+    },
+    {
+      "ru": "Они ковбои?",
+      "en": "Are they cowboys?",
+      "addWord": "am He is It clowns"
+    },
+    {
+      "ru": "Они клоуны.",
+      "en": "They are clowns.",
+      "addWord": "am He is It kings"
+    },
+    {
+      "ru": "Это коробка.",
+      "en": "This is a box.",
+      "addWord": "am He It are camera the"
+    },
+    {
+      "ru": "Это мой друг.",
+      "en": "This is my friend.",
+      "addWord": "are his am It her"
+    },
+    {
+      "ru": "Он мальчик.",
+      "en": "He's a boy.",
+      "addWord": "He're she It his"
+    }
+  ],
+  "colors": [
+    {
+      "color": "green",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "orange",
+      "words": [
+        "I",
+        "She",
+        "He",
+        "They",
+        "It",
+        "Those",
+        "This",
+        "He's",
+        "She's",
+        "I'm"
+      ]
+    },
+    {
+      "color": "blue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "purple",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "yellow",
+      "words": ["a", "the"]
+    }
+  ]
+}
