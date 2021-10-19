@@ -74,18 +74,7 @@
     },
     {
       "color": "orange",
-      "words": [
-        "I",
-        "She",
-        "He",
-        "They",
-        "It",
-        "Those",
-        "This",
-        "He's",
-        "She's",
-        "I'm"
-      ]
+      "words": ["I", "She", "He", "They", "It", "Those", "This"]
     },
     {
       "color": "blue",
@@ -98,6 +87,10 @@
     {
       "color": "yellow",
       "words": ["a", "the"]
+    },
+    {
+      "color": "orange-green",
+      "words": ["He's", "She's", "I'm"]
     }
   ]
 }

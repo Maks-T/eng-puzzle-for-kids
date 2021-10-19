@@ -4,8 +4,16 @@ const btnCheck = document.querySelector(".btn-check");
 const btnNext = document.querySelector(".btn-next");
 const sentence = document.querySelector(".sentence");
 
+const countQuesElem = document.querySelector("#count-ques");
+const knewQuesElem = document.querySelector("#knew-ques");
+const leftQuesElem = document.querySelector("#left-ques");
+
 let mistakes = 0;
 let success = 0;
+/*
+let countQues = 0;
+let knewQues = 0;
+let leftQues = 0;*/
 
 const unit1Promise = fetch("unit1.json");
 
@@ -17,7 +25,11 @@ unit1Promise
     let indexQues = 0;
 
     const questions = data.questions.sort(() => Math.random() - 0.5);
-    console.log(questions);
+
+    countQuesElem.innerHTML = questions.length;
+    knewQuesElem.innerHTML = 0;
+    leftQuesElem.innerHTML = questions.length;
+
     nextQues(questions[indexQues]);
 
     function nextQues(ques) {
@@ -152,8 +164,12 @@ unit1Promise
             .replace(/[\s.,%]/g, "")
         ) {
           console.log("ПРАВИЛЬНО");
+
           success += 1;
           questions.splice(indexQues, 1);
+
+          knewQuesElem.innerHTML = Number(knewQuesElem.innerHTML) + 1;
+          leftQuesElem.innerHTML = questions.length;
 
           successElem.classList.remove("hide");
 
@@ -161,6 +177,7 @@ unit1Promise
           console.log(" questions", questions);
         } else {
           console.log("НЕ ПРАВИЛЬНО");
+
           errorElem.classList.remove("hide");
           mistakes += 1;
 
