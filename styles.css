@@ -8,6 +8,28 @@ html {
 .main__wrapper {
 }
 
+.statistic-panel {
+  width: 450px;
+  height: auto;
+  margin: 0 auto;
+  font-size: 0.6rem;
+  line-height: 1rem;
+  border-bottom: 1px dotted blue;
+  margin-bottom: 20px;
+}
+
+.statistic-panel .count-title {
+  color: rgb(45, 45, 255);
+  padding: 0 5px;
+}
+
+.statistic-panel .count-stat {
+  font-weight: bold;
+  padding: 0 5px;
+  color: rgb(98, 202, 0);
+  border: 1px dotted rgb(123, 255, 0);
+}
+
 .description {
   width: 450px;
   height: auto;
@@ -29,8 +51,8 @@ html {
 .board {
   position: relative;
   width: 450px;
-  height: 300px;
-
+  height: 400px;
+  margin: 10px;
   margin: 0 auto;
 
   padding: 10px;
@@ -127,6 +149,20 @@ html {
   background-color: rgb(175, 0, 15);
 }
 
+.delete-text {
+  display: block;
+  color: rgb(148, 0, 13);
+
+  font-size: 1.2rem;
+}
+
+.right-text {
+  display: block;
+  color: rgb(0, 155, 2);
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
 .orange {
   background-color: rgb(255, 72, 0);
   border: 1px solid rgb(201, 57, 1);
@@ -153,6 +189,12 @@ html {
 
 .yellow {
   background-color: rgba(255, 217, 0, 0.87);
+  border: 1px solid rgba(211, 180, 5, 0.87);
+  color: white;
+}
+
+.orange-green {
+  background: linear-gradient(to right, rgb(255, 72, 0), rgb(0, 255, 21));
   border: 1px solid rgba(211, 180, 5, 0.87);
   color: white;
 }
