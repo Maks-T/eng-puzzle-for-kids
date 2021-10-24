@@ -12,15 +12,22 @@ html {
   width: 450px;
   height: auto;
   margin: 0 auto;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   line-height: 1rem;
   border-bottom: 1px dotted blue;
   margin-bottom: 20px;
 }
 
-.statistic-panel span {
+.statistic-panel .count-title {
   color: rgb(45, 45, 255);
-  margin-right: 5px;
+  padding: 0 5px;
+}
+
+.statistic-panel .count-stat {
+  font-weight: bold;
+  padding: 0 5px;
+  color: rgb(98, 202, 0);
+  border: 1px dotted rgb(123, 255, 0);
 }
 
 .description {
@@ -140,6 +147,20 @@ html {
 .error {
   border: 2px solid rgb(148, 0, 13);
   background-color: rgb(175, 0, 15);
+}
+
+.delete-text {
+  display: block;
+  color: rgb(148, 0, 13);
+
+  font-size: 1.2rem;
+}
+
+.right-text {
+  display: block;
+  color: rgb(0, 155, 2);
+  font-size: 1.2rem;
+  font-weight: bold;
 }
 
 .orange {

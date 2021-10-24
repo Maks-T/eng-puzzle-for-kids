@@ -1,268 +1,476 @@
-const boardElem = document.querySelector(".board");
+class Sounds {
+  constructor() {
+    this.audioWin = new Audio("./assets/sounds/Slugfest_game_won_01.ogg");
+    this.audioClick = new Audio("./assets/sounds/Menu_click_08.ogg");
+    this.audioSuccess = new Audio("./assets/sounds/succes.wav");
+    this.audioMistakes = new Audio("./assets/sounds/mistake.wav");
+  }
+  win() {
+    this.audioWin.play();
+  }
 
-const btnCheck = document.querySelector(".btn-check");
-const btnNext = document.querySelector(".btn-next");
-const sentence = document.querySelector(".sentence");
+  click() {
+    this.audioClick.play();
+  }
 
-const countQuesElem = document.querySelector("#count-ques");
-const knewQuesElem = document.querySelector("#knew-ques");
-const leftQuesElem = document.querySelector("#left-ques");
+  success() {
+    this.audioSuccess.play();
+  }
 
-let mistakes = 0;
-let success = 0;
-/*
-let countQues = 0;
-let knewQues = 0;
-let leftQues = 0;*/
+  mistakes() {
+    this.audioMistakes.play();
+  }
+}
 
-const unit1Promise = fetch("unit1.json");
+class AppHTML {
+  constructor(classContainer) {
+    this.container = document.querySelector(classContainer);
+  }
 
-unit1Promise
-  .then((response) => {
-    return response.json();
-  })
-  .then((data) => {
-    let indexQues = 0;
+  run() {
+    this.renderElements();
+  }
 
-    const questions = data.questions.sort(() => Math.random() - 0.5);
+  renderElements() {
+    this.container.innerHTML = "";
+    this.createElements();
 
-    countQuesElem.innerHTML = questions.length;
-    knewQuesElem.innerHTML = 0;
-    leftQuesElem.innerHTML = questions.length;
+    this.container.append(
+      this.elemStatisticPanel,
+      this.elemDescription,
+      this.elemSentence,
+      this.elemBoard,
+      this.elemPanelBtn
+    );
+  }
 
-    nextQues(questions[indexQues]);
+  createElements() {
+    this.createElementStatistic();
 
-    function nextQues(ques) {
-      boardElem.innerHTML = "";
-      const successElem = document.createElement("div");
+    this.elemDescription = this.createElement(
+      "p",
+      ["description"],
+      "Переведи предложение"
+    );
 
-      successElem.classList.add("success");
-      successElem.classList.add("hide");
+    this.elemSentence = this.createElement("p", ["sentence"], "empty");
 
-      successElem.innerHTML = "Правильно!";
-      boardElem.appendChild(successElem);
+    this.elemBoard = this.createElement("div", ["board"], "");
 
-      const errorElem = document.createElement("div");
+    this.elemBtnCheck = this.createElement(
+      "button",
+      ["btn-check"],
+      "Проверить"
+    );
 
-      errorElem.classList.add("error");
-      errorElem.classList.add("hide");
+    this.elemBtnNext = this.createElement(
+      "button",
+      ["btn-next", "hide"],
+      "Следующий"
+    );
 
-      errorElem.innerHTML = "Ошибка!";
-      boardElem.appendChild(errorElem);
+    this.elemPanelBtn = this.createElement("div", ["panel-btn"], "");
 
-      sentence.innerHTML = ques.ru;
-      let words = (ques.en + " " + ques.addWord).split(" ");
-      words = words.sort(() => Math.random() - 0.5);
+    this.elemPanelBtn.append(this.elemBtnCheck, this.elemBtnNext);
 
-      words.forEach((word) => {
-        const wordElem = document.createElement("div");
-        wordElem.classList.add("word");
-        wordElem.classList.add(getColorClass(word));
+    this.elemSuccessMessage = this.createElement(
+      "div",
+      ["success"],
+      "Правильно"
+    );
 
-        wordElem.innerHTML = word;
-        boardElem.appendChild(wordElem);
-      });
+    this.elemErrorMessage = this.createElement("div", ["error"], "Неправильно");
 
-      const wordElems = document.querySelectorAll(".word");
+    this.elemDelText = this.createElement("s", ["delete-text"], "");
 
-      const gap = 10;
-      const boardX = boardElem.clientWidth;
-      const boardY = boardElem.clientHeight;
+    this.elemRightText = this.createElement("div", ["right-text"], "");
+  }
 
-      let curElems = [];
+  createElementStatistic() {
+    this.elemStatisticPanel = this.createElement(
+      "div",
+      ["statistic-panel"],
+      ""
+    );
 
-      let curElemX = gap;
-      let curElemY = boardY / 2;
+    const elemCountQuesTitle = this.createElement(
+      "span",
+      ["count-title"],
+      "Всего вопросов:"
+    );
 
-      let curSelectElemX = gap;
-      let curSelectElemY = gap;
+    this.elemCountQues = this.createElement(
+      "span",
+      ["count-stat", "count-ques"],
+      ""
+    );
 
-      wordElems.forEach((elem) => {
-        if (curElemX + elem.clientWidth > boardX) {
-          curElemX = gap;
-          curElemY += elem.clientHeight + gap * 2;
-        }
+    const elemKnewQuesTitle = this.createElement(
+      "span",
+      ["count-title"],
+      "Изучено:"
+    );
 
-        elem.dataset.startX = elem.style.left = curElemX;
-        elem.dataset.startY = elem.style.top = curElemY;
+    this.elemKnewQues = this.createElement(
+      "span",
+      ["count-stat", "knew-ques"],
+      "0"
+    );
 
-        curElemX = curElemX + elem.clientWidth + gap;
-      });
+    const elemLeftQuesTitle = this.createElement(
+      "span",
+      ["count-title"],
+      "Осталось изучить:"
+    );
 
-      const handlerBoardElem = (event) => {
-        if (event.target.classList.contains("word")) {
-          const elem = event.target;
+    this.elemLeftQues = this.createElement(
+      "span",
+      ["count-stat", "left-ques"],
+      ""
+    );
 
-          if (curSelectElemX + elem.clientWidth > boardX) {
-            curSelectElemX = gap;
-            curSelectElemY += elem.clientHeight + gap * 2;
+    this.elemStatisticPanel.append(
+      elemCountQuesTitle,
+      this.elemCountQues,
+      elemKnewQuesTitle,
+      this.elemKnewQues,
+      elemLeftQuesTitle,
+      this.elemLeftQues
+    );
+  }
+
+  createElement(tag, classList, innerHTML) {
+    const elem = document.createElement(tag);
+
+    classList.forEach((className) => {
+      elem.classList.add(className);
+    });
+
+    elem.innerHTML = innerHTML;
+
+    return elem;
+  }
+
+  showSuccesMessage() {
+    this.elemBoard.append(this.elemSuccessMessage);
+  }
+
+  showErrorMessage() {
+    this.elemBoard.append(this.elemErrorMessage);
+  }
+
+  showBtnCheck() {
+    this.elemBtnCheck.classList.remove("hide");
+    this.elemBtnNext.classList.add("hide");
+  }
+
+  showBtnNext() {
+    this.elemBtnNext.classList.remove("hide");
+    this.elemBtnCheck.classList.add("hide");
+  }
+
+  showRightText(text) {
+    this.elemRightText.innerHTML = text;
+    this.elemBoard.append(this.elemRightText);
+  }
+
+  showDelText(text) {
+    this.elemDelText.innerHTML = text;
+    this.elemBoard.append(this.elemDelText);
+  }
+}
+
+class AppUnit {
+  constructor() {}
+
+  async loadUnit(unitName) {
+    const unitResponse = await fetch(unitName);
+
+    const unitData = await unitResponse.json();
+    this.questions = unitData.questions.sort(() => Math.random() - 0.5);
+
+    return unitData;
+  }
+}
+
+class App {
+  mistakes = 0;
+  success = 0;
+  indexQues = 0;
+  wordElems = [];
+  selectedElems = [];
+  sounds = new Sounds();
+
+  constructor(className) {
+    this.appHTML = new AppHTML(className);
+    this.appUnit = new AppUnit();
+  }
+
+  async run() {
+    this.appHTML.run();
+    this.unitData = await this.appUnit.loadUnit("unit1.json");
+
+    this.questions = this.appUnit.questions;
+    this.appHTML.elemCountQues.innerHTML = this.questions.length;
+    this.appHTML.elemLeftQues.innerHTML = this.questions.length;
+
+    this.loadQues();
+  }
+
+  loadQues() {
+    console.log("this.questions", this.questions);
+    this.ques = this.questions[this.indexQues];
+    console.log("this.indexQues", this.indexQues);
+    console.log(" this.ques", this.ques);
+
+    this.appHTML.elemSentence.innerHTML = this.ques.ru;
+    this.renderElementsWord();
+    this.addEventsToElements();
+  }
+
+  nextQues() {
+    this.wordElems = [];
+    this.selectedElems = [];
+    this.removeEventsToElements;
+    this.loadQues();
+  }
+
+  renderElementsWord() {
+    this.appHTML.elemBoard.innerHTML = "";
+
+    let words = (this.ques.en + " " + this.ques.addWord).split(" ");
+    words = words.sort(() => Math.random() - 0.5);
+
+    words.forEach((word) => {
+      const wordElem = document.createElement("div");
+      wordElem.classList.add("word");
+      wordElem.classList.add(this.getColorClass(word));
+
+      wordElem.innerHTML = word;
+      this.wordElems.push(wordElem);
+      this.appHTML.elemBoard.append(wordElem);
+    });
+
+    const gap = 10;
+
+    const boardX = this.appHTML.elemBoard.clientWidth;
+    const boardY = this.appHTML.elemBoard.clientHeight;
+
+    let coordElemX = gap;
+    let coordElemY = boardY / 2;
+
+    this.wordElems.forEach((elem) => {
+      if (coordElemX + elem.clientWidth > boardX) {
+        coordElemX = gap;
+        coordElemY += elem.clientHeight + gap * 2;
+      }
+
+      elem.dataset.startX = elem.style.left = coordElemX;
+      elem.dataset.startY = elem.style.top = coordElemY;
+
+      coordElemX = coordElemX + elem.clientWidth + gap;
+    });
+  }
+
+  addEventsToElements() {
+    this.appHTML.elemBoard.addEventListener("click", this.handlerElementBoard);
+
+    this.appHTML.elemBtnCheck.addEventListener(
+      "click",
+      this.handlerElementBtnCheck
+    );
+
+    this.appHTML.elemBtnNext.addEventListener(
+      "click",
+      this.handlerElementBtnNext
+    );
+  }
+
+  removeEventsToElements() {
+    this.appHTML.elemBoard.removeEventListener(
+      "click",
+      this.handlerElementBoard
+    );
+
+    this.appHTML.elemBtnCheck.removeEventListener(
+      "click",
+      this.handlerElementBtnCheck
+    );
+
+    this.appHTML.elemBtnNext.removeEventListener(
+      "click",
+      this.handlerElementBtnNext
+    );
+  }
+
+  handlerElementBoard = (event) => {
+    const elem = event.target;
+
+    const gap = 10;
+
+    const boardX = this.appHTML.elemBoard.clientWidth;
+
+    let coordSelectElemX = gap;
+    let coordSelectElemY = gap;
+
+    if (this.selectedElems.length) {
+      coordSelectElemX =
+        parseInt(this.selectedElems[this.selectedElems.length - 1].style.left) +
+        parseInt(
+          this.selectedElems[this.selectedElems.length - 1].clientWidth
+        ) +
+        gap;
+
+      coordSelectElemY = parseInt(
+        this.selectedElems[this.selectedElems.length - 1].style.top
+      );
+    }
+
+    if (event.target.classList.contains("word")) {
+      if (coordSelectElemX + elem.clientWidth > boardX) {
+        coordSelectElemX = gap;
+        coordSelectElemY =
+          parseInt(
+            this.selectedElems[this.selectedElems.length - 1].style.top
+          ) +
+          elem.clientHeight +
+          gap;
+      }
+
+      elem.style.left = coordSelectElemX;
+      elem.style.top = coordSelectElemY;
+
+      this.selectedElems.push(elem);
+
+      elem.classList.remove("word");
+      elem.classList.add("word_active");
+
+      coordSelectElemX = elem.clientWidth + gap;
+
+      this.sounds.click();
+    } else if (event.target.classList.contains("word_active")) {
+      const elem = event.target;
+
+      coordSelectElemX = gap;
+      coordSelectElemY = gap;
+
+      this.selectedElems = this.selectedElems
+        .filter((el) => {
+          return elem !== el;
+        })
+        .map((elem) => {
+          if (coordSelectElemX + elem.clientWidth > boardX) {
+            coordSelectElemX = gap;
+            coordSelectElemY += elem.clientHeight + gap * 2;
           }
 
-          elem.style.left = curSelectElemX;
-          elem.style.top = curSelectElemY;
+          elem.style.left = coordSelectElemX;
+          elem.style.top = coordSelectElemY;
 
-          //elem.dataset.index = curElems.length;
-          curElems.push(elem);
+          coordSelectElemX += elem.clientWidth + gap;
 
-          console.log("curElems", curElems);
+          return elem;
+        });
 
-          elem.classList.remove("word");
-          elem.classList.add("word_active");
+      elem.style.left = elem.dataset.startX;
+      elem.style.top = elem.dataset.startY;
 
-          curSelectElemX += elem.clientWidth + gap;
+      elem.classList.remove("word_active");
+      elem.classList.add("word");
+    }
+  };
 
-          Sounds.click();
-        } else if (event.target.classList.contains("word_active")) {
-          const elem = event.target;
+  handlerElementBtnCheck = (event) => {
+    const curWord = this.selectedElems.reduce((text, elem) => {
+      return text + elem.innerHTML + " ";
+    }, "");
 
-          curSelectElemX = gap;
-          curSelectElemY = gap;
+    if (
+      curWord
+        .trim()
+        .toLowerCase()
+        .replace(/[\s.,%]/g, "") ==
+      this.ques.en
+        .trim()
+        .toLowerCase()
+        .replace(/[\s.,%]/g, "")
+    ) {
+      console.log("ПРАВИЛЬНО");
 
-          curElems = curElems
-            .filter((el) => {
-              return elem !== el;
-            })
-            .map((elem) => {
-              if (curSelectElemX + elem.clientWidth > boardX) {
-                curSelectElemX = gap;
-                curSelectElemY += elem.clientHeight + gap * 2;
-              }
+      this.success += 1;
 
-              elem.style.left = curSelectElemX;
-              elem.style.top = curSelectElemY;
+      this.appHTML.elemKnewQues.innerHTML =
+        Number(this.appHTML.elemKnewQues.innerHTML) + 1;
 
-              curSelectElemX += elem.clientWidth + gap;
+      this.appHTML.elemBoard.innerHTML = "";
+      this.appHTML.showRightText(this.ques.en);
+      this.appHTML.showSuccesMessage();
 
-              return elem;
-            });
+      this.questions.splice(this.indexQues, 1);
+      this.appHTML.elemLeftQues.innerHTML = this.questions.length;
+      if (this.indexQues > this.questions.length - 1) {
+        this.indexQues = 0;
+      }
 
-          console.log(curElems);
+      this.sounds.success();
+    } else {
+      console.log("НЕ ПРАВИЛЬНО");
 
-          elem.style.left = elem.dataset.startX;
-          elem.style.top = elem.dataset.startY;
+      this.appHTML.elemBoard.innerHTML = "";
+      this.appHTML.showDelText(curWord);
+      this.appHTML.showRightText(this.ques.en);
+      this.appHTML.showErrorMessage();
+      this.mistakes += 1;
 
-          elem.classList.remove("word_active");
-          elem.classList.add("word");
-        }
-      };
+      this.indexQues += 1;
 
-      boardElem.addEventListener("click", handlerBoardElem);
+      if (this.indexQues > this.questions.length - 1) {
+        this.indexQues = 0;
+      }
 
-      const hadlerBtnCheck = (event) => {
-        const curWord = curElems.reduce((text, elem) => {
-          return text + elem.innerHTML;
-        }, "");
+      this.sounds.mistakes();
+    }
 
-        if (
+    this.appHTML.showBtnNext();
+  };
+
+  handlerElementBtnNext = (event) => {
+    this.appHTML.showBtnCheck();
+
+    if (this.questions.length) {
+      this.nextQues();
+    } else {
+      this.appHTML.elemBoard.innerHTML = `Вы все изучили! 
+          у вас ${this.mistakes} ошибок
+          и ${this.success} правильных ответов
+          `;
+      this.sounds.win();
+      this.appHTML.elemPanelBtn.innerHTML = "";
+    }
+  };
+
+  getColorClass(curWord) {
+    const objColor = this.unitData.colors.find((color) => {
+      return color.words.some(
+        (word) =>
+          word
+            .trim()
+            .toLowerCase()
+            .replace(/[\s.,%]/g, "") ===
           curWord
             .trim()
             .toLowerCase()
-            .replace(/[\s.,%]/g, "") ==
-          ques.en
-            .trim()
-            .toLowerCase()
             .replace(/[\s.,%]/g, "")
-        ) {
-          console.log("ПРАВИЛЬНО");
+      );
+    });
 
-          success += 1;
-          questions.splice(indexQues, 1);
-
-          knewQuesElem.innerHTML = Number(knewQuesElem.innerHTML) + 1;
-          leftQuesElem.innerHTML = questions.length;
-
-          successElem.classList.remove("hide");
-
-          Sounds.success();
-          console.log(" questions", questions);
-        } else {
-          console.log("НЕ ПРАВИЛЬНО");
-
-          errorElem.classList.remove("hide");
-          mistakes += 1;
-
-          indexQues += 1;
-          if (indexQues > questions.length - 1) {
-            indexQues = 0;
-          }
-
-          Sounds.mistakes();
-          console.log(" questions", questions);
-        }
-
-        event.target.classList.add("hide");
-        btnNext.classList.remove("hide");
-
-        console.log(curWord);
-
-        boardElem.removeEventListener("click", handlerBoardElem);
-        btnCheck.removeEventListener("click", hadlerBtnCheck);
-      };
-
-      btnCheck.addEventListener("click", hadlerBtnCheck);
-
-      const handlerBtnNext = (event) => {
-        event.target.classList.add("hide");
-        btnCheck.classList.remove("hide");
-        successElem.classList.add("hide");
-        errorElem.classList.add("hide");
-
-        if (questions.length) {
-          nextQues(questions[indexQues]);
-        } else {
-          boardElem.innerHTML = `Вы все изучили! 
-          у вас ${mistakes} ошибок
-          и ${success} правильных ответов
-          `;
-          Sounds.win();
-        }
-
-        btnNext.removeEventListener("click", handlerBtnNext);
-      };
-
-      btnNext.addEventListener("click", handlerBtnNext);
-    }
-
-    function getColorClass(curWord) {
-      const objColor = data.colors.find((color) => {
-        return color.words.some(
-          (word) =>
-            word
-              .trim()
-              .toLowerCase()
-              .replace(/[\s.,%]/g, "") ===
-            curWord
-              .trim()
-              .toLowerCase()
-              .replace(/[\s.,%]/g, "")
-        );
-      });
-
-      if (objColor) return objColor.color;
-      return "white";
-    }
-  });
-
-//SOUNDS
-
-class Sounds {
-  static win() {
-    this.audio = new Audio("./assets/sounds/Slugfest_game_won_01.ogg");
-    this.audio.play();
-  }
-
-  static click() {
-    this.audio = new Audio("./assets/sounds/Menu_click_08.ogg");
-    this.audio.play();
-  }
-
-  static success() {
-    this.audio = new Audio("./assets/sounds/succes.wav");
-    this.audio.play();
-  }
-
-  static mistakes() {
-    this.audio = new Audio("./assets/sounds/mistake.wav");
-    this.audio.play();
+    if (objColor) return objColor.color;
+    return "white";
   }
 }
+
+const app = new App(".main__wrapper");
+
+window.onload = () => {
+  app.run();
+};
