@@ -1,0 +1,115 @@
+﻿{
+  "name": "Unit 2",
+  "questions": [
+    {
+      "ru": "У меня есть новый телефон.",
+      "en": "I have got a new phone.",
+      "addWord": "has house. We She He"
+    },
+    {
+      "ru": "He has got a sister.",
+      "en": "У него есть сестра.",
+      "addWord": "is am has brother She"
+    },
+    {
+      "ru": "У них голубые глаза.",
+      "en": "They have got blue eyes.",
+      "addWord": "nose is am has He She"
+    },
+    {
+      "ru": "У меня длинные волосы.",
+      "en": "I've got long hair.",
+      "addWord": "She's He's eyes"
+    },
+    {
+      "ru": "У них нет собаки.",
+      "en": "They have not got a dog.",
+      "addWord": "are that am has cat the"
+    },
+    {
+      "ru": "У нее нет велосипеда.",
+      "en": "She has not got a bike. ",
+      "addWord": "are bus am have cat the"
+    },
+    {
+      "ru": "У тебя есть кошка?",
+      "en": "Have you got a cat? ",
+      "addWord": "are bus is have fish have"
+    },
+    {
+      "ru": "У нее есть какие-нибудь домашние животные?",
+      "en": "Has she got any pets? ",
+      "addWord": "am He is It Have are bags you"
+    },
+    {
+      "ru": "Какого цвета у него глаза?",
+      "en": "What colour eyes have he got?",
+      "addWord": "am you is It clowns Has was"
+    },
+    {
+      "ru": "У тебя есть ручка?",
+      "en": "Have you got a pen?",
+      "addWord": "Has he the glass she were"
+    },
+    {
+      "ru": "Has she a brother?",
+      "en": "У нее есть брат?",
+      "addWord": "am He have are sister were father"
+    },
+    {
+      "ru": "У них есть дом.",
+      "en": "They've got a house.",
+      "addWord": "they're she's his her"
+    },
+    {
+      "ru": "У тебя есть книга.",
+      "en": "You've got a book.",
+      "addWord": "You're she sofa"
+    }
+,
+    {
+      "ru": "У нее есть мечта",
+      "en": "She's got a dream.",
+      "addWord": "He have they sleep were"
+    }
+,
+    {
+      "ru": "У твоих родителей есть машина?",
+      "en": "Have your parents got a car?",
+      "addWord": "Has grandma you they the bus"
+    }
+  ],
+  "colors": [
+    {
+      "color": "green",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "orange",
+      "words": [
+        "I",
+        "She",
+        "He",
+        "They",
+        "It",
+        "Those",
+        "This",
+        "He's",
+        "She's",
+        "I'm"
+      ]
+    },
+    {
+      "color": "blue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "purple",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "yellow",
+      "words": ["a", "the"]
+    }
+  ]
+}
