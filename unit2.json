@@ -1,0 +1,160 @@
+{
+  "name": "Unit 2",
+  "questions": [
+    {
+      "ru": "У меня есть новый телефон.",
+      "en": "I have got a new phone.",
+      "addWord": "has house. We She He"
+    },
+    {
+      "ru": "У него есть сестра.",
+      "en": "He has got a sister.",
+      "addWord": "is am has brother She"
+    },
+    {
+      "ru": "У них голубые глаза.",
+      "en": "They have got blue eyes.",
+      "addWord": "nose is am has He She"
+    },
+    {
+      "ru": "У меня длинные волосы.",
+      "en": "I've got long hair.",
+      "addWord": "She's He's eyes"
+    },
+    {
+      "ru": "У них нет собаки.",
+      "en": "They haven't got a dog.",
+      "addWord": "are that am has cat the"
+    },
+    {
+      "ru": "У нее нет велосипеда.",
+      "en": "She has not got a bike.",
+      "addWord": "are bus am have cat the"
+    },
+    {
+      "ru": "У тебя есть кошка?",
+      "en": "Have you got a cat?",
+      "addWord": "are bus is fish has"
+    },
+    {
+      "ru": "У нее есть какие-нибудь домашние животные?",
+      "en": "Has she got any pets?",
+      "addWord": "am He is It Have are bags you"
+    },
+    {
+      "ru": "У нее нет зонтика.",
+      "en": "She hasn't got an umbrella.",
+      "addWord": "am you is It rain Has was"
+    },
+    {
+      "ru": "У тебя есть ручка?",
+      "en": "Have you got a pen?",
+      "addWord": "Has he the glass she were"
+    },
+    {
+      "ru": "У нее есть брат?",
+      "en": "Has she got a brother?",
+      "addWord": "am He have are sister were father"
+    },
+    {
+      "ru": "У них есть дом.",
+      "en": "They've got a house.",
+      "addWord": "they're she's his her"
+    },
+    {
+      "ru": "У тебя есть книга.",
+      "en": "You've got a book.",
+      "addWord": "You're she sofa"
+    },
+    {
+      "ru": "У нее есть мечта",
+      "en": "She's got a dream.",
+      "addWord": "He have they sleep were"
+    },
+    {
+      "ru": "У твоих родителей есть машина?",
+      "en": "Have your parents got a car?",
+      "addWord": "Has grandma you they the bus"
+    }
+  ],
+  "colors": [
+    {
+      "color": "limeGreen",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "forestGreen",
+      "words": ["have", "has", "were", "was"]
+    },
+    {
+      "color": "darkCyan",
+      "words": ["not"]
+    },
+    {
+      "color": "chocolate",
+      "words": ["got"]
+    },
+
+    {
+      "color": "orangeRed",
+      "words": ["you", "I", "She", "He", "They", "We", "It", "Those", "This"]
+    },
+    {
+      "color": "dodgerBlue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "darkOrchid",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "gold",
+      "words": ["a", "an", "the"]
+    },
+    {
+      "color": "coral",
+      "words": [
+        "pen",
+        "new",
+        "phone",
+        "house",
+        "sister",
+        "brother",
+        "eyes.",
+        "nose",
+        "long",
+        "hair",
+        "dog",
+        "bike",
+        "fish",
+        "pets",
+        "bags",
+        "bags",
+        "bags",
+        "bags",
+        "clowns",
+        "glass",
+        "father",
+        "book",
+        "sofa",
+        "dream",
+        "sleep",
+        "cat",
+        "bus",
+        "pets"
+      ]
+    },
+    {
+      "color": "orangeRed-limeGreen",
+      "words": ["I'm"]
+    },
+    {
+      "color": "orangeRed-forestGreen",
+      "words": ["I've", "He's", "She's", "They've", "you've"]
+    },
+    {
+      "color": "forestGreen-darkCyan",
+      "words": ["hasn't", "haven't"]
+    }
+  ]
+}
