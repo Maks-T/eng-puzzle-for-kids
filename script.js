@@ -276,7 +276,8 @@ class App {
       console.log("window.location.host", window.location.host);
       console.log("location.pathname", location.pathname);
 
-      itemMenu.href = "./?id=" + unitInfo.id;
+      itemMenu.href =
+        window.location.origin + location.pathname + "?id=" + unitInfo.id;
       itemMenu.innerHTML = unitInfo.name;
       itemMenu.classList.add("item-menu");
 
