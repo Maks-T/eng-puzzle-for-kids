@@ -1,5 +1,5 @@
 {
-  "name": "Unit 1",
+  "name": "Unit 1: Глагол to be: IS, AM, ARE",
   "questions": [
     {
       "ru": "Она моя мама.",
@@ -69,27 +69,27 @@
   ],
   "colors": [
     {
-      "color": "green",
+      "color": "limeGreen",
       "words": ["is", "are", "am"]
     },
     {
-      "color": "orange",
+      "color": "orangeRed",
       "words": ["I", "She", "He", "They", "It", "Those", "This"]
     },
     {
-      "color": "blue",
+      "color": "dodgerBlue",
       "words": ["her", "his", "my", "your", "her"]
     },
     {
-      "color": "purple",
+      "color": "darkOrchid",
       "words": ["mum", "girls", "happy", "glad"]
     },
     {
-      "color": "yellow",
+      "color": "gold",
       "words": ["a", "the"]
     },
     {
-      "color": "orange-green",
+      "color": "orangeRed-limeGreen",
       "words": ["He's", "She's", "I'm"]
     }
   ]

@@ -36,6 +36,7 @@ class AppHTML {
     this.createElements();
 
     this.container.append(
+      //this.elemTitleUnit,
       this.elemStatisticPanel,
       this.elemDescription,
       this.elemSentence,
@@ -45,6 +46,8 @@ class AppHTML {
   }
 
   createElements() {
+    this.elemTitleUnit = this.createElement("h1", ["title-unit"], "");
+
     this.createElementStatistic();
 
     this.elemDescription = this.createElement(
@@ -87,11 +90,7 @@ class AppHTML {
   }
 
   createElementStatistic() {
-    this.elemStatisticPanel = this.createElement(
-      "div",
-      ["statistic-panel"],
-      ""
-    );
+    this.elemStatisticPanel = this.createElement("h1", ["statistic-panel"], "");
 
     const elemCountQuesTitle = this.createElement(
       "span",
@@ -208,7 +207,7 @@ class App {
 
   async run() {
     this.appHTML.run();
-    this.unitData = await this.appUnit.loadUnit("unit2.json");
+    this.unitData = await this.appUnit.loadUnit("unit1.json");
 
     this.questions = this.appUnit.questions;
     this.appHTML.elemCountQues.innerHTML = this.questions.length;
@@ -218,10 +217,8 @@ class App {
   }
 
   loadQues() {
-    console.log("this.questions", this.questions);
+    this.appHTML.elemTitleUnit.innerHTML = this.unitData.name;
     this.ques = this.questions[this.indexQues];
-    console.log("this.indexQues", this.indexQues);
-    console.log(" this.ques", this.ques);
 
     this.appHTML.elemSentence.innerHTML = this.ques.ru;
     this.renderElementsWord();
@@ -474,3 +471,8 @@ const app = new App(".main__wrapper");
 window.onload = () => {
   app.run();
 };
+
+function clickMenu() {
+  const menuBody = document.querySelector(".menu-body ");
+  menuBody.classList.toggle("hide");
+}

@@ -1,0 +1,6 @@
+{
+  "units": [
+    { "id": "unit1", "url": "unit1.json" },
+    { "id": "unit2", "url": "unit2.json" }
+  ]
+}
