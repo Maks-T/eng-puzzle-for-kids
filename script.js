@@ -272,7 +272,7 @@ class App {
 
     this.unitsInfo.units.forEach((unitInfo) => {
       const itemMenu = document.createElement("a");
-      itemMenu.href = "/?id=" + unitInfo.id;
+      itemMenu.href = "./?id=" + unitInfo.id;
       itemMenu.innerHTML = unitInfo.name;
       itemMenu.classList.add("item-menu");
 
