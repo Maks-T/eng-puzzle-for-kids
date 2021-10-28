@@ -292,19 +292,51 @@ html {
   border: 1px solid rgb(2, 121, 121);
   color: white;
 }
-.orangeRed-limeGreen {
-  background: linear-gradient(to right, orangeRed, limeGreen);
-  border: 1px solid rgba(211, 180, 5, 0.87);
+
+.rosybrown {
+  background-color: rosybrown;
+  border: 1px solid rgb(167, 117, 117);
   color: white;
 }
+
+.darkslategray {
+  background-color: darkslategray;
+  border: 1px solid rgb(3, 94, 94);
+  color: white;
+}
+
+.mediumblue {
+  background-color: mediumblue;
+  border: 1px solid rgb(11, 11, 176);
+  color: white;
+}
+
+.darkkhaki {
+  background-color: darkkhaki;
+  border: 1px solid rgb(164, 159, 88);
+  color: white;
+}
+
+.orangeRed-limeGreen {
+  background: linear-gradient(to right, orangeRed, limeGreen);
+  border: 1px solid rgba(181, 156, 19, 0.87);
+  color: white;
+}
+
 .orangeRed-forestGreen {
   background: linear-gradient(to right, orangeRed, forestGreen);
-  border: 1px solid rgba(211, 180, 5, 0.87);
+  border: 1px solid rgb(27, 111, 27);
   color: white;
 }
 .forestGreen-darkCyan {
   background: linear-gradient(to right, forestGreen, darkCyan);
-  border: 1px solid rgba(211, 180, 5, 0.87);
+  border: 1px solid rgb(5, 118, 118);
+  color: white;
+}
+
+.limeGreen-darkCyan {
+  background: linear-gradient(to right, limeGreen, darkCyan);
+  border: 1px solid rgb(5, 118, 118);
   color: white;
 }
 

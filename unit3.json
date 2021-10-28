@@ -1,0 +1,186 @@
+﻿{
+  "name": "Unit 3: There Is и There Are",
+  "questions": [
+    {
+      "ru": "На столе лежит книга. (Там книга на письменном столе)",
+      "en": "There is a book on the desk.",
+      "addWord": "the are at pen"
+    },
+    {
+      "ru": "На столе лежат книги. (Там книги на письменном столе)",
+      "en": "There are books on the desk.",
+      "addWord": "is at pens sofa"
+    },
+    {
+      "ru": "В холодильнике есть немного молока. (Там в немного молока в холодильнике)",
+      "en": "There is some milk in the fridge.",
+      "addWord": "the are on desk kitchen"
+    },
+    {
+      "ru": "На диване сидят кошки. (Там кошки на диване)",
+      "en": "There are cats on the sofa.",
+      "addWord": "the is at wardrobe"
+    },
+    {
+      "ru": "На стуле сидит кот. (Там кот на стуле)",
+      "en": "There is a cat on the chair.",
+      "addWord": "are bath mirror"
+    },
+    {
+      "ru": "Здесь нет никаких ручек. (Там нет никаких ручек здесь)",
+      "en": "There aren't any pens here.",
+      "addWord": "isn't some bed"
+    },
+    {
+      "ru": "В холодильнике нет никакого сока.(Там нет никакого сока в холодильнике)",
+      "en": "There isn't any juice in the fridge.",
+      "addWord": "are aren't cupboard "
+    },
+    {
+      "ru": "На столе нет карандаша. (Там нет карандаша на столе)",
+      "en": "There isn't a pencil on the table.",
+      "addWord": "aren't in at mirror"
+    },
+    {
+      "ru": "На столе нет никакой лампы. (Там нет никакой лампы на столе)",
+      "en": "There isn't any lamp on the table.",
+      "addWord": "aren't in at armchair"
+    },
+    {
+      "ru": "На улице нет машин. (Там нет машин на улице)",
+      "en": "There aren't cars on the street.",
+      "addWord": "isn't bike house."
+    },
+    {
+      "ru": "У нее есть брат?",
+      "en": "Has she got a brother?",
+      "addWord": "am He have are sister were father"
+    },
+    {
+      "ru": "У них есть дом.",
+      "en": "They've got a house.",
+      "addWord": "they're she's his her"
+    },
+    {
+      "ru": "У тебя есть книга.",
+      "en": "You've got a book.",
+      "addWord": "You're she sofa"
+    },
+    {
+      "ru": "У нее есть мечта",
+      "en": "She's got a dream.",
+      "addWord": "He have they sleep were"
+    },
+    {
+      "ru": "У твоих родителей есть машина?",
+      "en": "Have your parents got a car?",
+      "addWord": "Has grandma you they the bus"
+    }
+  ],
+  "colors": [
+    {
+      "color": "limeGreen",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "forestGreen",
+      "words": ["have", "has", "were", "was"]
+    },
+    {
+      "color": "darkCyan",
+      "words": ["not"]
+    },
+    {
+      "color": "chocolate",
+      "words": ["got"]
+    },
+
+    {
+      "color": "orangeRed",
+      "words": ["you", "I", "She", "He", "They", "We", "It", "Those", "This"]
+    },
+    {
+      "color": "dodgerBlue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "darkOrchid",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "gold",
+      "words": ["a", "an", "the"]
+    },
+{
+      "color": "darkslategray",
+      "words": ["there"]
+    },
+    {
+      "color": "coral",
+      "words": [
+        "pen",
+        "new",
+        "phone",
+        "house",
+        "sister",
+        "brother",
+        "eyes.",
+        "nose",
+        "long",
+        "hair",
+        "dog",
+        "bike",
+        "fish",
+        "pets",
+        "bags",
+        "bags",
+        "bags",
+        "bags",
+        "clowns",
+        "glass",
+        "father",
+        "book",
+        "sofa",
+        "dream",
+        "sleep",
+        "cat",
+        "bus",
+        "pets",
+"pens", "books","lamp","bed",
+"pencils"
+      ]
+    },
+
+{
+      "color": "rosybrown",
+      "words": ["table","sofa","desk","cupboard", "fridge" , "mirror" , "bath" , "chair", "armchair"]
+    },
+{
+      "color": "darkkhaki",
+      "words": ["some","any"]
+    },
+
+{
+      "color": "mediumblue",
+      "words": ["on","in","at","of", "into"]
+    },
+    {
+      "color": "orangeRed-limeGreen",
+      "words": ["I'm"]
+    },
+    {
+      "color": "orangeRed-forestGreen",
+      "words": ["I've", "He's", "She's", "They've", "you've"]
+    },
+    {
+      "color": "forestGreen-darkCyan",
+      "words": ["hasn't", "haven't"]
+    }
+,
+    {
+      "color": "limeGreen-darkCyan",
+      "words": ["aren't", "isn't"]
+    }
+
+  ]
+}

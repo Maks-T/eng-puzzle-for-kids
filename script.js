@@ -207,7 +207,7 @@ class App {
 
   async run() {
     this.appHTML.run();
-    this.unitData = await this.appUnit.loadUnit("unit1.json");
+    this.unitData = await this.appUnit.loadUnit("unit3.json");
 
     this.questions = this.appUnit.questions;
     this.appHTML.elemCountQues.innerHTML = this.questions.length;
