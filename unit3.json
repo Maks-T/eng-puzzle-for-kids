@@ -12,7 +12,7 @@
       "addWord": "is at pens sofa"
     },
     {
-      "ru": "В холодильнике есть немного молока. (Там в немного молока в холодильнике)",
+      "ru": "В холодильнике есть немного молока. (Там немного молока в холодильнике)",
       "en": "There is some milk in the fridge.",
       "addWord": "the are on desk kitchen"
     },
@@ -52,29 +52,29 @@
       "addWord": "isn't bike house."
     },
     {
-      "ru": "У нее есть брат?",
-      "en": "Has she got a brother?",
-      "addWord": "am He have are sister were father"
+      "ru": "На полу есть какие-нибудь кошки? (Есть ли там какие-нибудь кошки?)",
+      "en": "Are there any cats on the floor?",
+      "addWord": "Is table in"
     },
     {
-      "ru": "У них есть дом.",
-      "en": "They've got a house.",
-      "addWord": "they're she's his her"
+      "ru": "Есть ли в парке собаки? (Есть ли тамсобаки в парке?)",
+      "en": "Are there dogs in the park?",
+      "addWord": "IS cats at road"
     },
     {
-      "ru": "У тебя есть книга.",
-      "en": "You've got a book.",
-      "addWord": "You're she sofa"
+      "ru": "В бутылке есть вода? (Есть ли там вода в бутылке?)",
+      "en": "Is there water in the bottle?",
+      "addWord": "Are on juice"
     },
     {
-      "ru": "У нее есть мечта",
-      "en": "She's got a dream.",
-      "addWord": "He have they sleep were"
+      "ru": "В комнате есть мальчики? (Есть ли там в какие-нибудь мальчики в комнате?)",
+      "en": "Are there any boys in the room?",
+      "addWord": "Is girls on"
     },
     {
-      "ru": "У твоих родителей есть машина?",
-      "en": "Have your parents got a car?",
-      "addWord": "Has grandma you they the bus"
+      "ru": "Есть ли в лесу животные? (Есть ли там животные в лесу?)",
+      "en": "Are there animals in the forest?",
+      "addWord": "Is river on bear"
     }
   ],
   "colors": [
@@ -111,7 +111,7 @@
       "color": "gold",
       "words": ["a", "an", "the"]
     },
-{
+    {
       "color": "darkslategray",
       "words": ["there"]
     },
@@ -146,23 +146,41 @@
         "cat",
         "bus",
         "pets",
-"pens", "books","lamp", "cats", "pencil", "milk",
-"pencils"
+        "pens",
+        "books",
+        "lamp",
+        "cats",
+        "pencil",
+        "milk",
+        "pencils"
       ]
     },
 
-{
+    {
       "color": "rosybrown",
-      "words": ["table","sofa","desk","cupboard", "fridge" , "mirror" , "bath" , "chair","bed", "kitchen", "wardrobe",  "armchair"]
+      "words": [
+        "table",
+        "sofa",
+        "desk",
+        "cupboard",
+        "fridge",
+        "mirror",
+        "bath",
+        "chair",
+        "bed",
+        "kitchen",
+        "wardrobe",
+        "armchair"
+      ]
     },
-{
+    {
       "color": "darkkhaki",
-      "words": ["some","any"]
+      "words": ["some", "any"]
     },
 
-{
+    {
       "color": "mediumblue",
-      "words": ["on","in","at","of", "into"]
+      "words": ["on", "in", "at", "of", "into"]
     },
     {
       "color": "orangeRed-limeGreen",
@@ -175,12 +193,10 @@
     {
       "color": "forestGreen-darkCyan",
       "words": ["hasn't", "haven't"]
-    }
-,
+    },
     {
       "color": "limeGreen-darkCyan",
       "words": ["aren't", "isn't"]
     }
-
   ]
 }

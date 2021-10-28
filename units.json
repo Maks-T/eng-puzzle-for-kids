@@ -1,6 +1,15 @@
 {
   "units": [
-    { "id": "unit1", "url": "unit1.json" },
-    { "id": "unit2", "url": "unit2.json" }
+    {
+      "id": "unit1",
+      "url": "unit1.json",
+      "name": "Unit 1: Глагол to be: IS, AM, ARE"
+    },
+    { "id": "unit2", "url": "unit2.json", "name": "Unit 2: Глагол HAVE, HAS" },
+    {
+      "id": "unit3",
+      "url": "unit2.json",
+      "name": "Unit 3: There Is и There Are"
+    }
   ]
 }

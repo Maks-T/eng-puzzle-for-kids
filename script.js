@@ -47,8 +47,6 @@ class AppHTML {
   }
 
   createElements() {
-
-
     this.createElementStatistic();
 
     this.elemDescription = this.createElement(
@@ -139,28 +137,27 @@ class AppHTML {
     );
   }
 
-
   createElementTitle() {
-    this.elemTitleWrapper = this.createElement("div", ["title-unit__wrapper"], "");
+    this.elemTitleWrapper = this.createElement(
+      "div",
+      ["title-unit__wrapper"],
+      ""
+    );
 
+    this.elemMenuBtn = this.createElement("div", ["menu"], "");
 
-  this.elemMenuBtn = this.createElement("div", ["menu"], "");
+    this.elemTitle = this.createElement("div", ["title-unit"], "");
 
-  this.elemTitle = this.createElement("div", ["title-unit"], "");
+    this.elemMenuBody = this.createElement("div", ["menu-body", "hide"], "");
 
-   this.elemMenuBody = this.createElement("div", ["menu-body", "hide"], "");
+    this.elemTitleWrapper.append(
+      this.elemMenuBtn,
+      this.elemTitle,
+      this.elemMenuBody
+    );
 
-
-   this.elemTitleWrapper.append(
-    this.elemMenuBtn,
-    this.elemTitle,
-    this.elemMenuBody
-  );
-
-  this.elemMenuBtn.addEventListener('click', this.showMenuBody);
-}
-
-
+    this.elemMenuBtn.addEventListener("click", this.showMenuBody);
+  }
 
   createElement(tag, classList, innerHTML) {
     const elem = document.createElement(tag);
@@ -203,13 +200,31 @@ class AppHTML {
   }
 
   showMenuBody = () => {
-     this.elemMenuBody.classList.toggle("hide");
-  }
-
+    this.elemMenuBody.classList.toggle("hide");
+  };
 }
 
 class AppUnit {
   constructor() {}
+
+  async loadUnitFromUrl() {
+    const unitNamesData = await this.getUnitsInfo();
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const id = urlParams.get("id");
+
+    let unitInfo;
+
+    if (id) {
+      unitInfo = unitNamesData.units.find((unitInfo) => unitInfo.id === id);
+    } else {
+      unitInfo = unitNamesData.units[0];
+    }
+
+    const unitData = this.loadUnit(unitInfo.url);
+
+    return unitData;
+  }
 
   async loadUnit(unitName) {
     const unitResponse = await fetch(unitName);
@@ -218,6 +233,14 @@ class AppUnit {
     this.questions = unitData.questions.sort(() => Math.random() - 0.5);
 
     return unitData;
+  }
+
+  async getUnitsInfo() {
+    const unitNamesResponse = await fetch("units.json");
+
+    const unitNamesData = await unitNamesResponse.json();
+
+    return unitNamesData;
   }
 }
 
@@ -236,13 +259,25 @@ class App {
 
   async run() {
     this.appHTML.run();
-    this.unitData = await this.appUnit.loadUnit("unit3.json");
+
+    this.unitData = await this.appUnit.loadUnitFromUrl();
 
     this.questions = this.appUnit.questions;
     this.appHTML.elemCountQues.innerHTML = this.questions.length;
     this.appHTML.elemLeftQues.innerHTML = this.questions.length;
 
     this.loadQues();
+
+    this.unitsInfo = await this.appUnit.getUnitsInfo();
+
+    this.unitsInfo.units.forEach((unitInfo) => {
+      const itemMenu = document.createElement("a");
+      itemMenu.href = "/?id=" + unitInfo.id;
+      itemMenu.innerHTML = unitInfo.name;
+      itemMenu.classList.add("item-menu");
+
+      this.appHTML.elemMenuBody.append(itemMenu);
+    });
   }
 
   loadQues() {
@@ -500,4 +535,3 @@ const app = new App(".main__wrapper");
 window.onload = () => {
   app.run();
 };
-

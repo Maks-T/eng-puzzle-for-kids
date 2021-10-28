@@ -85,6 +85,20 @@ html {
   transition: all 1s;
 }
 
+.item-menu {
+  display: block;
+  color: white;
+  padding: 10px 10px;
+}
+
+.item-menu:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.item-menu:active {
+  transform: translate(1px, 1px);
+}
+
 .statistic-panel {
   width: 450px;
   height: auto;
