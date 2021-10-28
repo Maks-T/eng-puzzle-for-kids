@@ -34,7 +34,7 @@
     {
       "ru": "В холодильнике нет никакого сока.(Там нет никакого сока в холодильнике)",
       "en": "There isn't any juice in the fridge.",
-      "addWord": "are aren't cupboard "
+      "addWord": "are aren't cupboard"
     },
     {
       "ru": "На столе нет карандаша. (Там нет карандаша на столе)",
@@ -146,14 +146,14 @@
         "cat",
         "bus",
         "pets",
-"pens", "books","lamp","bed",
+"pens", "books","lamp", "cats", "pencil", "milk",
 "pencils"
       ]
     },
 
 {
       "color": "rosybrown",
-      "words": ["table","sofa","desk","cupboard", "fridge" , "mirror" , "bath" , "chair", "armchair"]
+      "words": ["table","sofa","desk","cupboard", "fridge" , "mirror" , "bath" , "chair","bed", "kitchen", "wardrobe",  "armchair"]
     },
 {
       "color": "darkkhaki",

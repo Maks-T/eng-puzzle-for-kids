@@ -33,10 +33,11 @@ class AppHTML {
 
   renderElements() {
     this.container.innerHTML = "";
+    this.createElementTitle();
     this.createElements();
 
     this.container.append(
-      //this.elemTitleUnit,
+      this.elemTitleWrapper,
       this.elemStatisticPanel,
       this.elemDescription,
       this.elemSentence,
@@ -46,7 +47,7 @@ class AppHTML {
   }
 
   createElements() {
-    this.elemTitleUnit = this.createElement("h1", ["title-unit"], "");
+
 
     this.createElementStatistic();
 
@@ -138,6 +139,29 @@ class AppHTML {
     );
   }
 
+
+  createElementTitle() {
+    this.elemTitleWrapper = this.createElement("div", ["title-unit__wrapper"], "");
+
+
+  this.elemMenuBtn = this.createElement("div", ["menu"], "");
+
+  this.elemTitle = this.createElement("div", ["title-unit"], "");
+
+   this.elemMenuBody = this.createElement("div", ["menu-body", "hide"], "");
+
+
+   this.elemTitleWrapper.append(
+    this.elemMenuBtn,
+    this.elemTitle,
+    this.elemMenuBody
+  );
+
+  this.elemMenuBtn.addEventListener('click', this.showMenuBody);
+}
+
+
+
   createElement(tag, classList, innerHTML) {
     const elem = document.createElement(tag);
 
@@ -177,6 +201,11 @@ class AppHTML {
     this.elemDelText.innerHTML = text;
     this.elemBoard.append(this.elemDelText);
   }
+
+  showMenuBody = () => {
+     this.elemMenuBody.classList.toggle("hide");
+  }
+
 }
 
 class AppUnit {
@@ -217,7 +246,7 @@ class App {
   }
 
   loadQues() {
-    this.appHTML.elemTitleUnit.innerHTML = this.unitData.name;
+    this.appHTML.elemTitle.innerHTML = this.unitData.name;
     this.ques = this.questions[this.indexQues];
 
     this.appHTML.elemSentence.innerHTML = this.ques.ru;
@@ -437,7 +466,7 @@ class App {
     if (this.questions.length) {
       this.nextQues();
     } else {
-      this.appHTML.elemBoard.innerHTML = `Вы все изучили! 
+      this.appHTML.elemBoard.innerHTML = `Вы все изучили!
           у вас ${this.mistakes} ошибок
           и ${this.success} правильных ответов
           `;
@@ -472,7 +501,3 @@ window.onload = () => {
   app.run();
 };
 
-function clickMenu() {
-  const menuBody = document.querySelector(".menu-body ");
-  menuBody.classList.toggle("hide");
-}
