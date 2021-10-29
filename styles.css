@@ -366,8 +366,6 @@ html {
 
 @media (max-width: 920px) {
 
-
-
   .title-unit__wrapper {
     max-width: 100%;
     min-height: 6vh;
@@ -404,7 +402,7 @@ html {
   .board {
 
     max-width: 100%;
-    vheight: 60vh;
+    max-height: 55vh;
 
   }
 
