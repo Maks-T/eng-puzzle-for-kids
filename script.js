@@ -393,7 +393,7 @@ class App {
     }
 
     if (event.target.classList.contains("word")) {
-      if (coordSelectElemX + elem.clientWidth > boardX) {
+      if (coordSelectElemX + elem.clientWidth + gap > boardX) {
         coordSelectElemX = gap;
         coordSelectElemY =
           parseInt(
@@ -425,7 +425,7 @@ class App {
           return elem !== el;
         })
         .map((elem) => {
-          if (coordSelectElemX + elem.clientWidth > boardX) {
+          if (coordSelectElemX + elem.clientWidth + gap > boardX) {
             coordSelectElemX = gap;
             coordSelectElemY += elem.clientHeight + gap * 2;
           }
