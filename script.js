@@ -312,7 +312,7 @@ class App {
       wordElem.classList.add("word");
       wordElem.classList.add(this.getColorClass(word));
 
-      wordElem.innerHTML = word;
+      wordElem.innerHTML = word.replace('+',' ');
       this.wordElems.push(wordElem);
       this.appHTML.elemBoard.append(wordElem);
     });
