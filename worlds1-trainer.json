@@ -1,56 +1,66 @@
 ﻿{
-  "name": "Words: learning part1",
+  "name": "Words 1: learning",
   "questions": [
     {
       "ru": "яблоко",
       "en": "a p p l e",
-      "addWord": "y f j"
+      "addWord": "y f j",
+      "audioEnUrl": "audios/words/apple.mp3"
     },
     {
       "ru": "апельсин",
       "en": "o r a n g e",
-      "addWord": "i y w"
+      "addWord": "i y w",
+      "audioEnUrl": "audios/words/orange.mp3"
     },
     {
       "ru": "груша",
       "en": "p e a r",
-      "addWord": "q r t"
+      "addWord": "q r t",
+      "audioEnUrl": "audios/words/pear.mp3"
     },
     {
       "ru": "виноград",
-      "en": " g r a p e",
-      "addWord": "k l p"
+      "en": " g r a p e s",
+      "addWord": "k l p",
+      "audioEnUrl": "audios/words/grapes.mp3"
     },
     {
       "ru": "стол",
       "en": "t a b l e",
-      "addWord": "c r y"
+      "addWord": "c r y",
+      "audioEnUrl": "audios/words/table.mp3"
     },
     {
       "ru": "стул",
       "en": "c h a i r",
-      "addWord": "a l p"
+      "addWord": "a l p",
+      "audioEnUrl": "audios/words/chair.mp3"
     },
     {
       "ru": "лошадь",
       "en": "h o r s e",
-      "addWord": "x u e i"
+      "addWord": "x u e i",
+      "audioEnUrl": "audios/words/horse.mp3"
     },
 
     {
       "ru": "медведь",
       "en": "b e a r",
-      "addWord": "t h d"
+      "addWord": "t h d",
+      "audioEnUrl": "audios/words/bear.mp3"
     },
     {
       "ru": "кролик",
       "en": "r a b b i t",
-      "addWord": "c j o"
+      "addWord": "c j o",
+      "audioEnUrl": "audios/words/rabbit.mp3"
     },
     {
       "ru": "рыба",
       "en": "f i s h",
-      "addWord": "k e n"
+      "addWord": "k e n",
+      "audioEnUrl": "audios/words/fish.mp3"
     }
   ],
   "colors": []

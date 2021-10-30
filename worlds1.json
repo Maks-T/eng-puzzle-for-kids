@@ -1,56 +1,66 @@
 ﻿{
-  "name": "Words: learning part1",
+  "name": "Words 1: learning",
   "questions": [
     {
       "ru": "яблоко",
       "en": "apple",
-      "addWord": "orange banana grape"
+      "addWord": "orange banana grape",
+      "audioEnUrl": "audios/words/apple.mp3"
     },
     {
       "ru": "апельсин",
       "en": "orange",
-      "addWord": "apple banana grape"
+      "addWord": "apple banana grape",
+      "audioEnUrl": "audios/words/orange.mp3"
     },
     {
       "ru": "груша",
       "en": "pear",
-      "addWord": "apple orange grape"
+      "addWord": "apple orange grape",
+      "audioEnUrl": "audios/words/pear.mp3"
     },
     {
       "ru": "виноград",
-      "en": "grape",
-      "addWord": "apple orange banana"
+      "en": "grapes",
+      "addWord": "apple orange banana",
+      "audioEnUrl": "audios/words/grapes.mp3"
     },
     {
       "ru": "стол",
       "en": "table",
-      "addWord": "chair floor sofa"
+      "addWord": "chair floor sofa",
+      "audioEnUrl": "audios/words/table.mp3"
     },
     {
       "ru": "стул",
       "en": "chair",
-      "addWord": "table floor sofa"
+      "addWord": "table floor sofa",
+      "audioEnUrl": "audios/words/chair.mp3"
     },
     {
       "ru": "лошадь",
       "en": "horse",
-      "addWord": "bear rabbit fish"
+      "addWord": "bear rabbit fish",
+      "audioEnUrl": "audios/words/horse.mp3"
     },
 
     {
       "ru": "медведь",
       "en": "bear",
-      "addWord": "horse rabbit fish"
+      "addWord": "horse rabbit fish",
+      "audioEnUrl": "audios/words/bear.mp3"
     },
     {
       "ru": "кролик",
       "en": "rabbit",
-      "addWord": "horse bear fish"
+      "addWord": "horse bear fish",
+      "audioEnUrl": "audios/words/rabbit.mp3"
     },
     {
       "ru": "рыба",
       "en": "fish",
-      "addWord": "horse bear rabbit"
+      "addWord": "horse bear rabbit",
+      "audioEnUrl": "audios/words/fish.mp3"
     }
   ],
   "colors": []

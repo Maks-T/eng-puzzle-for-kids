@@ -33,7 +33,7 @@ class AppHTML {
 
   renderElements() {
     this.container.innerHTML = "";
-    this.createElementTitle();
+
     this.createElements();
 
     this.container.append(
@@ -48,6 +48,8 @@ class AppHTML {
 
   createElements() {
     this.createElementStatistic();
+    this.createElementTitle();
+    this.createElementAudio();
 
     this.elemDescription = this.createElement(
       "p",
@@ -56,6 +58,7 @@ class AppHTML {
     );
 
     this.elemSentence = this.createElement("p", ["sentence"], "empty");
+    this.elemSentence.append(this.elemAudioWrapper);
 
     this.elemBoard = this.createElement("div", ["board"], "");
 
@@ -159,6 +162,14 @@ class AppHTML {
     this.elemMenuBtn.addEventListener("click", this.showMenuBody);
   }
 
+  createElementAudio() {
+    this.elemAudioWrapper = this.createElement("div", ["audio__wrapper"], "");
+
+    this.elemAudioEn = this.createElement("audio", [], "");
+
+    this.elemAudioWrapper.addEventListener("click", this.playAudioEn);
+  }
+
   createElement(tag, classList, innerHTML) {
     const elem = document.createElement(tag);
 
@@ -201,6 +212,16 @@ class AppHTML {
 
   showMenuBody = () => {
     this.elemMenuBody.classList.toggle("hide");
+  };
+
+  playAudioEn = () => {
+    if (this.elemAudioEn.src) {
+      this.elemAudioEn.play();
+      this.elemAudioWrapper.classList.add("play");
+      setTimeout(() => {
+        this.elemAudioWrapper.classList.remove("play");
+      }, this.elemAudioWrapper.dataset.timeSound);
+    }
   };
 }
 
@@ -290,6 +311,19 @@ class App {
     this.ques = this.questions[this.indexQues];
 
     this.appHTML.elemSentence.innerHTML = this.ques.ru;
+
+    if (this.ques.audioEnUrl) {
+      this.appHTML.elemAudioEn.src =
+        window.location.origin + location.pathname + this.ques.audioEnUrl;
+
+      console.log("elemAudioEn.src", this.appHTML.elemAudioEn.src);
+
+      this.appHTML.elemAudioWrapper.dataset.timeSound =
+        this.ques.en.length * 80;
+    }
+
+    this.appHTML.elemSentence.append(this.appHTML.elemAudioWrapper);
+
     this.renderElementsWord();
     this.addEventsToElements();
   }
@@ -312,7 +346,7 @@ class App {
       wordElem.classList.add("word");
       wordElem.classList.add(this.getColorClass(word));
 
-      wordElem.innerHTML = word.replace('+',' ');
+      wordElem.innerHTML = word.replace("+", " ");
       this.wordElems.push(wordElem);
       this.appHTML.elemBoard.append(wordElem);
     });
@@ -461,6 +495,9 @@ class App {
         .toLowerCase()
         .replace(/[\s.,%]/g, "")
     ) {
+      setTimeout(() => {
+        this.appHTML.playAudioEn();
+      }, 300);
       console.log("ПРАВИЛЬНО");
 
       this.success += 1;
@@ -480,6 +517,10 @@ class App {
 
       this.sounds.success();
     } else {
+      setTimeout(() => {
+        this.appHTML.playAudioEn();
+      }, 400);
+
       console.log("НЕ ПРАВИЛЬНО");
 
       this.appHTML.elemBoard.innerHTML = "";
