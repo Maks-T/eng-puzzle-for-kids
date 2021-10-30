@@ -214,6 +214,7 @@ class AppHTML {
 
   showMenuBody = () => {
     this.elemMenuBody.classList.toggle("hide");
+    this.elemMenuBtn.classList.toggle("menu__opened");
   };
 
   playAudioEn = () => {
