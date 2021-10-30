@@ -489,11 +489,11 @@ class App {
       curWord
         .trim()
         .toLowerCase()
-        .replace(/[\s.,%]/g, "") ==
+        .replace(/[\s.,%?]/g, "") ==
       this.ques.en
         .trim()
         .toLowerCase()
-        .replace(/[\s.,%]/g, "")
+        .replace(/[\s.,%?]/g, "")
     ) {
       setTimeout(() => {
         this.appHTML.playAudioEn();
@@ -563,11 +563,11 @@ class App {
           word
             .trim()
             .toLowerCase()
-            .replace(/[\s.,%]/g, "") ===
+            .replace(/[\s.,%?]/g, "") ===
           curWord
             .trim()
             .toLowerCase()
-            .replace(/[\s.,%]/g, "")
+            .replace(/[\s.,%?]/g, "")
       );
     });
 

@@ -4,77 +4,92 @@
     {
       "ru": "У меня есть новый телефон.",
       "en": "I have got a new phone.",
-      "addWord": "has house. We She He"
+      "addWord": "has house. We She He",
+      "audioEnUrl": "audios/unit2/i_have_got_a_new_phone.mp3"
     },
     {
       "ru": "У него есть сестра.",
       "en": "He has got a sister.",
-      "addWord": "is am has brother She"
+      "addWord": "is am has brother She",
+      "audioEnUrl": "audios/unit2/he_has_got_a_sister.mp3"
     },
     {
       "ru": "У них голубые глаза.",
       "en": "They have got blue eyes.",
-      "addWord": "nose is am has He She"
+      "addWord": "nose is am has He She",
+      "audioEnUrl": "audios/unit2/they_have_got_blue_eyes.mp3"
     },
     {
       "ru": "У меня длинные волосы.",
       "en": "I've got long hair.",
-      "addWord": "She's He's eyes"
+      "addWord": "She's He's eyes",
+      "audioEnUrl": "audios/unit2/i-ve_got_long_hair.mp3"
     },
     {
       "ru": "У них нет собаки.",
       "en": "They haven't got a dog.",
-      "addWord": "are that am has cat the"
+      "addWord": "are that am has cat the",
+      "audioEnUrl": "audios/unit2/they_haven-t_got_a_dog.mp3"
     },
     {
       "ru": "У нее нет велосипеда.",
       "en": "She has not got a bike.",
-      "addWord": "are bus am have cat the"
+      "addWord": "are bus am have cat the",
+      "audioEnUrl": "audios/unit2/she_has_not_got_a_bike.mp3"
     },
     {
       "ru": "У тебя есть кошка?",
       "en": "Have you got a cat?",
-      "addWord": "are bus is fish has"
+      "addWord": "are bus is fish has",
+      "audioEnUrl": "audios/unit2/have_you_got_a_cat.mp3"
     },
     {
       "ru": "У нее есть какие-нибудь домашние животные?",
       "en": "Has she got any pets?",
-      "addWord": "am He is It Have are bags you"
+      "addWord": "am He is It Have are bags you",
+      "audioEnUrl": "audios/unit2/has_she_got_any_pets.mp3"
     },
     {
       "ru": "У нее нет зонтика.",
       "en": "She hasn't got an umbrella.",
-      "addWord": "am you is It rain Has was"
+      "addWord": "am you is It rain Has was",
+      "audioEnUrl": "audios/unit2/she_hasn-t_got_an_umbrella.mp3"
     },
     {
       "ru": "У тебя есть ручка?",
       "en": "Have you got a pen?",
-      "addWord": "Has he the glass she were"
+      "addWord": "Has he the glass she were",
+      "audioEnUrl": "audios/unit2/have_you_got_a_pen.mp3"
     },
     {
       "ru": "У нее есть брат?",
       "en": "Has she got a brother?",
-      "addWord": "am He have are sister were father"
+      "addWord": "am He have are sister were father",
+      "audioEnUrl": "audios/unit2/has_she_got_a_brother.mp3"
     },
     {
       "ru": "У них есть дом.",
       "en": "They've got a house.",
-      "addWord": "they're she's his her"
+      "addWord": "they're she's his her",
+      "audioEnUrl": "audios/unit2/they-ve_got_a_house.mp3"
     },
     {
       "ru": "У тебя есть книга.",
       "en": "You've got a book.",
-      "addWord": "You're she sofa"
+      "addWord": "You're she sofa",
+      "audioEnUrl": "audios/unit2/you-ve_got_a_book.mp3"
     },
     {
       "ru": "У нее есть мечта",
       "en": "She's got a dream.",
-      "addWord": "He have they sleep were"
+      "addWord": "He have they sleep were",
+      "audioEnUrl": "audios/unit2/she-s_got_a_dream.mp3"
     },
     {
       "ru": "У твоих родителей есть машина?",
       "en": "Have your parents got a car?",
-      "addWord": "Has grandma you they the bus"
+      "addWord": "Has grandma you they the bus",
+      "audioEnUrl": "audios/unit2/have_your_parents_got_a_car.mp3"
     }
   ],
   "colors": [

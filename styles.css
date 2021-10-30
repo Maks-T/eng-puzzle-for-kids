@@ -142,7 +142,7 @@ html {
   font-size: 1rem;
   line-height: 1.2rem;
   margin: 0 auto;
-  padding: 10px;
+  padding: 10px 40px 10px 10px;
   border-color: #e6ffff;
   border: 1px dashed rgb(17, 206, 26);
   margin-bottom: 5px;
@@ -151,7 +151,7 @@ html {
 
 .audio__wrapper {
   position: absolute;
-  z-index: 4;
+  z-index: 2;
   right: 5px;
   top: 5px;
 
@@ -164,8 +164,6 @@ html {
 }
 
 .audio__wrapper:hover {
-  background: url("./assets/icons/sound-blue.png") center no-repeat;
-  background-size: contain;
 }
 
 @keyframes click-sound {
@@ -185,6 +183,8 @@ html {
 }
 
 .play {
+  background: url("./assets/icons/sound-blue.png") center no-repeat;
+  background-size: contain;
   animation: click-sound 1s ease-in-out infinite;
 }
 
