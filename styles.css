@@ -29,7 +29,7 @@ html {
 
 .header__wrapper,
 .footer__wrapper {
-  max-width: 450px;
+  max-width: 600px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -43,9 +43,9 @@ html {
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   border-radius: 5px;
-  width: 450px;
+  width: 600px;
 
   margin: 0 auto;
   padding: 10px;
@@ -81,7 +81,7 @@ html {
   z-index: 3;
   left: 0;
   top: 60px;
-  width: 450px;
+  width: 600px;
   height: 500px;
   border-radius: 5px;
   background-color: #2196f3;
@@ -105,13 +105,13 @@ html {
 }
 
 .statistic-panel {
-  width: 450px;
+  width: 600px;
   height: auto;
   margin: 0 auto;
   font-size: 0.6rem;
-  line-height: 1rem;
+  line-height: 0.8rem;
   border-bottom: 1px dotted blue;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .statistic-panel .count-title {
@@ -127,32 +127,37 @@ html {
 }
 
 .description {
-  width: 450px;
+  width: 600px;
   height: auto;
   margin: 0 auto;
   font-size: 0.8rem;
-  line-height: 1.4rem;
+  line-height: 1.2rem;
 }
 
 .sentence {
-  width: 450px;
+  width: 600px;
   height: auto;
   font-weight: bolder;
   font-size: 1rem;
+  line-height: 1.2rem;
   margin: 0 auto;
   padding: 10px;
+  border-color: #e6ffff;
   border: 1px dashed rgb(17, 206, 26);
+  margin-bottom: 5px;
+  border-radius: 2px;
 }
 
 .board {
   position: relative;
-  width: 450px;
+  width: 600px;
   height: 400px;
-  margin: 10px;
+  margin: 0 10px;
   margin: 0 auto;
 
   padding: 10px;
   border: 1px dashed rgb(18, 169, 189);
+  border-radius: 2px;
 }
 
 .panel-btn {
@@ -160,8 +165,8 @@ html {
   justify-content: center;
   align-items: center;
 
-  width: 450px;
-  height: 100px;
+  width: 600px;
+  height: 80px;
 
   margin: 0 auto;
 }
@@ -363,30 +368,25 @@ html {
   display: none;
 }
 
-
 @media (max-width: 920px) {
-
   .title-unit__wrapper {
     max-width: 100%;
     min-height: 6vh;
-
   }
 
   .title-unit {
     max-width: 90%;
   }
 
-
   .menu-body {
     max-width: 100%;
-    min-height: 60vh
+    min-height: 60vh;
   }
 
   .statistic-panel {
     max-width: 100%;
     min-height: 2.8vh;
   }
-
 
   .description {
     max-width: 100%;
@@ -396,14 +396,11 @@ html {
   .sentence {
     max-width: 100%;
     min-height: 6.5vh;
-
   }
 
   .board {
-
     max-width: 100%;
     max-height: 55vh;
-
   }
 
   .panel-btn {
@@ -411,42 +408,58 @@ html {
     min-height: 10vh;
   }
 
+  .btn-check,
+  .btn-next {
+    width: 30wh;
+    min-width: 150px;
+    max-width: 200px;
+    max-height: 60px;
+  }
 
-.btn-check,
-.btn-next {
-  width: 30wh;
-  min-width: 150px;
-  max-width: 200px;
-  max-height: 60px;
-
+  .word,
+  .word_active {
+    padding: 10px 20px;
+  }
 }
-
-
-
-
-.word,
-.word_active {
-
-  padding: 10px 20px;
-
-}
-
-
-}
-
-
 @media (max-width: 560px) {
-
-
   html {
     font-size: large;
   }
 
+  .panel-btn {
+    max-width: 100%;
+    max-height: 10vh;
+    margin-top: 10px;
+  }
 
   .word,
   .word_active {
+    padding: 8px 15px;
+  }
 
+  .btn-check,
+  .btn-next {
+    width: 30wh;
+    min-width: 100px;
+    max-width: 150px;
+    max-height: 50px;
+  }
+}
+
+@media (max-width: 360px) {
+  html {
+    font-size: large;
+  }
+
+  .statistic-panel {
+    font-size: 0.5rem;
+    line-height: 0.8rem;
+    border-bottom: 1px dotted blue;
+    margin-bottom: 5px;
+  }
+
+  .word,
+  .word_active {
     padding: 5px 10px;
-
   }
 }
