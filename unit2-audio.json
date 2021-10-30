@@ -1,0 +1,175 @@
+{
+  "name": "Unit 2a: Глагол HAVE, HAS",
+  "questions": [
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "I have got a new phone.",
+      "addWord": "has house. We She He",
+      "audioEnUrl": "audios/unit2/i_have_got_a_new_phone.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "He has got a sister.",
+      "addWord": "is am has brother She",
+      "audioEnUrl": "audios/unit2/he_has_got_a_sister.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "They have got blue eyes.",
+      "addWord": "nose is am has He She",
+      "audioEnUrl": "audios/unit2/they_have_got_blue_eyes.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "I've got long hair.",
+      "addWord": "She's He's eyes",
+      "audioEnUrl": "audios/unit2/i-ve_got_long_hair.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "They haven't got a dog.",
+      "addWord": "are that am has cat the",
+      "audioEnUrl": "audios/unit2/they_haven-t_got_a_dog.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "She has not got a bike.",
+      "addWord": "are bus am have cat the",
+      "audioEnUrl": "audios/unit2/she_has_not_got_a_bike.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Have you got a cat?",
+      "addWord": "are bus is fish has",
+      "audioEnUrl": "audios/unit2/have_you_got_a_cat.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Has she got any pets?",
+      "addWord": "am He is It Have are bags you",
+      "audioEnUrl": "audios/unit2/has_she_got_any_pets.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "She hasn't got an umbrella.",
+      "addWord": "am you is It rain Has was",
+      "audioEnUrl": "audios/unit2/she_hasn-t_got_an_umbrella.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Have you got a pen?",
+      "addWord": "Has he the glass she were",
+      "audioEnUrl": "audios/unit2/have_you_got_a_pen.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Has she got a brother?",
+      "addWord": "am He have are sister were father",
+      "audioEnUrl": "audios/unit2/has_she_got_a_brother.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "They've got a house.",
+      "addWord": "they're she's his her",
+      "audioEnUrl": "audios/unit2/they-ve_got_a_house.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "You've got a book.",
+      "addWord": "You're she sofa",
+      "audioEnUrl": "audios/unit2/you-ve_got_a_book.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "She's got a dream.",
+      "addWord": "He have they sleep were",
+      "audioEnUrl": "audios/unit2/she-s_got_a_dream.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Have your parents got a car?",
+      "addWord": "Has grandma you they the bus",
+      "audioEnUrl": "audios/unit2/have_your_parents_got_a_car.mp3"
+    }
+  ],
+  "colors": [
+    {
+      "color": "limeGreen",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "forestGreen",
+      "words": ["have", "has", "were", "was"]
+    },
+    {
+      "color": "darkCyan",
+      "words": ["not"]
+    },
+    {
+      "color": "chocolate",
+      "words": ["got"]
+    },
+
+    {
+      "color": "orangeRed",
+      "words": ["you", "I", "She", "He", "They", "We", "It", "Those", "This"]
+    },
+    {
+      "color": "dodgerBlue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "darkOrchid",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "gold",
+      "words": ["a", "an", "the"]
+    },
+    {
+      "color": "coral",
+      "words": [
+        "pen",
+        "new",
+        "phone",
+        "house",
+        "sister",
+        "brother",
+        "eyes.",
+        "nose",
+        "long",
+        "hair",
+        "dog",
+        "bike",
+        "fish",
+        "pets",
+        "bags",
+        "bags",
+        "bags",
+        "bags",
+        "clowns",
+        "glass",
+        "father",
+        "book",
+        "sofa",
+        "dream",
+        "sleep",
+        "cat",
+        "bus",
+        "pets"
+      ]
+    },
+    {
+      "color": "orangeRed-limeGreen",
+      "words": ["I'm"]
+    },
+    {
+      "color": "orangeRed-forestGreen",
+      "words": ["I've", "He's", "She's", "They've", "you've"]
+    },
+    {
+      "color": "forestGreen-darkCyan",
+      "words": ["hasn't", "haven't"]
+    }
+  ]
+}

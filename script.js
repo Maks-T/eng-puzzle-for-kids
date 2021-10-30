@@ -2,8 +2,10 @@ class Sounds {
   constructor() {
     this.audioWin = new Audio("./assets/sounds/Slugfest_game_won_01.ogg");
     this.audioClick = new Audio("./assets/sounds/Menu_click_08.ogg");
-    this.audioSuccess = new Audio("./assets/sounds/succes.wav");
-    this.audioMistakes = new Audio("./assets/sounds/mistake.wav");
+    this.audioSuccess = new Audio(
+      "./assets/sounds/Unlock_level_Game_Sound.mp3"
+    );
+    this.audioMistakes = new Audio("./assets/sounds/Bot_Wrong_Answer_3.mp3");
   }
   win() {
     this.audioWin.play();

@@ -20,6 +20,11 @@
       "id": "worlds1-trainer",
       "url": "worlds1-trainer.json",
       "name": "Words 1: trainer"
+    },
+    {
+      "id": "unit2-audio",
+      "url": "unit2-audio.json",
+      "name": "Unit 2 Audio: Глагол HAVE, HAS"
     }
   ]
 }
