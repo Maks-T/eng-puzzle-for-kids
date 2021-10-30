@@ -1,5 +1,5 @@
 ﻿{
-  "name": "Words 1: learning",
+  "name": "Words 1: trainer",
   "questions": [
     {
       "ru": "яблоко",
@@ -36,6 +36,19 @@
       "en": "c h a i r",
       "addWord": "a l p",
       "audioEnUrl": "audios/words/chair.mp3"
+    },
+
+    {
+      "ru": "пол",
+      "en": "f l o o r",
+      "addWord": "s f g",
+      "audioEnUrl": "audios/words/floor.mp3"
+    },
+    {
+      "ru": "диван",
+      "en": "s o f a",
+      "addWord": "w y m",
+      "audioEnUrl": "audios/words/sofa.mp3"
     },
     {
       "ru": "лошадь",

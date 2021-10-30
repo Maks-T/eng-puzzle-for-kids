@@ -1,0 +1,78 @@
+﻿{
+  "name": "Words 2: learning",
+  "questions": [
+    {
+      "ru": "родители",
+      "en": "parents",
+      "addWord": "father mother brother",
+      "audioEnUrl": "audios/words/parents.mp3"
+    },
+    {
+      "ru": "отец",
+      "en": "father",
+      "addWord": "parents mother brother",
+      "audioEnUrl": "audios/words/father.mp3"
+    },
+    {
+      "ru": "мать",
+      "en": "mother",
+      "addWord": "parents father brother",
+      "audioEnUrl": "audios/words/mother.mp3"
+    },
+    {
+      "ru": "брат",
+      "en": "brother",
+      "addWord": "parents father mother brother",
+      "audioEnUrl": "audios/words/brother.mp3"
+    },
+    {
+      "ru": "тетя",
+      "en": "aunt",
+      "addWord": "sister uncle cousin",
+      "audioEnUrl": "audios/words/aunt.mp3"
+    },
+    {
+      "ru": "сестра",
+      "en": "sister",
+      "addWord": "uncle aunt cousin",
+      "audioEnUrl": "audios/words/sister.mp3"
+    },
+    {
+      "ru": "дядя",
+      "en": "uncle",
+      "addWord": "sister aunt cousin",
+      "audioEnUrl": "audios/words/uncle.mp3"
+    },
+    {
+      "ru": "двоюродный брат (сестра)",
+      "en": "cousin",
+      "addWord": "sister uncle aunt",
+      "audioEnUrl": "audios/words/cousin.mp3"
+    },
+    {
+      "ru": "ребёнок",
+      "en": "child",
+      "addWord": "children daughter son",
+      "audioEnUrl": "audios/words/child.mp3"
+    },
+    {
+      "ru": "дети",
+      "en": "children",
+      "addWord": "child daughter son",
+      "audioEnUrl": "audios/words/children.mp3"
+    },
+    {
+      "ru": "дочь",
+      "en": "daughter",
+      "addWord": "child children son",
+      "audioEnUrl": "audios/words/daughter.mp3"
+    },
+    {
+      "ru": "сын",
+      "en": "son",
+      "addWord": "child children daughter",
+      "audioEnUrl": "audios/words/son.mp3"
+    }
+  ],
+  "colors": []
+}

@@ -1,0 +1,78 @@
+﻿{
+  "name": "Words 2: trainer",
+  "questions": [
+    {
+      "ru": "родители",
+      "en": "p a r e n t s",
+      "addWord": "f m i",
+      "audioEnUrl": "audios/words/parents.mp3"
+    },
+    {
+      "ru": "отец",
+      "en": "f a t h e r",
+      "addWord": "b m i",
+      "audioEnUrl": "audios/words/father.mp3"
+    },
+    {
+      "ru": "мать",
+      "en": "m o t h e r",
+      "addWord": "u a c",
+      "audioEnUrl": "audios/words/mother.mp3"
+    },
+    {
+      "ru": "брат",
+      "en": "b r o t h e r",
+      "addWord": "s a x",
+      "audioEnUrl": "audios/words/brother.mp3"
+    },
+    {
+      "ru": "тетя",
+      "en": "a u n t",
+      "addWord": "y o d",
+      "audioEnUrl": "audios/words/aunt.mp3"
+    },
+    {
+      "ru": "сестра",
+      "en": "s i s t e r",
+      "addWord": "h y z",
+      "audioEnUrl": "audios/words/sister.mp3"
+    },
+    {
+      "ru": "дядя",
+      "en": "u n c l e",
+      "addWord": "p m l",
+      "audioEnUrl": "audios/words/uncle.mp3"
+    },
+    {
+      "ru": "двоюродный брат (сестра)",
+      "en": "c o u s i n",
+      "addWord": "y h a",
+      "audioEnUrl": "audios/words/cousin.mp3"
+    },
+    {
+      "ru": "ребёнок",
+      "en": "c h i l d ",
+      "addWord": "r e n",
+      "audioEnUrl": "audios/words/child.mp3"
+    },
+    {
+      "ru": "дети",
+      "en": "c h i l d r e n",
+      "addWord": "d a u",
+      "audioEnUrl": "audios/words/children.mp3"
+    },
+    {
+      "ru": "дочь",
+      "en": "d a u g h t e r",
+      "addWord": "h l d",
+      "audioEnUrl": "audios/words/daughter.mp3"
+    },
+    {
+      "ru": "сын",
+      "en": "s o n",
+      "addWord": "k p d",
+      "audioEnUrl": "audios/words/son.mp3"
+    }
+  ],
+  "colors": []
+}

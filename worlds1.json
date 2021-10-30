@@ -38,6 +38,18 @@
       "audioEnUrl": "audios/words/chair.mp3"
     },
     {
+      "ru": "пол",
+      "en": "floor",
+      "addWord": "chair table sofa",
+      "audioEnUrl": "audios/words/floor.mp3"
+    },
+    {
+      "ru": "диван",
+      "en": "sofa",
+      "addWord": "chair table floor",
+      "audioEnUrl": "audios/words/sofa.mp3"
+    },
+    {
       "ru": "лошадь",
       "en": "horse",
       "addWord": "bear rabbit fish",
