@@ -320,8 +320,20 @@ class App {
 
       console.log("elemAudioEn.src", this.appHTML.elemAudioEn.src);
 
+      let ratioSpeed = 90;
+
+      if (this.ques.en.length > 6 && this.ques.en.length < 10) {
+        ratioSpeed = 80;
+      } else if (this.ques.en.length >= 10 && this.ques.en.length < 20) {
+        ratioSpeed = 60;
+      } else if (this.ques.en.length >= 20) {
+        ratioSpeed = 50;
+      }
+
+      console.log("ratioSpeed", ratioSpeed);
+
       this.appHTML.elemAudioWrapper.dataset.timeSound =
-        this.ques.en.length * 80;
+        this.ques.en.length * ratioSpeed;
     }
 
     this.appHTML.elemSentence.append(this.appHTML.elemAudioWrapper);
