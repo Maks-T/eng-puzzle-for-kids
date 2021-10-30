@@ -1,0 +1,217 @@
+﻿{
+  "name": "Unit 3a: There Is и There Are",
+  "questions": [
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There is a book on the desk.",
+      "addWord": "the are at pen",
+      "audioEnUrl": "audios/unit3/there_is_a_book_on_the_desk.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There are books on the desk.",
+      "addWord": "is at pens sofa",
+      "audioEnUrl": "audios/unit3/there_are_books_on_the_desk.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There is some milk in the fridge.",
+      "addWord": "the are on desk kitchen",
+      "audioEnUrl": "audios/unit3/there_is_some_milk_in_the_fridge.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There are cats on the sofa.",
+      "addWord": "the is at wardrobe",
+      "audioEnUrl": "audios/unit3/there_are_cats_on_the_sofa.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There is a cat on the chair.",
+      "addWord": "are bath mirror",
+      "audioEnUrl": "audios/unit3/there_is_a_cat_on_the_chair.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There aren't any pens here.",
+      "addWord": "isn't some bed",
+      "audioEnUrl": "audios/unit3/there_aren-t_any_pens_here.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There isn't any juice in the fridge.",
+      "addWord": "are aren't cupboard",
+      "audioEnUrl": "audios/unit3/there_isn-t_any_juice_in_the_fridge.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There isn't a pencil on the table.",
+      "addWord": "aren't in at mirror",
+      "audioEnUrl": "audios/unit3/there_isn-t_a_pencil_on_the_table.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There isn't any lamp on the table.",
+      "addWord": "aren't in at armchair",
+      "audioEnUrl": "audios/unit3/there_isn-t_any_lamp_on_the_table.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "There aren't cars on the street.",
+      "addWord": "isn't bike house.",
+      "audioEnUrl": "audios/unit3/there_aren-t_cars_on_the_street.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Are there any cats on the floor?",
+      "addWord": "Is table in",
+      "audioEnUrl": "audios/unit3/are_there_any_cats_on_the_floor.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Are there dogs in the park?",
+      "addWord": "IS cats at road",
+      "audioEnUrl": "audios/unit3/are_there_dogs_in_the_park.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Is there water in the bottle?",
+      "addWord": "Are on juice",
+      "audioEnUrl": "audios/unit3/is_there_water_in_the_bottle.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Are there any boys in the room?",
+      "addWord": "Is girls on",
+      "audioEnUrl": "audios/unit3/are_there_any_boys_in_the_room.mp3"
+    },
+    {
+      "ru": "нажми на микрофон справа",
+      "en": "Are there animals in the forest?",
+      "addWord": "Is river on bear",
+      "audioEnUrl": "audios/unit3/are_there_animals_in_the_forest.mp3"
+    }
+  ],
+  "colors": [
+    {
+      "color": "limeGreen",
+      "words": ["is", "are", "am"]
+    },
+    {
+      "color": "forestGreen",
+      "words": ["have", "has", "were", "was"]
+    },
+    {
+      "color": "darkCyan",
+      "words": ["not"]
+    },
+    {
+      "color": "chocolate",
+      "words": ["got"]
+    },
+
+    {
+      "color": "orangeRed",
+      "words": ["you", "I", "She", "He", "They", "We", "It", "Those", "This"]
+    },
+    {
+      "color": "dodgerBlue",
+      "words": ["her", "his", "my", "your", "her"]
+    },
+    {
+      "color": "darkOrchid",
+      "words": ["mum", "girls", "happy", "glad"]
+    },
+    {
+      "color": "gold",
+      "words": ["a", "an", "the"]
+    },
+    {
+      "color": "darkslategray",
+      "words": ["there"]
+    },
+    {
+      "color": "coral",
+      "words": [
+        "pen",
+        "new",
+        "phone",
+        "house",
+        "sister",
+        "brother",
+        "eyes.",
+        "nose",
+        "long",
+        "hair",
+        "dog",
+        "bike",
+        "fish",
+        "pets",
+        "bags",
+        "bags",
+        "bags",
+        "bags",
+        "clowns",
+        "glass",
+        "father",
+        "book",
+        "sofa",
+        "dream",
+        "sleep",
+        "cat",
+        "bus",
+        "pets",
+        "pens",
+        "books",
+        "lamp",
+        "cats",
+        "pencil",
+        "milk",
+        "pencils"
+      ]
+    },
+
+    {
+      "color": "rosybrown",
+      "words": [
+        "table",
+        "sofa",
+        "desk",
+        "cupboard",
+        "fridge",
+        "mirror",
+        "bath",
+        "chair",
+        "bed",
+        "kitchen",
+        "wardrobe",
+        "armchair"
+      ]
+    },
+    {
+      "color": "darkkhaki",
+      "words": ["some", "any"]
+    },
+
+    {
+      "color": "mediumblue",
+      "words": ["on", "in", "at", "of", "into"]
+    },
+    {
+      "color": "orangeRed-limeGreen",
+      "words": ["I'm"]
+    },
+    {
+      "color": "orangeRed-forestGreen",
+      "words": ["I've", "He's", "She's", "They've", "you've"]
+    },
+    {
+      "color": "forestGreen-darkCyan",
+      "words": ["hasn't", "haven't"]
+    },
+    {
+      "color": "limeGreen-darkCyan",
+      "words": ["aren't", "isn't"]
+    }
+  ]
+}

@@ -25,6 +25,11 @@
       "id": "unit2-audio",
       "url": "unit2-audio.json",
       "name": "Unit 2 Audio: Глагол HAVE, HAS"
+    },
+    {
+      "id": "unit3-audio",
+      "url": "unit3-audio.json",
+      "name": "Unit 3 Audio: There Is и There Are"
     }
   ]
 }
