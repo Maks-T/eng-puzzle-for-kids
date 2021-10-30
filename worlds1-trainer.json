@@ -1,0 +1,57 @@
+﻿{
+  "name": "Words: learning part1",
+  "questions": [
+    {
+      "ru": "яблоко",
+      "en": "a p p l e",
+      "addWord": "y f j"
+    },
+    {
+      "ru": "апельсин",
+      "en": "o r a n g e",
+      "addWord": "i y w"
+    },
+    {
+      "ru": "груша",
+      "en": "p e a r",
+      "addWord": "q r t"
+    },
+    {
+      "ru": "виноград",
+      "en": " g r a p e",
+      "addWord": "k l p"
+    },
+    {
+      "ru": "стол",
+      "en": "t a b l e",
+      "addWord": "c r y"
+    },
+    {
+      "ru": "стул",
+      "en": "c h a i r",
+      "addWord": "a l p"
+    },
+    {
+      "ru": "лошадь",
+      "en": "h o r s e",
+      "addWord": "x u e i"
+    },
+
+    {
+      "ru": "медведь",
+      "en": "b e a r",
+      "addWord": "t h d"
+    },
+    {
+      "ru": "кролик",
+      "en": "r a b b i t",
+      "addWord": "c j o"
+    },
+    {
+      "ru": "рыба",
+      "en": "f i s h",
+      "addWord": "k e n"
+    }
+  ],
+  "colors": []
+}

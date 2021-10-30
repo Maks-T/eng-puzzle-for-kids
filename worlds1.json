@@ -1,0 +1,57 @@
+﻿{
+  "name": "Words: learning part1",
+  "questions": [
+    {
+      "ru": "яблоко",
+      "en": "apple",
+      "addWord": "orange banana grape"
+    },
+    {
+      "ru": "апельсин",
+      "en": "orange",
+      "addWord": "apple banana grape"
+    },
+    {
+      "ru": "груша",
+      "en": "pear",
+      "addWord": "apple orange grape"
+    },
+    {
+      "ru": "виноград",
+      "en": "grape",
+      "addWord": "apple orange banana"
+    },
+    {
+      "ru": "стол",
+      "en": "table",
+      "addWord": "chair floor sofa"
+    },
+    {
+      "ru": "стул",
+      "en": "chair",
+      "addWord": "table floor sofa"
+    },
+    {
+      "ru": "лошадь",
+      "en": "horse",
+      "addWord": "bear rabbit fish"
+    },
+
+    {
+      "ru": "медведь",
+      "en": "bear",
+      "addWord": "horse rabbit fish"
+    },
+    {
+      "ru": "кролик",
+      "en": "rabbit",
+      "addWord": "horse bear fish"
+    },
+    {
+      "ru": "рыба",
+      "en": "fish",
+      "addWord": "horse bear rabbit"
+    }
+  ],
+  "colors": []
+}

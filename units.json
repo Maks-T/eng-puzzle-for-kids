@@ -10,6 +10,16 @@
       "id": "unit3",
       "url": "unit3.json",
       "name": "Unit 3: There Is и There Are"
+    },
+    {
+      "id": "worlds1",
+      "url": "worlds1.json",
+      "name": "Words: learning part1"
+    },
+    {
+      "id": "worlds1-trainer",
+      "url": "worlds1-trainer.json",
+      "name": "Words: trainer part1"
     }
   ]
 }
