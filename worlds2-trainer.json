@@ -5,73 +5,85 @@
       "ru": "родители",
       "en": "p a r e n t s",
       "addWord": "f m i",
-      "audioEnUrl": "audios/words/parents.mp3"
+      "audioEnUrl": "audios/words/parents.mp3",
+      "transcript": "[ 'pɛərənts ]"
     },
     {
       "ru": "отец",
       "en": "f a t h e r",
       "addWord": "b m i",
-      "audioEnUrl": "audios/words/father.mp3"
+      "audioEnUrl": "audios/words/father.mp3",
+      "transcript": "[ 'fɑ:ðə ]"
     },
     {
       "ru": "мать",
       "en": "m o t h e r",
       "addWord": "u a c",
-      "audioEnUrl": "audios/words/mother.mp3"
+      "audioEnUrl": "audios/words/mother.mp3",
+      "transcript": "[ 'mʌðə ]"
     },
     {
       "ru": "брат",
       "en": "b r o t h e r",
       "addWord": "s a x",
-      "audioEnUrl": "audios/words/brother.mp3"
+      "audioEnUrl": "audios/words/brother.mp3",
+      "transcript": "[ 'brʌðə ]"
     },
     {
-      "ru": "тетя",
+      "ru": "тётя",
       "en": "a u n t",
       "addWord": "y o d",
-      "audioEnUrl": "audios/words/aunt.mp3"
+      "audioEnUrl": "audios/words/aunt.mp3",
+      "transcript": "[ ɑ:nt ]"
     },
     {
       "ru": "сестра",
       "en": "s i s t e r",
       "addWord": "h y z",
-      "audioEnUrl": "audios/words/sister.mp3"
+      "audioEnUrl": "audios/words/sister.mp3",
+      "transcript": "[ 'sistə ]"
     },
     {
       "ru": "дядя",
       "en": "u n c l e",
       "addWord": "p m l",
-      "audioEnUrl": "audios/words/uncle.mp3"
+      "audioEnUrl": "audios/words/uncle.mp3",
+      "transcript": "[ ʌŋkl ]"
     },
     {
       "ru": "двоюродный брат (сестра)",
       "en": "c o u s i n",
       "addWord": "y h a",
-      "audioEnUrl": "audios/words/cousin.mp3"
+      "audioEnUrl": "audios/words/cousin.mp3",
+      "transcript": "[ kʌzn ]"
     },
     {
       "ru": "ребёнок",
       "en": "c h i l d ",
       "addWord": "r e n",
-      "audioEnUrl": "audios/words/child.mp3"
+      "audioEnUrl": "audios/words/child.mp3",
+      "transcript": "[ ʧaild ]"
     },
     {
       "ru": "дети",
       "en": "c h i l d r e n",
       "addWord": "d a u",
-      "audioEnUrl": "audios/words/children.mp3"
+      "audioEnUrl": "audios/words/children.mp3",
+      "transcript": "[ 'ʧildrən ]"
     },
     {
       "ru": "дочь",
       "en": "d a u g h t e r",
       "addWord": "h l d",
-      "audioEnUrl": "audios/words/daughter.mp3"
+      "audioEnUrl": "audios/words/daughter.mp3",
+      "transcript": "[ 'dɔ:tə ]"
     },
     {
       "ru": "сын",
       "en": "s o n",
       "addWord": "k p d",
-      "audioEnUrl": "audios/words/son.mp3"
+      "audioEnUrl": "audios/words/son.mp3",
+      "transcript": "[ sʌn ]"
     }
   ],
   "colors": []

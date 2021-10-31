@@ -5,75 +5,87 @@
       "ru": "яблоко",
       "en": "a p p l e",
       "addWord": "y f j",
-      "audioEnUrl": "audios/words/apple.mp3"
+      "audioEnUrl": "audios/words/apple.mp3",
+      "transcript": "[ æplz ]"
     },
     {
       "ru": "апельсин",
       "en": "o r a n g e",
       "addWord": "i y w",
-      "audioEnUrl": "audios/words/orange.mp3"
+      "audioEnUrl": "audios/words/orange.mp3",
+      "transcript": "[ 'ɔrinʤ ]"
     },
     {
       "ru": "груша",
       "en": "p e a r",
       "addWord": "q r t",
-      "audioEnUrl": "audios/words/pear.mp3"
+      "audioEnUrl": "audios/words/pear.mp3",
+      "transcript": "[ pɛə ]"
     },
     {
       "ru": "виноград",
       "en": "g r a p e s",
       "addWord": "k l p",
-      "audioEnUrl": "audios/words/grapes.mp3"
+      "audioEnUrl": "audios/words/grapes.mp3",
+      "transcript": "[ greɪps ]"
     },
     {
       "ru": "стол",
       "en": "t a b l e",
       "addWord": "c r y",
-      "audioEnUrl": "audios/words/table.mp3"
+      "audioEnUrl": "audios/words/table.mp3",
+      "transcript": "[ teibl ]"
     },
     {
       "ru": "стул",
       "en": "c h a i r",
       "addWord": "a l p",
-      "audioEnUrl": "audios/words/chair.mp3"
+      "audioEnUrl": "audios/words/chair.mp3",
+      "transcript": "[ ʧɛə ]"
     },
 
     {
       "ru": "пол",
       "en": "f l o o r",
       "addWord": "s f g",
-      "audioEnUrl": "audios/words/floor.mp3"
+      "audioEnUrl": "audios/words/floor.mp3",
+      "transcript": "[ flɔ: ]"
     },
     {
       "ru": "диван",
       "en": "s o f a",
       "addWord": "w y m",
-      "audioEnUrl": "audios/words/sofa.mp3"
+      "audioEnUrl": "audios/words/sofa.mp3",
+      "transcript": "[ 'səufə ]"
     },
     {
       "ru": "лошадь",
       "en": "h o r s e",
       "addWord": "x u e i",
-      "audioEnUrl": "audios/words/horse.mp3"
+      "audioEnUrl": "audios/words/horse.mp3",
+      "transcript": "[ hɔ:s ]"
     },
 
     {
       "ru": "медведь",
       "en": "b e a r",
       "addWord": "t h d",
-      "audioEnUrl": "audios/words/bear.mp3"
+      "audioEnUrl": "audios/words/bear.mp3",
+      "transcript": "[ bɛə ]"
     },
     {
       "ru": "кролик",
       "en": "r a b b i t",
       "addWord": "c j o",
-      "audioEnUrl": "audios/words/rabbit.mp3"
+      "audioEnUrl": "audios/words/rabbit.mp3",
+      "transcript": "[ 'ræbit ]"
     },
     {
       "ru": "рыба",
       "en": "f i s h",
       "addWord": "k e n",
-      "audioEnUrl": "audios/words/fish.mp3"
+      "audioEnUrl": "audios/words/fish.mp3",
+      "transcript": "[ fiʃ ]"
     }
   ],
   "colors": []

@@ -91,6 +91,8 @@ class AppHTML {
     this.elemDelText = this.createElement("s", ["delete-text"], "");
 
     this.elemRightText = this.createElement("div", ["right-text"], "");
+
+    this.elemTranscript = this.createElement("div", ["transcript"], "");
   }
 
   createElementStatistic() {
@@ -207,6 +209,11 @@ class AppHTML {
   showRightText(text) {
     this.elemRightText.innerHTML = text;
     this.elemBoard.append(this.elemRightText);
+  }
+
+  showTranscipt(transcript) {
+    this.elemTranscript.innerHTML = transcript;
+    this.elemBoard.append(this.elemTranscript);
   }
 
   showDelText(text) {
@@ -517,6 +524,10 @@ class App {
 
       this.appHTML.elemBoard.innerHTML = "";
       this.appHTML.showRightText(this.ques.en);
+      if (this.ques.transcript) {
+        this.appHTML.showTranscipt(this.ques.transcript);
+      }
+
       this.appHTML.showSuccesMessage();
 
       this.questions.splice(this.indexQues, 1);
@@ -536,6 +547,9 @@ class App {
       this.appHTML.elemBoard.innerHTML = "";
       this.appHTML.showDelText(curWord);
       this.appHTML.showRightText(this.ques.en);
+      if (this.ques.transcript) {
+        this.appHTML.showTranscipt(this.ques.transcript);
+      }
       this.appHTML.showErrorMessage();
       this.mistakes += 1;
 

@@ -309,6 +309,13 @@ html {
   font-weight: bold;
 }
 
+.transcript {
+  display: block;
+  color: rgb(5, 137, 170);
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
 .orangeRed {
   background-color: orangeRed;
   border: 1px solid rgb(201, 57, 1);

@@ -5,91 +5,106 @@
       "ru": "На столе лежит книга. (Есть книга на письменном столе)",
       "en": "There is a book on the desk.",
       "addWord": "the are at pen",
-      "audioEnUrl": "audios/unit3/there_is_a_book_on_the_desk.mp3"
+      "audioEnUrl": "audios/unit3/there_is_a_book_on_the_desk.mp3",
+      "transcript": "[ ðər ɪz ə bʊk ɑn ðə dɛsk ]"
     },
     {
       "ru": "На столе лежат книги. (Есть книги на письменном столе)",
       "en": "There are books on the desk.",
       "addWord": "is at pens sofa",
-      "audioEnUrl": "audios/unit3/there_are_books_on_the_desk.mp3"
+      "audioEnUrl": "audios/unit3/there_are_books_on_the_desk.mp3",
+      "transcript": "[ ðər ər bʊks ɑn ðə dɛsk ]"
     },
     {
       "ru": "В холодильнике есть немного молока. (Есть немного молока в холодильнике)",
       "en": "There is some milk in the fridge.",
       "addWord": "the are on desk kitchen",
-      "audioEnUrl": "audios/unit3/there_is_some_milk_in_the_fridge.mp3"
+      "audioEnUrl": "audios/unit3/there_is_some_milk_in_the_fridge.mp3",
+      "transcript": "[ ðər ɪz səm mɪlk ɪn ðə frɪʤ ]"
     },
     {
       "ru": "На диване сидят кошки. (Есть кошки на диване)",
       "en": "There are cats on the sofa.",
       "addWord": "the is at wardrobe",
-      "audioEnUrl": "audios/unit3/there_are_cats_on_the_sofa.mp3"
+      "audioEnUrl": "audios/unit3/there_are_cats_on_the_sofa.mp3",
+      "transcript": "[ ðər ər kæts ɑn ðə ˈsoʊfə ]"
     },
     {
       "ru": "На стуле сидит кот. (Есть кот на стуле)",
       "en": "There is a cat on the chair.",
       "addWord": "are bath mirror",
-      "audioEnUrl": "audios/unit3/there_is_a_cat_on_the_chair.mp3"
+      "audioEnUrl": "audios/unit3/there_is_a_cat_on_the_chair.mp3",
+      "transcript": "[ ðər ɪz ə kæt ɑn ðə ʧɛr ]"
     },
     {
       "ru": "Здесь нет никаких ручек. (Не имеется никаких ручек здесь)",
       "en": "There aren't any pens here.",
       "addWord": "isn't some bed",
-      "audioEnUrl": "audios/unit3/there_aren-t_any_pens_here.mp3"
+      "audioEnUrl": "audios/unit3/there_aren-t_any_pens_here.mp3",
+      "transcript": "[ ðər ˈɑrənt ˈɛni pɛnz hir ]"
     },
     {
       "ru": "В холодильнике нет никакого сока.(Не имеется никакого сока в холодильнике)",
       "en": "There isn't any juice in the fridge.",
       "addWord": "are aren't cupboard",
-      "audioEnUrl": "audios/unit3/there_isn-t_any_juice_in_the_fridge.mp3"
+      "audioEnUrl": "audios/unit3/there_isn-t_any_juice_in_the_fridge.mp3",
+      "transcript": "[ ðər ˈɪzənt ˈɛni ʤus ɪn ðə frɪʤ ]"
     },
     {
       "ru": "На столе нет карандаша. (Не имеется карандаша на столе)",
       "en": "There isn't a pencil on the table.",
       "addWord": "aren't in at mirror",
-      "audioEnUrl": "audios/unit3/there_isn-t_a_pencil_on_the_table.mp3"
+      "audioEnUrl": "audios/unit3/there_isn-t_a_pencil_on_the_table.mp3",
+      "transcript": "[ ðər ˈɪzənt ə ˈpɛnsəl ɑn ðə ˈteɪbəl ]"
     },
     {
       "ru": "На столе нет никакой лампы. (Не имеется никакой лампы на столе)",
       "en": "There isn't any lamp on the table.",
       "addWord": "aren't in at armchair",
-      "audioEnUrl": "audios/unit3/there_isn-t_any_lamp_on_the_table.mp3"
+      "audioEnUrl": "audios/unit3/there_isn-t_any_lamp_on_the_table.mp3",
+      "transcript": "[ ðər ˈɪzənt ˈɛni læmp ɑn ðə ˈteɪbəl ]"
     },
     {
       "ru": "На улице нет машин. (Не имеется машин на улице)",
       "en": "There aren't cars on the street.",
       "addWord": "isn't bike house.",
-      "audioEnUrl": "audios/unit3/there_aren-t_cars_on_the_street.mp3"
+      "audioEnUrl": "audios/unit3/there_aren-t_cars_on_the_street.mp3",
+      "transcript": "[ ðər ˈɑrənt kɑrz ɑn ðə strit ]"
     },
     {
       "ru": "На полу есть какие-нибудь кошки? (Есть ли какие-нибудь кошки?)",
       "en": "Are there any cats on the floor?",
       "addWord": "Is table in",
-      "audioEnUrl": "audios/unit3/are_there_any_cats_on_the_floor.mp3"
+      "audioEnUrl": "audios/unit3/are_there_any_cats_on_the_floor.mp3",
+      "transcript": "[ ɑr ðɛr ˈɛni kæts ɑn ðə flɔr ]"
     },
     {
       "ru": "Есть ли в парке собаки? (Есть ли собаки в парке?)",
       "en": "Are there dogs in the park?",
       "addWord": "IS cats at road",
-      "audioEnUrl": "audios/unit3/are_there_dogs_in_the_park.mp3"
+      "audioEnUrl": "audios/unit3/are_there_dogs_in_the_park.mp3",
+      "transcript": "[ ɑr ðɛr dɑgz ɪn ðə pɑrk ]"
     },
     {
       "ru": "В бутылке есть вода? (Есть ли вода в бутылке?)",
       "en": "Is there water in the bottle?",
       "addWord": "Are on juice",
-      "audioEnUrl": "audios/unit3/is_there_water_in_the_bottle.mp3"
+      "audioEnUrl": "audios/unit3/is_there_water_in_the_bottle.mp3",
+      "transcript": "[ ɪz ðɛr ˈwɔtər ɪn ðə ˈbɑtəl ]"
     },
     {
       "ru": "В комнате есть мальчики? (Есть ли какие-нибудь мальчики в комнате?)",
       "en": "Are there any boys in the room?",
       "addWord": "Is girls on",
-      "audioEnUrl": "audios/unit3/are_there_any_boys_in_the_room.mp3"
+      "audioEnUrl": "audios/unit3/are_there_any_boys_in_the_room.mp3",
+      "transcript": "[ ɑr ðɛr ˈɛni bɔɪz ɪn ðə rum ]"
     },
     {
       "ru": "Есть ли в лесу животные? (Есть ли животные в лесу?)",
       "en": "Are there animals in the forest?",
       "addWord": "Is river on bear",
-      "audioEnUrl": "audios/unit3/are_there_animals_in_the_forest.mp3"
+      "audioEnUrl": "audios/unit3/are_there_animals_in_the_forest.mp3",
+      "transcript": "[ ɑr ðɛr ˈænəməlz ɪn ðə ˈfɔrəst ]"
     }
   ],
   "colors": [

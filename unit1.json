@@ -5,79 +5,92 @@
       "ru": "Она моя мама.",
       "en": "She is my mum.",
       "addWord": "are He am It",
-      "audioEnUrl": "audios/unit1/she_is_my_mum.mp3"
+      "audioEnUrl": "audios/unit1/she_is_my_mum.mp3",
+      "transcript": "[ ʃi əz maɪ mʌm. ]"
     },
     {
       "ru": "Они девочки.",
       "en": "They are girls.",
       "addWord": "is Those am It",
-      "audioEnUrl": "audios/unit1/they_are_girls.mp3"
+      "audioEnUrl": "audios/unit1/they_are_girls.mp3",
+      "transcript": "[ ðeɪ ər gɜrlz ]"
     },
     {
       "ru": "Я счастлив.",
       "en": "I am happy.",
       "addWord": "are He is It glad",
-      "audioEnUrl": "audios/unit1/i_am_happy.mp3"
+      "audioEnUrl": "audios/unit1/i_am_happy.mp3",
+      "transcript": "[ aɪ əm ˈhæpi ]"
     },
     {
       "ru": "Он твой папа?",
       "en": "Is he your dad?",
       "addWord": "are She am It mum",
-      "audioEnUrl": "audios/unit1/is_he_your_dad.mp3"
+      "audioEnUrl": "audios/unit1/is_he_your_dad.mp3",
+      "transcript": "[ ɪz hi jər dæd ]"
     },
     {
       "ru": "Она твоя бабушка?",
       "en": "Is she your grandma?",
       "addWord": "are She am It granddad",
-      "audioEnUrl": "audios/unit1/is_she_your_grandma.mp3"
+      "audioEnUrl": "audios/unit1/is_she_your_grandma.mp3",
+      "transcript": "[  ]"
     },
     {
       "ru": "Ты малыш?",
       "en": "Are you a baby?",
       "addWord": "am He is It child",
-      "audioEnUrl": "audios/unit1/are_you_a_baby.mp3"
+      "audioEnUrl": "audios/unit1/are_you_a_baby.mp3",
+      "transcript": "[ ɑr jʊ ə ˈbeɪbi ]"
     },
     {
       "ru": "Он ковбой.",
       "en": "He is a cowboy.",
       "addWord": "are He am It king",
-      "audioEnUrl": "audios/unit1/he_is_a_cowboy.mp3"
+      "audioEnUrl": "audios/unit1/he_is_a_cowboy.mp3",
+      "transcript": "[ hi əz ə ˈkaʊˌbɔɪ ]"
     },
     {
       "ru": "Они ковбои.",
       "en": "They are cowboys.",
       "addWord": "am He is It clowns",
-      "audioEnUrl": "audios/unit1/they_are_cowboys.mp3"
+      "audioEnUrl": "audios/unit1/they_are_cowboys.mp3",
+      "transcript": "[ ðeɪ ər ˈkaʊˌbɔɪz ]"
     },
     {
       "ru": "Они ковбои?",
       "en": "Are they cowboys?",
       "addWord": "am He is It clowns",
-      "audioEnUrl": "audios/unit1/are_they_cowboys.mp3"
+      "audioEnUrl": "audios/unit1/are_they_cowboys.mp3",
+      "transcript": "[ ɑr ðeɪ ˈkaʊˌbɔɪz ]"
     },
     {
       "ru": "Они клоуны.",
       "en": "They are clowns.",
       "addWord": "am He is It kings",
-      "audioEnUrl": "audios/unit1/they_are_clowns.mp3"
+      "audioEnUrl": "audios/unit1/they_are_clowns.mp3",
+      "transcript": "[ ðeɪ ər klaʊnz ]"
     },
     {
       "ru": "Это коробка.",
       "en": "This is a box.",
       "addWord": "am He are camera the",
-      "audioEnUrl": "audios/unit1/sheismymum.mp3"
+      "audioEnUrl": "audios/unit1/sheismymum.mp3",
+      "transcript": "[ ðɪs ɪz ə bɑks ]"
     },
     {
       "ru": "Это мой друг.",
       "en": "This is my friend.",
       "addWord": "are his am It her",
-      "audioEnUrl": "audios/unit1/this_is_my_friend.mp3"
+      "audioEnUrl": "audios/unit1/this_is_my_friend.mp3",
+      "transcript": "[ ðɪs ɪz maɪ frɛnd ]"
     },
     {
       "ru": "Он мальчик.",
       "en": "He's a boy.",
       "addWord": "He're she It his",
-      "audioEnUrl": "audios/unit1/he-s_a_boy.mp3"
+      "audioEnUrl": "audios/unit1/he-s_a_boy.mp3",
+      "transcript": "[ hiz ə bɔɪ ]"
     }
   ],
   "colors": [

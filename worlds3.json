@@ -1,0 +1,12 @@
+﻿{
+  "name": "Words 3: learning",
+  "questions": [
+    {
+      "ru": "семья",
+      "en": "family",
+      "addWord": "family grandma grandpa baby",
+      "audioEnUrl": "audios/words/parents.mp3"
+    }
+  ],
+  "colors": []
+}
