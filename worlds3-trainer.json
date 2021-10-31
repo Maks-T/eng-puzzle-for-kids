@@ -1,87 +1,87 @@
 ﻿{
-  "name": "Words 3: learning",
+  "name": "Words 3: trainer",
   "questions": [
     {
       "ru": "семья",
-      "en": "family",
-      "addWord": "family grandma grandpa baby",
+      "en": "f a m i l y",
+      "addWord": "g e u",
       "audioEnUrl": "audios/words/family.mp3",
       "transcript": "[ ˈfæməlɪ ]"
     },
     {
       "ru": "бабушка",
-      "en": "grandma",
-      "addWord": "family grandpa baby",
+      "en": "g r a n d m a",
+      "addWord": "b p l",
       "audioEnUrl": "audios/words/grandma.mp3",
       "transcript": "[ ˈɡrænmɑː ]"
     },
     {
       "ru": "дедушка",
-      "en": "grandpa",
-      "addWord": "family grandma baby",
+      "en": "g r a n d p a",
+      "addWord": "f m g",
       "audioEnUrl": "audios/words/grandpa.mp3",
       "transcript": "[ ˈɡrænpɑː ]"
     },
     {
       "ru": "малыш",
-      "en": "baby",
-      "addWord": "family grandma grandpa",
+      "en": "b a b y",
+      "addWord": "o u c",
       "audioEnUrl": "audios/words/baby.mp3",
       "transcript": "[ 'beibi ]"
     },
     {
       "ru": "девочка",
-      "en": "girl",
-      "addWord": "boy man woman",
+      "en": "g i r l",
+      "addWord": "w e a m",
       "audioEnUrl": "audios/words/girl.mp3",
       "transcript": "[ ɡɜːrl ]"
     },
     {
       "ru": "мальчик",
-      "en": "boy",
-      "addWord": "girl man woman",
+      "en": "b o y",
+      "addWord": "l e i",
       "audioEnUrl": "audios/words/boy.mp3",
       "transcript": "[ bɔɪ ]"
     },
     {
       "ru": "мужчина (человек)",
-      "en": "man",
-      "addWord": "girl boy woman",
+      "en": "m a n",
+      "addWord": "e r n",
       "audioEnUrl": "audios/words/man.mp3",
       "transcript": "[ mæn ]"
     },
     {
       "ru": "женщина",
-      "en": "woman",
-      "addWord": "girl boy man",
+      "en": "w o m a n",
+      "addWord": "e i v",
       "audioEnUrl": "audios/words/woman.mp3",
       "transcript": "[ ˈwʊmən ]"
     },
     {
       "ru": "комната",
-      "en": "room",
-      "addWord": "park fridge bed",
+      "en": "r o o m",
+      "addWord": "u y n",
       "audioEnUrl": "audios/words/room.mp3",
       "transcript": "[ ruːm ]"
     },
     {
       "ru": "парк",
-      "en": "park",
-      "addWord": "room fridge bed",
+      "en": "p a r k",
+      "addWord": " o n m",
       "audioEnUrl": "audios/words/park.mp3",
       "transcript": "[ pɑːrk ]"
     },
     {
       "ru": "холодильник",
-      "en": "fridge",
-      "addWord": "room park bed",
+      "en": "f r i d g e",
+      "addWord": "j u h",
       "audioEnUrl": "audios/words/fridge.mp3",
       "transcript": "[ frɪdʒ ]"
     },
     {
       "ru": "кровать",
-      "en": "bed",
-      "addWord": "room park fridge",
+      "en": "b e d",
+      "addWord": "t p a",
       "audioEnUrl": "audios/words/bed.mp3",
       "transcript": "[ bed ]"
     }

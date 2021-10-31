@@ -21,7 +21,6 @@
       "url": "worlds1-trainer.json",
       "name": "Words 1: trainer"
     },
-
     {
       "id": "worlds2",
       "url": "worlds2.json",
@@ -31,6 +30,16 @@
       "id": "worlds2-trainer",
       "url": "worlds2-trainer.json",
       "name": "Words 2: trainer"
+    },
+    {
+      "id": "worlds3",
+      "url": "worlds3.json",
+      "name": "Words 3: learning"
+    },
+    {
+      "id": "worlds3-trainer",
+      "url": "worlds3-trainer.json",
+      "name": "Words 3: trainer"
     },
     {
       "id": "unit2-audio",
