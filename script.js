@@ -169,6 +169,8 @@ class AppHTML {
 
     this.elemAudioEn = this.createElement("audio", [], "");
 
+    this.elemAudioEn.preload = "auto";
+
     this.elemAudioWrapper.addEventListener("click", this.playAudioEn);
   }
 
@@ -315,8 +317,6 @@ class App {
     if (this.ques.audioEnUrl) {
       this.appHTML.elemAudioEn.src =
         window.location.origin + location.pathname + this.ques.audioEnUrl;
-
-      this.appHTML.elemAudioEn.load();
 
       let ratioSpeed = 90;
 
