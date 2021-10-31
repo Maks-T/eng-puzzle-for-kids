@@ -92,6 +92,7 @@ html {
   background-color: #2196f3;
   opacity: 0.98;
   transition: all 1s;
+  overflow-y: auto;
 }
 
 .item-menu {
@@ -99,6 +100,7 @@ html {
   color: white;
   padding: 10px 10px;
   font-weight: 700;
+  font-size: 1.4rem;
 }
 
 .item-menu:hover {
