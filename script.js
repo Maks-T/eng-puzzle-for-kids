@@ -296,9 +296,6 @@ class App {
 
     this.unitsInfo.units.forEach((unitInfo) => {
       const itemMenu = document.createElement("a");
-      console.log("window.location.origin", window.location.origin);
-      console.log("window.location.host", window.location.host);
-      console.log("location.pathname", location.pathname);
 
       itemMenu.href =
         window.location.origin + location.pathname + "?id=" + unitInfo.id;
@@ -319,7 +316,7 @@ class App {
       this.appHTML.elemAudioEn.src =
         window.location.origin + location.pathname + this.ques.audioEnUrl;
 
-      console.log("elemAudioEn.src", this.appHTML.elemAudioEn.src);
+      this.appHTML.elemAudioEn.load();
 
       let ratioSpeed = 90;
 
@@ -330,8 +327,6 @@ class App {
       } else if (this.ques.en.length >= 20) {
         ratioSpeed = 50;
       }
-
-      console.log("ratioSpeed", ratioSpeed);
 
       this.appHTML.elemAudioWrapper.dataset.timeSound =
         this.ques.en.length * ratioSpeed;
