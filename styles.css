@@ -74,11 +74,13 @@ html {
 
   background: url("./assets/icons/menu.png") no-repeat center;
   background-size: contain;
+  transition: all 0.2s;
 }
 
 .menu__opened {
   background: url("./assets/icons/menu-close.png") no-repeat center;
   background-size: contain;
+  transition: all 0.2s;
 }
 
 .menu-body {
@@ -91,8 +93,9 @@ html {
   border-radius: 5px;
   background-color: #2196f3;
   opacity: 0.98;
-  transition: all 1s;
+
   overflow-y: auto;
+  box-shadow: 1px 1px 1px rgb(0 0 0 / 20%);
 }
 
 .item-menu {
