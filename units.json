@@ -50,6 +50,21 @@
       "id": "unit3-audio",
       "url": "unit3-audio.json",
       "name": "Unit 3 Audio: There Is и There Are"
+    },
+    {
+      "id": "worlds4",
+      "url": "worlds4.json",
+      "name": "Words 4: learning"
+    },
+    {
+      "id": "worlds5",
+      "url": "worlds5.json",
+      "name": "Words 5: learning"
+    },
+    {
+      "id": "worlds6",
+      "url": "worlds6.json",
+      "name": "Words 6: learning"
     }
   ]
 }

@@ -355,7 +355,16 @@ class App {
   renderElementsWord() {
     this.appHTML.elemBoard.innerHTML = "";
 
-    let words = (this.ques.en + " " + this.ques.addWord).split(" ");
+    let words = this.ques.en.split(" ");
+
+    if (this.ques.addWord) {
+      words = words.concat(this.ques.addWord);
+    } else {
+      words = words.concat(
+        this.getRandomWords(this.unitData.addWords, 4, this.ques.en)
+      );
+    }
+
     words = words.sort(() => Math.random() - 0.5);
 
     words.forEach((word) => {
@@ -597,6 +606,14 @@ class App {
 
     if (objColor) return objColor.color;
     return "white";
+  }
+
+  getRandomWords(wordsStr, countWords, exludedWord) {
+    let words = wordsStr.split(" ");
+    words = words.filter((word) => word !== exludedWord);
+    words.sort(() => Math.random() - 0.5);
+
+    return words.slice(0, countWords - 1);
   }
 }
 

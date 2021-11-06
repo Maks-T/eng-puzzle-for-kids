@@ -1,0 +1,129 @@
+﻿{
+  "name": "Words 4: learning",
+  "addWords": "leg legs body head wing hand arm feet foot cucumber ladybird nice think bye ice-cream little tea",
+  "questions": [
+    {
+      "en": "leg",
+      "ru": "нога",
+      "addWord": "",
+      "audioEnUrl": "audios/words/leg.mp3",
+      "transcript": "[ lɛg ]"
+    },
+    {
+      "en": "legs",
+      "ru": "ноги",
+      "addWord": "",
+      "audioEnUrl": "audios/words/legs.mp3",
+      "transcript": "[ lɛgz ]"
+    },
+    {
+      "en": "body",
+      "ru": "тело",
+      "addWord": "",
+      "audioEnUrl": "audios/words/body.mp3",
+      "transcript": "[ ˈbɑdi ]"
+    },
+    {
+      "en": "head",
+      "ru": "голова",
+      "addWord": "",
+      "audioEnUrl": "audios/words/head.mp3",
+      "transcript": "[ hɛd ]"
+    },
+    {
+      "en": "wing",
+      "ru": "крыло",
+      "addWord": "",
+      "audioEnUrl": "audios/words/wing.mp3",
+      "transcript": "[ wɪŋ ]"
+    },
+    {
+      "en": "hand",
+      "ru": "рука (ладонь)",
+      "addWord": "",
+      "audioEnUrl": "audios/words/hand.mp3",
+      "transcript": "[ hænd ]"
+    },
+    {
+      "en": "arm",
+      "ru": "рука",
+      "addWord": "",
+      "audioEnUrl": "audios/words/arm.mp3",
+      "transcript": "[ ɑrm ]"
+    },
+
+    {
+      "en": "feet",
+      "ru": "ступни",
+      "addWord": "",
+      "audioEnUrl": "audios/words/feet.mp3",
+      "transcript": "[ fit ]"
+    },
+
+    {
+      "en": "foot",
+      "ru": "ступня",
+      "addWord": "",
+      "audioEnUrl": "audios/words/foot.mp3",
+      "transcript": "[ fʊt ]"
+    },
+    {
+      "en": "cucumber",
+      "ru": "огурец",
+      "addWord": "",
+      "audioEnUrl": "audios/words/cucumber.mp3",
+      "transcript": "[ ˈkjukəmbər ]"
+    },
+    {
+      "en": "ladybird",
+      "ru": "божья коровка",
+      "addWord": "",
+      "audioEnUrl": "audios/words/ladybird.mp3",
+      "transcript": "[ ˈleɪdiˌbɜrd ]"
+    },
+    {
+      "en": "nice",
+      "ru": "прекрасный",
+      "addWord": "",
+      "audioEnUrl": "audios/words/nice.mp3",
+      "transcript": "[ naɪs ]"
+    },
+    {
+      "en": "think",
+      "ru": "думать",
+      "addWord": "",
+      "audioEnUrl": "audios/words/think.mp3",
+      "transcript": "[ θɪŋk ]"
+    },
+
+    {
+      "en": "bye",
+      "ru": "пока (досвидания)",
+      "addWord": "",
+      "audioEnUrl": "audios/words/bye.mp3",
+      "transcript": "[ baɪ ]"
+    },
+    {
+      "en": "ice-cream",
+      "ru": "мороженое",
+      "addWord": "",
+      "audioEnUrl": "audios/words/ice-cream.mp3",
+      "transcript": "[ ˈaɪˌskrim ]"
+    },
+    {
+      "en": "little",
+      "ru": "маленкий",
+      "addWord": "",
+      "audioEnUrl": "audios/words/little.mp3",
+      "transcript": "[ ˈlɪtəl ]"
+    },
+    {
+      "en": "tea",
+      "ru": "чай",
+      "addWord": "",
+      "audioEnUrl": "audios/words/tea.mp3",
+      "transcript": "[ ti ]"
+    }
+  ],
+  "colors": []
+}

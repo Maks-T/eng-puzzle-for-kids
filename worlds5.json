@@ -1,0 +1,141 @@
+﻿{
+  "name": "Words 5: learning",
+  "addWords": "hot window under near behind tree flower mum dad glad see you say her his back do who meet",
+  "questions": [
+    {
+      "en": "hot",
+      "ru": "горячий",
+      "addWord": "",
+      "audioEnUrl": "audios/words/hot.mp3",
+      "transcript": "[ hɑt ]"
+    },
+    {
+      "en": "window",
+      "ru": "окно",
+      "addWord": "",
+      "audioEnUrl": "audios/words/window.mp3",
+      "transcript": "[ ˈwɪndoʊ ]"
+    },
+    {
+      "en": "under",
+      "ru": "под",
+      "addWord": "",
+      "audioEnUrl": "audios/words/under.mp3",
+      "transcript": "[ ˈʌndər ]"
+    },
+    {
+      "en": "near",
+      "ru": "рядом",
+      "addWord": "",
+      "audioEnUrl": "audios/words/near.mp3",
+      "transcript": "[ nɪr ]"
+    },
+    {
+      "en": "behind",
+      "ru": "позади",
+      "addWord": "",
+      "audioEnUrl": "audios/words/behind.mp3",
+      "transcript": "[ bɪˈhaɪnd ]"
+    },
+    {
+      "en": "tree",
+      "ru": "дерево",
+      "addWord": "",
+      "audioEnUrl": "audios/words/tree.mp3",
+      "transcript": "[ tri ]"
+    },
+    {
+      "en": "flower",
+      "ru": "цветок",
+      "addWord": "",
+      "audioEnUrl": "audios/words/flower.mp3",
+      "transcript": "[ flaʊər ]"
+    },
+    {
+      "en": "mum",
+      "ru": "мама",
+      "addWord": "",
+      "audioEnUrl": "audios/words/mum.mp3",
+      "transcript": "[ mʌm ]"
+    },
+    {
+      "en": "dad",
+      "ru": "папа",
+      "addWord": "",
+      "audioEnUrl": "audios/words/dad.mp3",
+      "transcript": "[ dæd ]"
+    },
+    {
+      "en": "glad",
+      "ru": "рад (радоваться)",
+      "addWord": "",
+      "audioEnUrl": "audios/words/glad.mp3",
+      "transcript": "[ glæd ]"
+    },
+
+    {
+      "en": "see",
+      "ru": "видеть",
+      "addWord": "",
+      "audioEnUrl": "audios/words/see.mp3",
+      "transcript": "[ si ]"
+    },
+    {
+      "en": "you",
+      "ru": "ты",
+      "addWord": "",
+      "audioEnUrl": "audios/words/you.mp3",
+      "transcript": "[ ju ]"
+    },
+    {
+      "en": "say",
+      "ru": "говорить",
+      "addWord": "",
+      "audioEnUrl": "audios/words/say.mp3",
+      "transcript": "[ seɪ ]"
+    },
+    {
+      "en": "her",
+      "ru": "её",
+      "addWord": "",
+      "audioEnUrl": "audios/words/her.mp3",
+      "transcript": "[ hɜr ]"
+    },
+    {
+      "en": "his",
+      "ru": "его",
+      "addWord": "",
+      "audioEnUrl": "audios/words/his.mp3",
+      "transcript": "[ hɪz ]"
+    },
+    {
+      "en": "back",
+      "ru": "назад",
+      "addWord": "",
+      "audioEnUrl": "audios/words/back.mp3",
+      "transcript": "[ bæk ]"
+    },
+    {
+      "en": "do",
+      "ru": "делать",
+      "addWord": "",
+      "audioEnUrl": "audios/words/do.mp3",
+      "transcript": "[ du ]"
+    },
+    {
+      "en": "who",
+      "ru": "кто",
+      "addWord": "",
+      "audioEnUrl": "audios/words/who.mp3",
+      "transcript": "[ hu ]"
+    },
+    {
+      "en": "meet",
+      "ru": "встречать",
+      "addWord": "",
+      "audioEnUrl": "audios/words/meet.mp3",
+      "transcript": "[ mit ]"
+    }
+  ],
+  "colors": []
+}
