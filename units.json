@@ -57,14 +57,29 @@
       "name": "Words 4: learning"
     },
     {
+      "id": "worlds4-trainer",
+      "url": "worlds4-trainer.json",
+      "name": "Words 4: trainer"
+    },
+    {
       "id": "worlds5",
       "url": "worlds5.json",
       "name": "Words 5: learning"
     },
     {
+      "id": "worlds5-trainer",
+      "url": "worlds5-trainer.json",
+      "name": "Words 5: trainer"
+    },
+    {
       "id": "worlds6",
       "url": "worlds6.json",
       "name": "Words 6: learning"
+    },
+    {
+      "id": "worlds6-trainer",
+      "url": "worlds6-trainer.json",
+      "name": "Words 6: trainer"
     }
   ]
 }

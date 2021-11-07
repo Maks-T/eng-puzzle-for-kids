@@ -1,0 +1,119 @@
+﻿{
+  "name": "Words 6: trainer",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "кухня",
+      "en": "kitchen",
+      "addWord": "",
+      "audioEnUrl": "audios/words/kitchen.mp3",
+      "transcript": " [ ˈkɪʧən ]"
+    },
+    {
+      "ru": "летать",
+      "en": "fly",
+      "addWord": "",
+      "audioEnUrl": "audios/words/fly.mp3",
+      "transcript": " [ flaɪ ]"
+    },
+    {
+      "ru": "из",
+      "en": "from",
+      "addWord": "",
+      "audioEnUrl": "audios/words/from.mp3",
+      "transcript": " [ frʌm ]"
+    },
+    {
+      "ru": "два",
+      "en": "two",
+      "addWord": "",
+      "audioEnUrl": "audios/words/two.mp3",
+      "transcript": " [ tu ]"
+    },
+    {
+      "ru": "шесть",
+      "en": "six",
+      "addWord": "",
+      "audioEnUrl": "audios/words/six.mp3",
+      "transcript": " [ sɪks ]"
+    },
+    {
+      "ru": "четыре",
+      "en": "four",
+      "addWord": "",
+      "audioEnUrl": "audios/words/four.mp3",
+      "transcript": " [ fɔr ]"
+    },
+    {
+      "ru": "глаза",
+      "en": "eyes",
+      "addWord": "",
+      "audioEnUrl": "audios/words/eyes.mp3",
+      "transcript": " [ aɪz ]"
+    },
+    {
+      "ru": "пятна",
+      "en": "spots",
+      "addWord": "",
+      "audioEnUrl": "audios/words/spots.mp3",
+      "transcript": " [ spɑts ]"
+    },
+    {
+      "ru": "весна",
+      "en": "spring",
+      "addWord": "",
+      "audioEnUrl": "audios/words/spring.mp3",
+      "transcript": " [ sprɪŋ ]"
+    },
+    {
+      "ru": "теплый",
+      "en": "warm",
+      "addWord": "",
+      "audioEnUrl": "audios/words/warm.mp3",
+      "transcript": " [ wɔrm ]"
+    },
+    {
+      "ru": "солнечный",
+      "en": "sunny",
+      "addWord": "",
+      "audioEnUrl": "audios/words/sunny.mp3",
+      "transcript": " [ ˈsʌni ]"
+    },
+    {
+      "ru": "ветреный",
+      "en": "windy",
+      "addWord": "",
+      "audioEnUrl": "audios/words/windy.mp3",
+      "transcript": " [ ˈwɪndi ]"
+    },
+    {
+      "ru": "очень",
+      "en": "very",
+      "addWord": "",
+      "audioEnUrl": "audios/words/very.mp3",
+      "transcript": " [ ˈvɛri ]"
+    },
+    {
+      "ru": "где",
+      "en": "where",
+      "addWord": "",
+      "audioEnUrl": "audios/words/where.mp3",
+      "transcript": " [ wɛr ]"
+    },
+    {
+      "ru": "спросить",
+      "en": "ask",
+      "addWord": "",
+      "audioEnUrl": "audios/words/ask.mp3",
+      "transcript": " [ æsk ]"
+    },
+    {
+      "ru": "дом",
+      "en": "house",
+      "addWord": "",
+      "audioEnUrl": "audios/words/house.mp3",
+      "transcript": " [ haʊs ]"
+    }
+  ],
+  "colors": []
+}
