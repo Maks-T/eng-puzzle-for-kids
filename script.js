@@ -358,7 +358,7 @@ class App {
     let words = this.ques.en.split(" ");
 
     if (this.ques.addWord) {
-      words = words.concat(this.ques.addWord);
+      words = words.concat(this.ques.addWord.split(" "));
     } else {
       words = words.concat(
         this.getRandomWords(this.unitData.addWords, 4, this.ques.en)
