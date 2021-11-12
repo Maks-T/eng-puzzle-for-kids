@@ -335,6 +335,8 @@ class App {
       this.appHTML.elemSentence.innerHTML = this.ques.ru;
     }
 
+    this.appHTML.increaseAudioElement();
+
     if (this.ques.audioEnUrl) {
       this.appHTML.elemAudioEn.src =
         window.location.origin + location.pathname + this.ques.audioEnUrl;
@@ -573,7 +575,7 @@ class App {
       }, 400);
 
       console.log("НЕ ПРАВИЛЬНО");
-
+      this.appHTML.decreaseAudioElement();
       this.appHTML.elemBoard.innerHTML = "";
       this.appHTML.showDelText(curWord);
       this.appHTML.showRightText(this.ques.en);
