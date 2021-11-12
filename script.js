@@ -59,7 +59,7 @@ class AppHTML {
       "Переведи предложение"
     );
 
-    this.elemSentence = this.createElement("p", ["sentence"], "empty");
+    this.elemSentence = this.createElement("p", ["sentence"], "");
     this.elemSentence.append(this.elemAudioWrapper);
 
     this.elemBoard = this.createElement("div", ["board"], "");
@@ -167,7 +167,11 @@ class AppHTML {
   }
 
   createElementAudio() {
-    this.elemAudioWrapper = this.createElement("div", ["audio__wrapper"], "");
+    this.elemAudioWrapper = this.createElement(
+      "div",
+      ["audio__wrapper", "large"],
+      ""
+    );
 
     this.elemAudioEn = this.createElement("audio", [], "");
 
@@ -225,6 +229,14 @@ class AppHTML {
     this.elemMenuBody.classList.toggle("hide");
     this.elemMenuBtn.classList.toggle("menu__opened");
   };
+
+  increaseAudioElement() {
+    this.elemAudioWrapper.classList.add("large");
+  }
+
+  decreaseAudioElement() {
+    this.elemAudioWrapper.classList.remove("large");
+  }
 
   playAudioEn = () => {
     if (this.elemAudioEn.src) {
@@ -319,7 +331,9 @@ class App {
     this.appHTML.elemTitle.innerHTML = this.unitData.name;
     this.ques = this.questions[this.indexQues];
 
-    this.appHTML.elemSentence.innerHTML = this.ques.ru;
+    if (this.ques.ru) {
+      this.appHTML.elemSentence.innerHTML = this.ques.ru;
+    }
 
     if (this.ques.audioEnUrl) {
       this.appHTML.elemAudioEn.src =
@@ -467,6 +481,9 @@ class App {
       elem.style.top = coordSelectElemY;
 
       this.selectedElems.push(elem);
+      if (this.selectedElems.length) {
+        this.appHTML.decreaseAudioElement();
+      }
 
       elem.classList.remove("word");
       elem.classList.add("word_active");
@@ -497,6 +514,10 @@ class App {
 
           return elem;
         });
+
+      if (!this.selectedElems.length) {
+        this.appHTML.increaseAudioElement();
+      }
 
       elem.style.left = elem.dataset.startX;
       elem.style.top = elem.dataset.startY;

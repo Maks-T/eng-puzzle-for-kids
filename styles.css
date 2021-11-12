@@ -171,6 +171,8 @@ html {
 
   background: url("./assets/icons/sound.png") center no-repeat;
   background-size: contain;
+
+  transition: 1s;
 }
 
 .audio__wrapper:hover {
@@ -192,10 +194,40 @@ html {
   }
 }
 
+@keyframes click-sound-large {
+  10% {
+    transform: scale(4.2);
+  }
+  40% {
+    transform: scale(4);
+  }
+  70% {
+    transform: scale(4.3);
+  }
+
+  100% {
+    transform: scaleY(4);
+  }
+}
+
 .play {
   background: url("./assets/icons/sound-blue.png") center no-repeat;
   background-size: contain;
   animation: click-sound 1s ease-in-out infinite;
+}
+
+.large {
+  right: 50%;
+  top: 140px;
+  transform: scale(4);
+  transition: 1s;
+}
+
+.large.play {
+  right: 50%;
+  top: 140px;
+
+  animation: click-sound-large 1s ease-in-out infinite;
 }
 
 .board {
