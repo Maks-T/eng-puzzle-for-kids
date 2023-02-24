@@ -1,11 +1,11 @@
 class Sounds {
   constructor() {
-    this.audioWin = new Audio("./assets/sounds/Slugfest_game_won_01.ogg");
-    this.audioClick = new Audio("./assets/sounds/Menu_click_08.ogg");
+    this.audioWin = new Audio('./assets/sounds/Slugfest_game_won_01.ogg');
+    this.audioClick = new Audio('./assets/sounds/Menu_click_08.ogg');
     this.audioSuccess = new Audio(
-      "./assets/sounds/Unlock_level_Game_Sound.mp3"
+      './assets/sounds/Unlock_level_Game_Sound.mp3'
     );
-    this.audioMistakes = new Audio("./assets/sounds/Bot_Wrong_Answer_3.mp3");
+    this.audioMistakes = new Audio('./assets/sounds/Bot_Wrong_Answer_3.mp3');
   }
   win() {
     this.audioWin.play();
@@ -34,7 +34,7 @@ class AppHTML {
   }
 
   renderElements() {
-    this.container.innerHTML = "";
+    this.container.innerHTML = '';
 
     this.createElements();
 
@@ -54,84 +54,84 @@ class AppHTML {
     this.createElementAudio();
 
     this.elemDescription = this.createElement(
-      "p",
-      ["description"],
-      "Переведи предложение"
+      'p',
+      ['description'],
+      'Переведи предложение'
     );
 
-    this.elemSentence = this.createElement("p", ["sentence"], "");
+    this.elemSentence = this.createElement('p', ['sentence'], '');
     this.elemSentence.append(this.elemAudioWrapper);
 
-    this.elemBoard = this.createElement("div", ["board"], "");
+    this.elemBoard = this.createElement('div', ['board'], '');
 
     this.elemBtnCheck = this.createElement(
-      "button",
-      ["btn-check"],
-      "Проверить"
+      'button',
+      ['btn-check'],
+      'Проверить'
     );
 
     this.elemBtnNext = this.createElement(
-      "button",
-      ["btn-next", "hide"],
-      "Следующий"
+      'button',
+      ['btn-next', 'hide'],
+      'Следующий'
     );
 
-    this.elemPanelBtn = this.createElement("div", ["panel-btn"], "");
+    this.elemPanelBtn = this.createElement('div', ['panel-btn'], '');
 
     this.elemPanelBtn.append(this.elemBtnCheck, this.elemBtnNext);
 
     this.elemSuccessMessage = this.createElement(
-      "div",
-      ["success"],
-      "Правильно"
+      'div',
+      ['success'],
+      'Правильно'
     );
 
-    this.elemErrorMessage = this.createElement("div", ["error"], "Неправильно");
+    this.elemErrorMessage = this.createElement('div', ['error'], 'Неправильно');
 
-    this.elemDelText = this.createElement("s", ["delete-text"], "");
+    this.elemDelText = this.createElement('s', ['delete-text'], '');
 
-    this.elemRightText = this.createElement("div", ["right-text"], "");
+    this.elemRightText = this.createElement('div', ['right-text'], '');
 
-    this.elemTranscript = this.createElement("div", ["transcript"], "");
+    this.elemTranscript = this.createElement('div', ['transcript'], '');
   }
 
   createElementStatistic() {
-    this.elemStatisticPanel = this.createElement("h1", ["statistic-panel"], "");
+    this.elemStatisticPanel = this.createElement('h1', ['statistic-panel'], '');
 
     const elemCountQuesTitle = this.createElement(
-      "span",
-      ["count-title"],
-      "Всего вопросов:"
+      'span',
+      ['count-title'],
+      'Всего вопросов:'
     );
 
     this.elemCountQues = this.createElement(
-      "span",
-      ["count-stat", "count-ques"],
-      ""
+      'span',
+      ['count-stat', 'count-ques'],
+      ''
     );
 
     const elemKnewQuesTitle = this.createElement(
-      "span",
-      ["count-title"],
-      "Изучено:"
+      'span',
+      ['count-title'],
+      'Изучено:'
     );
 
     this.elemKnewQues = this.createElement(
-      "span",
-      ["count-stat", "knew-ques"],
-      "0"
+      'span',
+      ['count-stat', 'knew-ques'],
+      '0'
     );
 
     const elemLeftQuesTitle = this.createElement(
-      "span",
-      ["count-title"],
-      "Осталось изучить:"
+      'span',
+      ['count-title'],
+      'Осталось изучить:'
     );
 
     this.elemLeftQues = this.createElement(
-      "span",
-      ["count-stat", "left-ques"],
-      ""
+      'span',
+      ['count-stat', 'left-ques'],
+      ''
     );
 
     this.elemStatisticPanel.append(
@@ -146,16 +146,16 @@ class AppHTML {
 
   createElementTitle() {
     this.elemTitleWrapper = this.createElement(
-      "div",
-      ["title-unit__wrapper"],
-      ""
+      'div',
+      ['title-unit__wrapper'],
+      ''
     );
 
-    this.elemMenuBtn = this.createElement("div", ["menu"], "");
+    this.elemMenuBtn = this.createElement('div', ['menu'], '');
 
-    this.elemTitle = this.createElement("div", ["title-unit"], "");
+    this.elemTitle = this.createElement('div', ['title-unit'], '');
 
-    this.elemMenuBody = this.createElement("div", ["menu-body", "hide"], "");
+    this.elemMenuBody = this.createElement('div', ['menu-body', 'hide'], '');
 
     this.elemTitleWrapper.append(
       this.elemMenuBtn,
@@ -163,21 +163,21 @@ class AppHTML {
       this.elemMenuBody
     );
 
-    this.elemMenuBtn.addEventListener("click", this.showMenuBody);
+    this.elemMenuBtn.addEventListener('click', this.showMenuBody);
   }
 
   createElementAudio() {
     this.elemAudioWrapper = this.createElement(
-      "div",
-      ["audio__wrapper", "large"],
-      ""
+      'div',
+      ['audio__wrapper', 'large'],
+      ''
     );
 
-    this.elemAudioEn = this.createElement("audio", [], "");
+    this.elemAudioEn = this.createElement('audio', [], '');
 
-    this.elemAudioEn.preload = "auto";
+    this.elemAudioEn.preload = 'auto';
 
-    this.elemAudioWrapper.addEventListener("click", this.playAudioEn);
+    this.elemAudioWrapper.addEventListener('click', this.playAudioEn);
   }
 
   createElement(tag, classList, innerHTML) {
@@ -201,13 +201,13 @@ class AppHTML {
   }
 
   showBtnCheck() {
-    this.elemBtnCheck.classList.remove("hide");
-    this.elemBtnNext.classList.add("hide");
+    this.elemBtnCheck.classList.remove('hide');
+    this.elemBtnNext.classList.add('hide');
   }
 
   showBtnNext() {
-    this.elemBtnNext.classList.remove("hide");
-    this.elemBtnCheck.classList.add("hide");
+    this.elemBtnNext.classList.remove('hide');
+    this.elemBtnCheck.classList.add('hide');
   }
 
   showRightText(text) {
@@ -226,24 +226,24 @@ class AppHTML {
   }
 
   showMenuBody = () => {
-    this.elemMenuBody.classList.toggle("hide");
-    this.elemMenuBtn.classList.toggle("menu__opened");
+    this.elemMenuBody.classList.toggle('hide');
+    this.elemMenuBtn.classList.toggle('menu__opened');
   };
 
   increaseAudioElement() {
-    this.elemAudioWrapper.classList.add("large");
+    this.elemAudioWrapper.classList.add('large');
   }
 
   decreaseAudioElement() {
-    this.elemAudioWrapper.classList.remove("large");
+    this.elemAudioWrapper.classList.remove('large');
   }
 
   playAudioEn = () => {
     if (this.elemAudioEn.src) {
       this.elemAudioEn.play();
-      this.elemAudioWrapper.classList.add("play");
+      this.elemAudioWrapper.classList.add('play');
       setTimeout(() => {
-        this.elemAudioWrapper.classList.remove("play");
+        this.elemAudioWrapper.classList.remove('play');
       }, this.elemAudioWrapper.dataset.timeSound);
     }
   };
@@ -256,7 +256,7 @@ class AppUnit {
     const unitNamesData = await this.getUnitsInfo();
 
     const urlParams = new URLSearchParams(window.location.search);
-    const id = urlParams.get("id");
+    const id = urlParams.get('id');
 
     let unitInfo;
 
@@ -281,7 +281,7 @@ class AppUnit {
   }
 
   async getUnitsInfo() {
-    const unitNamesResponse = await fetch("units.json");
+    const unitNamesResponse = await fetch('units.json');
 
     const unitNamesData = await unitNamesResponse.json();
 
@@ -316,12 +316,12 @@ class App {
     this.unitsInfo = await this.appUnit.getUnitsInfo();
 
     this.unitsInfo.units.forEach((unitInfo) => {
-      const itemMenu = document.createElement("a");
+      const itemMenu = document.createElement('a');
 
       itemMenu.href =
-        window.location.origin + location.pathname + "?id=" + unitInfo.id;
+        window.location.origin + location.pathname + '?id=' + unitInfo.id;
       itemMenu.innerHTML = unitInfo.name;
-      itemMenu.classList.add("item-menu");
+      itemMenu.classList.add('item-menu');
 
       this.appHTML.elemMenuBody.append(itemMenu);
     });
@@ -338,8 +338,12 @@ class App {
     this.appHTML.increaseAudioElement();
 
     if (this.ques.audioEnUrl) {
-      this.appHTML.elemAudioEn.src =
-        window.location.origin + location.pathname + this.ques.audioEnUrl;
+      if (this.ques.audioEnUrl.includes('http')) {
+        this.appHTML.elemAudioEn.src = this.ques.audioEnUrl;
+      } else {
+        this.appHTML.elemAudioEn.src =
+          window.location.origin + location.pathname + this.ques.audioEnUrl;
+      }
 
       let ratioSpeed = 90;
 
@@ -369,12 +373,12 @@ class App {
   }
 
   renderElementsWord() {
-    this.appHTML.elemBoard.innerHTML = "";
+    this.appHTML.elemBoard.innerHTML = '';
 
-    let words = this.ques.en.split(" ");
+    let words = this.ques.en.split(' ');
 
     if (this.ques.addWord) {
-      words = words.concat(this.ques.addWord.split(" "));
+      words = words.concat(this.ques.addWord.split(' '));
     } else {
       words = words.concat(
         this.getRandomWords(this.unitData.addWords, 4, this.ques.en)
@@ -384,11 +388,11 @@ class App {
     words = words.sort(() => Math.random() - 0.5);
 
     words.forEach((word) => {
-      const wordElem = document.createElement("div");
-      wordElem.classList.add("word");
+      const wordElem = document.createElement('div');
+      wordElem.classList.add('word');
       wordElem.classList.add(this.getColorClass(word));
 
-      wordElem.innerHTML = word.replace("+", " ");
+      wordElem.innerHTML = word.replace('+', ' ');
       this.wordElems.push(wordElem);
       this.appHTML.elemBoard.append(wordElem);
     });
@@ -415,32 +419,32 @@ class App {
   }
 
   addEventsToElements() {
-    this.appHTML.elemBoard.addEventListener("click", this.handlerElementBoard);
+    this.appHTML.elemBoard.addEventListener('click', this.handlerElementBoard);
 
     this.appHTML.elemBtnCheck.addEventListener(
-      "click",
+      'click',
       this.handlerElementBtnCheck
     );
 
     this.appHTML.elemBtnNext.addEventListener(
-      "click",
+      'click',
       this.handlerElementBtnNext
     );
   }
 
   removeEventsToElements() {
     this.appHTML.elemBoard.removeEventListener(
-      "click",
+      'click',
       this.handlerElementBoard
     );
 
     this.appHTML.elemBtnCheck.removeEventListener(
-      "click",
+      'click',
       this.handlerElementBtnCheck
     );
 
     this.appHTML.elemBtnNext.removeEventListener(
-      "click",
+      'click',
       this.handlerElementBtnNext
     );
   }
@@ -468,7 +472,7 @@ class App {
       );
     }
 
-    if (event.target.classList.contains("word")) {
+    if (event.target.classList.contains('word')) {
       if (coordSelectElemX + elem.clientWidth + gap > boardX) {
         coordSelectElemX = gap;
         coordSelectElemY =
@@ -487,13 +491,13 @@ class App {
         this.appHTML.decreaseAudioElement();
       }
 
-      elem.classList.remove("word");
-      elem.classList.add("word_active");
+      elem.classList.remove('word');
+      elem.classList.add('word_active');
 
       coordSelectElemX = elem.clientWidth + gap;
 
       this.sounds.click();
-    } else if (event.target.classList.contains("word_active")) {
+    } else if (event.target.classList.contains('word_active')) {
       const elem = event.target;
 
       coordSelectElemX = gap;
@@ -524,37 +528,37 @@ class App {
       elem.style.left = elem.dataset.startX;
       elem.style.top = elem.dataset.startY;
 
-      elem.classList.remove("word_active");
-      elem.classList.add("word");
+      elem.classList.remove('word_active');
+      elem.classList.add('word');
     }
   };
 
   handlerElementBtnCheck = (event) => {
     const curWord = this.selectedElems.reduce((text, elem) => {
-      return text + elem.innerHTML + " ";
-    }, "");
+      return text + elem.innerHTML + ' ';
+    }, '');
 
     if (
       curWord
         .trim()
         .toLowerCase()
-        .replace(/[\s.,%?]/g, "") ==
+        .replace(/[\s.,%?]/g, '') ==
       this.ques.en
         .trim()
         .toLowerCase()
-        .replace(/[\s.,%?]/g, "")
+        .replace(/[\s.,%?]/g, '')
     ) {
       setTimeout(() => {
         this.appHTML.playAudioEn();
       }, 300);
-      console.log("ПРАВИЛЬНО");
+      console.log('ПРАВИЛЬНО');
 
       this.success += 1;
 
       this.appHTML.elemKnewQues.innerHTML =
         Number(this.appHTML.elemKnewQues.innerHTML) + 1;
 
-      this.appHTML.elemBoard.innerHTML = "";
+      this.appHTML.elemBoard.innerHTML = '';
       this.appHTML.showRightText(this.ques.en);
       if (this.ques.transcript) {
         this.appHTML.showTranscipt(this.ques.transcript);
@@ -574,9 +578,9 @@ class App {
         this.appHTML.playAudioEn();
       }, 400);
 
-      console.log("НЕ ПРАВИЛЬНО");
+      console.log('НЕ ПРАВИЛЬНО');
       this.appHTML.decreaseAudioElement();
-      this.appHTML.elemBoard.innerHTML = "";
+      this.appHTML.elemBoard.innerHTML = '';
       this.appHTML.showDelText(curWord);
       this.appHTML.showRightText(this.ques.en);
       if (this.ques.transcript) {
@@ -608,7 +612,7 @@ class App {
           и ${this.success} правильных ответов
           `;
       this.sounds.win();
-      this.appHTML.elemPanelBtn.innerHTML = "";
+      this.appHTML.elemPanelBtn.innerHTML = '';
     }
   };
 
@@ -619,20 +623,20 @@ class App {
           word
             .trim()
             .toLowerCase()
-            .replace(/[\s.,%?]/g, "") ===
+            .replace(/[\s.,%?]/g, '') ===
           curWord
             .trim()
             .toLowerCase()
-            .replace(/[\s.,%?]/g, "")
+            .replace(/[\s.,%?]/g, '')
       );
     });
 
     if (objColor) return objColor.color;
-    return "white";
+    return 'white';
   }
 
   getRandomWords(wordsStr, countWords, exludedWord) {
-    let words = wordsStr.split(" ");
+    let words = wordsStr.split(' ');
     words = words.filter((word) => word !== exludedWord);
     words.sort(() => Math.random() - 0.5);
 
@@ -640,7 +644,7 @@ class App {
   }
 }
 
-const app = new App(".main__wrapper");
+const app = new App('.main__wrapper');
 
 window.onload = () => {
   app.run();
