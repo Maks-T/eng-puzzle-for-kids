@@ -204,6 +204,55 @@
       "addWord": "e i b",
       "audioEnUrl": "",
       "transcript": ""
+    },
+    {
+      "ru": "ты (вы)",
+      "en": "y o u",
+      "addWord": "r w e",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "твой (ваш)",
+      "en": "y o u r",
+      "addWord": "r w e",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "им",
+      "en": "t h e m",
+      "addWord": "i r a",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "мы",
+      "en": "w e",
+      "addWord": "i v",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "ему",
+      "en": "h i m",
+      "addWord": "e r",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "ей",
+      "en": "h e r",
+      "addWord": "s h i",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "она",
+      "en": "s h e",
+      "addWord": "h e r",
+      "audioEnUrl": "",
+      "transcript": ""
     }
   ],
   "colors": []
