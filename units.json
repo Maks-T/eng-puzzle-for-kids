@@ -80,6 +80,11 @@
       "id": "worlds6-trainer",
       "url": "worlds6-trainer.json",
       "name": "Words 6: trainer"
+    },
+    {
+      "id": "worlds_school_1",
+      "url": "worlds_school_1.json",
+      "name": "worlds school 1: trainer"
     }
   ]
 }

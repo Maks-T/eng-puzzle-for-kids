@@ -1,0 +1,210 @@
+﻿{
+  "name": "Words 1: learning",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "компьютер",
+      "en": "c o m p u t e r",
+      "addWord": "d f a",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "девочка",
+      "en": "g i r l",
+      "addWord": "e o j",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "лампа",
+      "en": "l a m p",
+      "addWord": "n p h",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "дверь",
+      "en": "d o o r",
+      "addWord": "u y l",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "окно",
+      "en": "w i n d o w",
+      "addWord": "v p k a",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "золотая рыбка",
+      "en": "g o l d w i s h",
+      "addWord": "",
+      "audioEnUrl": "t l n",
+      "transcript": ""
+    },
+    {
+      "ru": "котёнок",
+      "en": "k i t t e n",
+      "addWord": "c s u",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "змея",
+      "en": "s n a k e",
+      "addWord": "e i c",
+      "audioEnUrl": "k l e",
+      "transcript": ""
+    },
+    {
+      "ru": "ковёр",
+      "en": "c a r p e t",
+      "addWord": "k i d",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "стул",
+      "en": "c h a i r",
+      "addWord": "e a y",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "кресло",
+      "en": "a r m c h a i r",
+      "addWord": "e i l f",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "диван",
+      "en": "s o f a",
+      "addWord": "c a e",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "зеркало",
+      "en": "m i r r o r",
+      "addWord": "e n l",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "стол",
+      "en": "t a b l e",
+      "addWord": "e i k",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "книжный стол",
+      "en": "d e s k",
+      "addWord": "c a i",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "книжный шкаф",
+      "en": "b o o k c a s e",
+      "addWord": "u y k i",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "комната",
+      "en": "r o o m",
+      "addWord": "u y n",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "коричневый",
+      "en": "b r o w n",
+      "addWord": "p a e v",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "пол",
+      "en": "f l o o r",
+      "addWord": "u y i k",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "конфеты",
+      "en": "s w e e t s",
+      "addWord": "i c v",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "кролик",
+      "en": "r a b b i t",
+      "addWord": "e p d",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "хомяк",
+      "en": "h a m s t e r",
+      "addWord": "e c g",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "пироженок(торт)",
+      "en": "c a k e",
+      "addWord": "e s p",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "маленький",
+      "en": "l i t t l e",
+      "addWord": "d a p",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "кровать",
+      "en": "b e d",
+      "addWord": "i a p",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "папа",
+      "en": "d a d",
+      "addWord": "p e i",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "бабушка",
+      "en": "g r a n n y",
+      "addWord": "e i k",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "дедушка",
+      "en": "g r a n d a d",
+      "addWord": "e i k",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "имя",
+      "en": "n a m e",
+      "addWord": "e i b",
+      "audioEnUrl": "",
+      "transcript": ""
+    }
+  ],
+  "colors": []
+}

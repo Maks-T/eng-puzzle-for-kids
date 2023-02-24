@@ -12,7 +12,7 @@ wordsEn.forEach((word, index) => {
   const wordObj = {};
 
   wordObj.ru = wordsRu[index];
-  wordObj.en = word;
+  wordObj.en = word.split('').join(' ');
   wordObj.addWord = '';
   wordObj.audioEnUrl = '';
   wordObj.transcript = '';
