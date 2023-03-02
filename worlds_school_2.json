@@ -1,0 +1,91 @@
+﻿{
+  "name": "Words 2: learning",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "один",
+      "en": "o n e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "два",
+      "en": "t w o",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "три",
+      "en": "t h r e e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "четыре",
+      "en": "f o u r",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "пять",
+      "en": "f i v e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "шесть",
+      "en": "s i x",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "семь",
+      "en": "s e v e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "восемь",
+      "en": "e i g h t",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "девять",
+      "en": "n i n e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "десять",
+      "en": "t e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "одиннадцать",
+      "en": "e l e v e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "двенадцать",
+      "en": "t w e l v e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    }
+  ],
+  "colors": []
+}

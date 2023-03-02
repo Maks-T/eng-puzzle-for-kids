@@ -1,0 +1,91 @@
+﻿{
+  "name": "Words 3: learning",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "школа",
+      "en": "o n e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "тетрадь",
+      "en": "t w o",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "книга",
+      "en": "t h r e e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "линейка",
+      "en": "f o u r",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "стерка",
+      "en": "f i v e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "пенал",
+      "en": "s i x",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "учитель",
+      "en": "s e v e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "ученил",
+      "en": "e i g h t",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "сумка",
+      "en": "n i n e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "карандаш",
+      "en": "t e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "ручка",
+      "en": "e l e v e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "желтый",
+      "en": "t w e l v e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    }
+  ],
+  "colors": []
+}

@@ -1,9 +1,9 @@
 const wordsStrEn =
-  'computer girl lamp door window goldwish kitten snake carpet chair armchair sofa mirror table desk bookcase room brown floor sweets rabbit hamster cake little bed dad granny grandad name';
+  'one two three four five six seven eight nine ten eleven twelve';
 const wordsEn = wordsStrEn.split(' ');
 
 const wordsStrRu =
-  'компьютер девочка лампа дверь окно золотая_рыбка котёнок змея ковёр стул кресло диван зеркало стол книжный_стол книжный_шкаф комната коричневый пол конфеты кролик хомяк пироженок(торт) маленький кровать папа бабушка дедушка имя';
+  'школа тетрадь книга линейка стерка пенал учитель ученил сумка карандаш ручка желтый коричневый зеленый голубой фиолетовый';
 const wordsRu = wordsStrRu.split(' ');
 
 const wordsJSON = [];

@@ -85,6 +85,16 @@
       "id": "worlds_school_1",
       "url": "worlds_school_1.json",
       "name": "worlds school 1: trainer"
+    },
+    {
+      "id": "worlds_school_2",
+      "url": "worlds_school_2.json",
+      "name": "worlds school 2: trainer"
+    },
+    {
+      "id": "worlds_school_3",
+      "url": "worlds_school_3.json",
+      "name": "worlds school 3: trainer"
     }
   ]
 }
