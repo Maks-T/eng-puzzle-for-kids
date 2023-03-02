@@ -1,5 +1,5 @@
 const wordsStrEn =
-  'one two three four five six seven eight nine ten eleven twelve';
+  'school exercise-book book ruler rubber pencil-case teacher pupil bag pencil pen yellow brown green blue purple';
 const wordsEn = wordsStrEn.split(' ');
 
 const wordsStrRu =

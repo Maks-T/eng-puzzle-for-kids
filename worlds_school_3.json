@@ -4,84 +4,112 @@
   "questions": [
     {
       "ru": "школа",
-      "en": "o n e",
+      "en": "s c h o o l",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "тетрадь",
-      "en": "t w o",
+      "en": "e x e r c i s e - b o o k",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "книга",
-      "en": "t h r e e",
+      "en": "b o o k",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "линейка",
-      "en": "f o u r",
+      "en": "r u l e r",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "стерка",
-      "en": "f i v e",
+      "en": "r u b b e r",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "пенал",
-      "en": "s i x",
+      "en": "p e n c i l - c a s e",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "учитель",
-      "en": "s e v e n",
+      "en": "t e a c h e r",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
-      "ru": "ученил",
-      "en": "e i g h t",
+      "ru": "ученик",
+      "en": "p u p i l",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "сумка",
-      "en": "n i n e",
+      "en": "b a g",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "карандаш",
-      "en": "t e n",
+      "en": "p e n c i l",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "ручка",
-      "en": "e l e v e n",
+      "en": "p e n",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
     },
     {
       "ru": "желтый",
-      "en": "t w e l v e",
+      "en": "y e l l o w",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "коричневый",
+      "en": "b r o w n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "зеленый",
+      "en": "g r e e n",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "голубой",
+      "en": "b l u e",
+      "addWord": "",
+      "audioEnUrl": "",
+      "transcript": ""
+    },
+    {
+      "ru": "фиолетовый",
+      "en": "p u r p l e",
       "addWord": "",
       "audioEnUrl": "",
       "transcript": ""
