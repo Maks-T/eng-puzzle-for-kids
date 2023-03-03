@@ -113,6 +113,20 @@
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/number.mp3",
       "transcript": ""
+    },
+    {
+      "ru": "играть",
+      "en": "p l a y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/play.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "отвечать",
+      "en": "a n s w e r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/answer.mp3",
+      "transcript": ""
     }
   ],
   "colors": []
