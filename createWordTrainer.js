@@ -1,9 +1,9 @@
 const wordsStrEn =
-  'school exercise-book book ruler rubber pencil-case teacher pupil bag pencil pen yellow brown green blue purple';
+  'picture say listen count describe guess work pairs thing story choose read colour many match number';
 const wordsEn = wordsStrEn.split(' ');
 
 const wordsStrRu =
-  'школа тетрадь книга линейка стерка пенал учитель ученил сумка карандаш ручка желтый коричневый зеленый голубой фиолетовый';
+  'картинка скажи послушай посчитай опиши догадайся работа(работать) пары вещь история выбери прочитай цвет много соответствие пронумеруй';
 const wordsRu = wordsStrRu.split(' ');
 
 const wordsJSON = [];
@@ -14,7 +14,7 @@ wordsEn.forEach((word, index) => {
   wordObj.ru = wordsRu[index];
   wordObj.en = word.split('').join(' ');
   wordObj.addWord = '';
-  wordObj.audioEnUrl = '';
+  wordObj.audioEnUrl = `https://wooordhunt.ru/data/sound/sow/uk/${word}.mp3`;
   wordObj.transcript = '';
 
   wordsJSON.push(wordObj);

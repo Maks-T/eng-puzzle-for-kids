@@ -1,0 +1,119 @@
+﻿{
+  "name": "Words 4: trainer",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "картинка",
+      "en": "p i c t u r e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/picture.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "скажи",
+      "en": "s a y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/say.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "послушай",
+      "en": "l i s t e n",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/listen.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "посчитай",
+      "en": "c o u n t",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/count.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "опиши",
+      "en": "d e s c r i b e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/describe.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "догадайся",
+      "en": "g u e s s",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/guess.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "работа(работать)",
+      "en": "w o r k",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/work.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "пары",
+      "en": "p a i r s",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/pairs.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "вещь",
+      "en": "t h i n g",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/thing.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "история",
+      "en": "s t o r y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/story.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "выбери",
+      "en": "c h o o s e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/choose.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "прочитай",
+      "en": "r e a d",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/read.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "цвет",
+      "en": "c o l o u r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/colour.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "много",
+      "en": "m a n y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/many.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "соответствие",
+      "en": "m a t c h",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/match.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "пронумеруй",
+      "en": "n u m b e r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/number.mp3",
+      "transcript": ""
+    }
+  ],
+  "colors": []
+}
