@@ -1,9 +1,9 @@
 const wordsStrEn =
-  'picture say listen count describe guess work pairs thing story choose read colour many match number';
+  'puppy run sound under egg sun lunch plum net suddenly see tree hungry sit eat like very look late help board near';
 const wordsEn = wordsStrEn.split(' ');
 
 const wordsStrRu =
-  'картинка скажи послушай посчитай опиши догадайся работа(работать) пары вещь история выбери прочитай цвет много соответствие пронумеруй';
+  'щенок бегать звук яйцо солнце обед слива сетка вдруг видеть дерево голодный сидеть есть(кушать) нравится очень смотреть(наблюдать) помощь доска рядом';
 const wordsRu = wordsStrRu.split(' ');
 
 const wordsJSON = [];

@@ -1,0 +1,159 @@
+﻿{
+  "name": "Words 5: trainer",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "щенок",
+      "en": "p u p p y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/puppy.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "бегать",
+      "en": "r u n",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/run.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "звук",
+      "en": "s o u n d",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sound.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "яйцо",
+      "en": "u n d e r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/under.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "солнце",
+      "en": "e g g",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/egg.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "обед",
+      "en": "s u n",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sun.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "слива",
+      "en": "l u n c h",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/lunch.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "сетка",
+      "en": "p l u m",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/plum.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "вдруг",
+      "en": "n e t",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/net.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "видеть",
+      "en": "s u d d e n l y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/suddenly.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "дерево",
+      "en": "s e e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/see.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "голодный",
+      "en": "t r e e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/tree.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "сидеть",
+      "en": "h u n g r y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/hungry.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "есть(кушать)",
+      "en": "s i t",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sit.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "нравится",
+      "en": "e a t",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/eat.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "очень",
+      "en": "l i k e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/like.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "смотреть(наблюдать)",
+      "en": "v e r y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/very.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "помощь",
+      "en": "l o o k",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/look.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "доска",
+      "en": "l a t e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/late.mp3",
+      "transcript": ""
+    },
+    {
+      "ru": "рядом",
+      "en": "h e l p",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/help.mp3",
+      "transcript": ""
+    },
+    {
+      "en": "b o a r d",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/board.mp3",
+      "transcript": ""
+    },
+    {
+      "en": "n e a r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/near.mp3",
+      "transcript": ""
+    }
+  ],
+  "colors": []
+}

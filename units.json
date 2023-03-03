@@ -100,6 +100,11 @@
       "id": "worlds_school_4",
       "url": "worlds_school_4.json",
       "name": "worlds school 4: trainer"
+    },
+    {
+      "id": "worlds_school_5",
+      "url": "worlds_school_5.json",
+      "name": "worlds school 5: trainer"
     }
   ]
 }
