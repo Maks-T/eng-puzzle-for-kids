@@ -1,0 +1,105 @@
+﻿{
+  "name": "Words 7: Weather",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "солнечная",
+      "en": "s u n n y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sunny.mp3",
+      "transcript": "ˈsʌni"
+    },
+    {
+      "ru": "жаркая",
+      "en": "h o t",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/hot.mp3",
+      "transcript": "hɑt"
+    },
+    {
+      "ru": "теплая",
+      "en": "w a r m",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/warm.mp3",
+      "transcript": "wɔrm"
+    },
+    {
+      "ru": "холодная",
+      "en": "c o l d",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cold.mp3",
+      "transcript": "koʊld"
+    },
+    {
+      "ru": "облачная",
+      "en": "c l o u d y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cloudy.mp3",
+      "transcript": "ˈklaʊdi"
+    },
+    {
+      "ru": "туманная",
+      "en": "f o g g y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/foggy.mp3",
+      "transcript": "ˈfɑɡi"
+    },
+    {
+      "ru": "ветреная",
+      "en": "w i n d y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/windy.mp3",
+      "transcript": "ˈwɪndi"
+    },
+    {
+      "ru": "туман",
+      "en": "f o g",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fog.mp3",
+      "transcript": "fɑɡ"
+    },
+    {
+      "ru": "дождливый",
+      "en": "r a i n y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/rainy.mp3",
+      "transcript": "ˈreɪni"
+    },
+    {
+      "ru": "снежный",
+      "en": "s n o w y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/snowy.mp3",
+      "transcript": "ˈsnoʊi"
+    },
+    {
+      "ru": "ветер",
+      "en": "w i n d",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/wind.mp3",
+      "transcript": "wɪnd"
+    },
+    {
+      "ru": "снег",
+      "en": "s n o w",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/snow.mp3",
+      "transcript": "snoʊ"
+    },
+    {
+      "ru": "дождь",
+      "en": "r a i n",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/rain.mp3",
+      "transcript": "reɪn"
+    },
+    {
+      "ru": "погода",
+      "en": "w e a t h e r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/weather.mp3",
+      "transcript": "ˈwɛðər"
+    }
+  ],
+  "colors": []
+}

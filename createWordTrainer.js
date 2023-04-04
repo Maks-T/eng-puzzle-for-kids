@@ -1,10 +1,14 @@
 const wordsStrEn =
-  'puppy run sound under egg sun lunch plum net suddenly see tree hungry sit eat like very look late help board near';
+  'sunny hot warm cold cloudy foggy windy fog rainy snowy wind snow rain weather';
 const wordsEn = wordsStrEn.split(' ');
 
 const wordsStrRu =
-  'щенок бегать звук под яйцо солнце обед слива сетка вдруг видеть дерево голодный сидеть есть(кушать) нравится очень смотреть(наблюдать) поздно помощь доска рядом';
+  'солнечная жаркая теплая холодная облачная туманная ветреная туман дождливый снежный ветер снег дождь погода';
 const wordsRu = wordsStrRu.split(' ');
+
+const wordsTranscript =
+  'ˈsʌni hɑt wɔrm koʊld ˈklaʊdi ˈfɑɡi ˈwɪndi fɑɡ ˈreɪni ˈsnoʊi wɪnd snoʊ reɪn ˈwɛðər';
+const wordsTr = wordsTranscript.split(' ');
 
 const wordsJSON = [];
 
@@ -15,7 +19,7 @@ wordsEn.forEach((word, index) => {
   wordObj.en = word.split('').join(' ');
   wordObj.addWord = '';
   wordObj.audioEnUrl = `https://wooordhunt.ru/data/sound/sow/uk/${word}.mp3`;
-  wordObj.transcript = '';
+  wordObj.transcript = wordsTr[index];
 
   wordsJSON.push(wordObj);
 });
