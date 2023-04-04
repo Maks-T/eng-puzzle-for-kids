@@ -77,16 +77,6 @@
       "name": "Words 6: learning"
     },
     {
-      "id": "worlds6-trainer",
-      "url": "worlds6-trainer.json",
-      "name": "Words 6: trainer"
-    },
-    {
-      "id": "worlds7-trainer",
-      "url": "worlds7-trainer.json",
-      "name": "Words 7: Weather"
-    },
-    {
       "id": "worlds_school_1",
       "url": "worlds_school_1.json",
       "name": "worlds school 1: trainer"
@@ -110,6 +100,16 @@
       "id": "worlds_school_5",
       "url": "worlds_school_5.json",
       "name": "worlds school 5: trainer"
+    },
+    {
+      "id": "worlds_school_6",
+      "url": "worlds_school_6.json",
+      "name": "worlds school 6: trainer"
+    },
+    {
+      "id": "worlds_school_7",
+      "url": "worlds_school_7.json",
+      "name": "worlds school 7: Weahter trainer"
     }
   ]
 }
