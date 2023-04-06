@@ -1,13 +1,11 @@
-const wordsStrEn =
-  'sunny hot warm cold cloudy foggy windy fog rainy snowy wind snow rain weather';
+const wordsStrEn = 'season autumn winter spring summer fly_away riddle';
 const wordsEn = wordsStrEn.split(' ');
 
-const wordsStrRu =
-  'солнечная жаркая теплая холодная облачная туманная ветреная туман дождливый снежный ветер снег дождь погода';
+const wordsStrRu = 'сезон осень зима весна лето улетать загадка';
 const wordsRu = wordsStrRu.split(' ');
 
 const wordsTranscript =
-  'ˈsʌni hɑt wɔrm koʊld ˈklaʊdi ˈfɑɡi ˈwɪndi fɑɡ ˈreɪni ˈsnoʊi wɪnd snoʊ reɪn ˈwɛðər';
+  'ˈsizən ˈɔtəm ˈwɪntər sprɪŋ ˈsʌmər flaɪ_əˈweɪ ˈrɪdəlˈsʌni hɑt wɔrm koʊld ˈklaʊdi ˈfɑɡi ˈwɪndi fɑɡ ˈreɪni ˈsnoʊi wɪnd snoʊ reɪn ˈwɛðər';
 const wordsTr = wordsTranscript.split(' ');
 
 const wordsJSON = [];

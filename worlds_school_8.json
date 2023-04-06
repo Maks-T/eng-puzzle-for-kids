@@ -1,0 +1,56 @@
+﻿{
+  "name": "Words 7: Seasons",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "сезон",
+      "en": "s e a s o n",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/season.mp3",
+      "transcript": "ˈsizən"
+    },
+    {
+      "ru": "осень",
+      "en": "a u t u m n",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/autumn.mp3",
+      "transcript": "ˈɔtəm"
+    },
+    {
+      "ru": "зима",
+      "en": "w i n t e r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/winter.mp3",
+      "transcript": "ˈwɪntər"
+    },
+    {
+      "ru": "весна",
+      "en": "s p r i n g",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spring.mp3",
+      "transcript": "sprɪŋ"
+    },
+    {
+      "ru": "лето",
+      "en": "s u m m e r",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/summer.mp3",
+      "transcript": "ˈsʌmər"
+    },
+    {
+      "ru": "улетать",
+      "en": "f l y _ a w a y",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fly.mp3",
+      "transcript": "flaɪ_əˈweɪ"
+    },
+    {
+      "ru": "загадка",
+      "en": "r i d d l e",
+      "addWord": "",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/riddle.mp3",
+      "transcript": "ˈrɪdəlˈsʌni"
+    }
+  ],
+  "colors": []
+}

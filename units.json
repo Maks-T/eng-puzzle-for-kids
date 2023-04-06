@@ -110,6 +110,11 @@
       "id": "worlds_school_7",
       "url": "worlds_school_7.json",
       "name": "worlds school 7: Weahter trainer"
+    },
+    {
+      "id": "worlds_school_8",
+      "url": "worlds_school_8.json",
+      "name": "worlds school 8: Seasons trainer"
     }
   ]
 }
