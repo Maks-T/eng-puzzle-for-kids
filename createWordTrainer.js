@@ -4,8 +4,7 @@ const wordsEn = wordsStrEn.split(' ');
 const wordsStrRu = 'сезон осень зима весна лето улетать загадка';
 const wordsRu = wordsStrRu.split(' ');
 
-const wordsTranscript =
-  'ˈsizən ˈɔtəm ˈwɪntər sprɪŋ ˈsʌmər flaɪ_əˈweɪ ˈrɪdəlˈsʌni hɑt wɔrm koʊld ˈklaʊdi ˈfɑɡi ˈwɪndi fɑɡ ˈreɪni ˈsnoʊi wɪnd snoʊ reɪn ˈwɛðər';
+const wordsTranscript = '';
 const wordsTr = wordsTranscript.split(' ');
 
 const wordsJSON = [];

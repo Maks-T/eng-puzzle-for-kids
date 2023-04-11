@@ -1,0 +1,228 @@
+﻿{
+  "name": "Русский 3 класс",
+  "questions": [
+    {
+      "ru": "",
+      "en": "А в т о б у с",
+      "addWord": "",
+      "audioEnUrl": "./audios/3class-russian/автобус.mp3",
+      "transcript": ""
+    },
+    {
+      "en": "а п п е т и т",
+      "addWord": "о и",
+      "audioEnUrl": "./audios/3class-russian/аппетит.mp3"
+    },
+    {
+      "en": "б е р е г",
+      "addWord": "к и в",
+      "audioEnUrl": "./audios/3class-russian/берег.m4a"
+    },
+    {
+      "en": "б о л о т о",
+      "addWord": "а а а т",
+      "audioEnUrl": "./audios/3class-russian/болото.m4a"
+    },
+    {
+      "en": "в е т е р",
+      "addWord": "и и т",
+      "audioEnUrl": "./audios/3class-russian/ветер.m4a"
+    },
+    {
+      "en": "д е в о ч к а",
+      "addWord": "а и",
+      "audioEnUrl": "./audios/3class-russian/девочка.m4a"
+    },
+    {
+      "en": "д я т е л",
+      "addWord": "и",
+      "audioEnUrl": "./audios/3class-russian/дятел.m4a"
+    },
+    {
+      "en": "ж а в о р о н о к",
+      "addWord": "а а а",
+      "audioEnUrl": "./audios/3class-russian/жаворонок.m4a"
+    },
+    {
+      "en": "к а л е н д а р ь",
+      "addWord": "н о",
+      "audioEnUrl": "./audios/3class-russian/календарь.m4a"
+    },
+    {
+      "en": "к а р т и н а",
+      "addWord": "о н",
+      "audioEnUrl": "./audios/3class-russian/картина.m4a"
+    },
+    {
+      "en": "к а р т о ф е л ь",
+      "addWord": "о ф",
+      "audioEnUrl": "./audios/3class-russian/картофель.m4a"
+    },
+    {
+      "en": "к в а р т и р а",
+      "addWord": "о р",
+      "audioEnUrl": "./audios/3class-russian/квартира.m4a"
+    },
+    {
+      "en": "к о н ф е т а",
+      "addWord": "и а т",
+      "audioEnUrl": "./audios/3class-russian/конфета.m4a"
+    },
+    {
+      "en": "к о р з и н а",
+      "addWord": "а н",
+      "audioEnUrl": "./audios/3class-russian/корзина.m4a"
+    },
+    {
+      "en": "к о р и д о р",
+      "addWord": "а е р",
+      "audioEnUrl": "./audios/3class-russian/коридор.m4a"
+    },
+    {
+      "en": "к о с т е р",
+      "addWord": "а т",
+      "audioEnUrl": "./audios/3class-russian/костер.mp3"
+    },
+    {
+      "en": "к р а п и в а",
+      "addWord": "о",
+      "audioEnUrl": "./audios/3class-russian/крапива.m4a"
+    },
+    {
+      "en": "л а д о н ь",
+      "addWord": "о",
+      "audioEnUrl": "./audios/3class-russian/ладонь.m4a"
+    },
+    {
+      "en": "м е т р о",
+      "addWord": "и",
+      "audioEnUrl": "./audios/3class-russian/метро.m4a"
+    },
+    {
+      "en": "м о р к о в ь",
+      "addWord": "а ф",
+      "audioEnUrl": "./audios/3class-russian/морковь.m4a"
+    },
+    {
+      "en": "н е д е л я",
+      "addWord": "и л",
+      "audioEnUrl": "./audios/3class-russian/неделя.m4a"
+    },
+    {
+      "en": "о г у р е ц",
+      "addWord": "а р",
+      "audioEnUrl": "./audios/3class-russian/огурец.m4a"
+    },
+    {
+      "en": "о р е х",
+      "addWord": "а р",
+      "audioEnUrl": "./audios/3class-russian/орех.mp3"
+    },
+    {
+      "en": "п а л ь т о",
+      "addWord": "о",
+      "audioEnUrl": "./audios/3class-russian/пальто.mp3"
+    },
+    {
+      "en": "п о м и д о р",
+      "addWord": "а м",
+      "audioEnUrl": "./audios/3class-russian/помидор.mp3"
+    },
+    {
+      "en": "п о с у д а",
+      "addWord": "а с",
+      "audioEnUrl": "./audios/3class-russian/посуда.mp3"
+    },
+    {
+      "en": "п ш е н и ц а",
+      "addWord": "э н ц",
+      "audioEnUrl": "./audios/3class-russian/пшеница.mp3"
+    },
+    {
+      "en": "р ю к з а к",
+      "addWord": "г",
+      "audioEnUrl": "./audios/3class-russian/рюкзак.mp3"
+    },
+    {
+      "en": "р я б и н а",
+      "addWord": "е и н",
+      "audioEnUrl": "./audios/3class-russian/рябина.mp3"
+    },
+    {
+      "en": "с а л а т",
+      "addWord": "т л",
+      "audioEnUrl": "./audios/3class-russian/салат.mp3"
+    },
+    {
+      "en": "с а п о г и",
+      "addWord": "о п к",
+      "audioEnUrl": "./audios/3class-russian/сапоги.mp3"
+    },
+    {
+      "en": "с и н и ц а",
+      "addWord": "е ц",
+      "audioEnUrl": "./audios/3class-russian/синица.mp3"
+    },
+    {
+      "en": "с м о р о д и н а",
+      "addWord": "а е н",
+      "audioEnUrl": "./audios/3class-russian/смородина.mp3"
+    },
+    {
+      "en": "с о б а к а",
+      "addWord": "а к",
+      "audioEnUrl": "./audios/3class-russian/собака.mp3"
+    },
+    {
+      "en": "с у б б о т а",
+      "addWord": "т",
+      "audioEnUrl": "./audios/3class-russian/суббота.mp3"
+    },
+    {
+      "en": "т е л е в и з о р",
+      "addWord": "и и в",
+      "audioEnUrl": "./audios/3class-russian/телевизор.mp3"
+    },
+    {
+      "en": "т о в а р и щ",
+      "addWord": "а в е",
+      "audioEnUrl": "./audios/3class-russian/товарищ.mp3"
+    },
+    {
+      "en": "т р а м в а й",
+      "addWord": "о м",
+      "audioEnUrl": "./audios/3class-russian/трамвай.mp3"
+    },
+    {
+      "en": "у л и ц а",
+      "addWord": "е ц",
+      "audioEnUrl": "./audios/3class-russian/улица.mp3"
+    },
+    {
+      "en": "у р о ж а й",
+      "addWord": "а",
+      "audioEnUrl": "./audios/3class-russian/урожай.mp3"
+    },
+    {
+      "en": "ф у т б о л",
+      "addWord": "д л",
+      "audioEnUrl": "./audios/3class-russian/футбол.mp3"
+    },
+    {
+      "en": "ч е л о в е к",
+      "addWord": "и а в",
+      "audioEnUrl": "./audios/3class-russian/человек.mp3"
+    },
+    {
+      "en": "ч е р н и к а",
+      "addWord": "и",
+      "audioEnUrl": "./audios/3class-russian/черника.mp3"
+    },
+    {
+      "en": "я б л о н я",
+      "addWord": "а н",
+      "audioEnUrl": "./audios/3class-russian/яблоня.mp3"
+    }
+  ],
+  "colors": []
+}

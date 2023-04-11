@@ -115,6 +115,11 @@
       "id": "worlds_school_8",
       "url": "worlds_school_8.json",
       "name": "worlds school 8: Seasons trainer"
+    },
+    {
+      "id": " 3class-russian",
+      "url": " 3class-russian.json",
+      "name": "3class-russian: Русский 3 класс"
     }
   ]
 }
