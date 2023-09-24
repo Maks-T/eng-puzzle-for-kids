@@ -7,28 +7,28 @@
       "en": "M o n d a y",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/monday.mp3",
-      "transcript": "ˈmʌndeɪ"
+      "transcript": "[ˈmʌndeɪ]"
     },
     {
       "ru": "вторник",
       "en": "T u e s d a y",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/tuesday.mp3",
-      "transcript": "ˈtjuːzdeɪ"
+      "transcript": "[ˈtjuːzdeɪ]"
     },
     {
       "ru": "среда",
       "en": "W e d n e s d a y",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/wednesday.mp3",
-      "transcript": "ˈwɛnzdeɪ"
+      "transcript": "[ˈwɛnzdeɪ]"
     },
     {
       "ru": "четверг",
       "en": "T h u r s d a y",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/thursday.mp3",
-      "transcript": "ˈθɜːrzdeɪ"
+      "transcript": "[ˈθɜːrzdeɪ]"
     },
     {
       "ru": "пятница",
@@ -42,7 +42,7 @@
       "en": "S a t u r d a y",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/saturday.mp3",
-      "transcript": "ˈsætərdeɪ"
+      "transcript": "[ˈsætərdeɪ]"
     },
     {
       "ru": "воскресенье",
@@ -56,14 +56,14 @@
       "en": "W e e k",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/week.mp3",
-      "transcript": "wiːk"
+      "transcript": "[wiːk]"
     },
     {
       "ru": "месяц",
       "en": "M o n t h",
       "addWord": "",
       "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/month.mp3",
-      "transcript": "mʌnθ"
+      "transcript": "[mʌnθ]"
     }
   ],
   "colors": []
