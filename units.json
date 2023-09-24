@@ -1,6 +1,11 @@
 {
   "units": [
     {
+      "id": "Day-of-Week",
+      "url": "worlds_school_4_class_1.json",
+      "name": "Day of Week"
+    },
+    {
       "id": "unit1",
       "url": "unit1.json",
       "name": "Unit 1: Глагол to be: IS, AM, ARE"
