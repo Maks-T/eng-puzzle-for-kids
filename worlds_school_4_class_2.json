@@ -1,0 +1,98 @@
+﻿{
+  "name": "Family Members",
+  "addWords": "a b c d e f g h i k l m n o p q r s t v x y z j u w",
+  "questions": [
+    {
+      "ru": "бабушка",
+      "en": "G r a n n y",
+      "addWord": "e i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/granny.mp3",
+      "transcript": "[ˈɡræni]"
+    },
+    {
+      "ru": "дедушка",
+      "en": "G r a n d a d",
+      "addWord": "e e i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/grandad.mp3",
+      "transcript": "[ˈɡrændæd]"
+    },
+    {
+      "ru": "папа",
+      "en": "D a d",
+      "addWord": "e t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/dad.mp3",
+      "transcript": "[dæd]"
+    },
+    {
+      "ru": "мама",
+      "en": "M u m",
+      "addWord": "a o y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/mum.mp3",
+      "transcript": "[mʌm]"
+    },
+    {
+      "ru": "тётя",
+      "en": "A u n t",
+      "addWord": "a o o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/aunt.mp3",
+      "transcript": "[ænt]"
+    },
+    {
+      "ru": "дядя",
+      "en": "U n c l e",
+      "addWord": "a k e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/uncle.mp3",
+      "transcript": "[ʌŋkl]"
+    },
+    {
+      "ru": "брат",
+      "en": "B r o t h e r",
+      "addWord": "z a e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/brother.mp3",
+      "transcript": "[ˈbrʌðər]"
+    },
+    {
+      "ru": "сестра",
+      "en": "S i s t e r",
+      "addWord": "e h",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sister.mp3",
+      "transcript": "[ˈsɪstər]"
+    },
+    {
+      "ru": "двоюродный брат/сестра",
+      "en": "C o u s i n",
+      "addWord": "a z e e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cousin.mp3",
+      "transcript": "[ˈkʌzən]"
+    },
+    {
+      "ru": "дочь",
+      "en": "D a u g h t e r",
+      "addWord": "o y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/daughter.mp3",
+      "transcript": "[ˈdɔːtər]"
+    },
+    {
+      "ru": "родители",
+      "en": "P a r e n t s",
+      "addWord": "e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/parents.mp3",
+      "transcript": "[ˈpɛrənts]"
+    },
+    {
+      "ru": "дети",
+      "en": "C h i l d r e n",
+      "addWord": "e e a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/children.mp3",
+      "transcript": "[ˈʧɪldrən]"
+    },
+    {
+      "ru": "сын",
+      "en": "S o n",
+      "addWord": "a u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/son.mp3",
+      "transcript": "[sʌn]"
+    }
+  ],
+  "colors": []
+}

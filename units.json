@@ -6,6 +6,12 @@
       "name": "Day of Week"
     },
     {
+      "id": "Family-Members",
+      "url": " worlds_school_4_class_2.json",
+      "name": "Family Members"
+    },
+
+    {
       "id": "unit1",
       "url": "unit1.json",
       "name": "Unit 1: Глагол to be: IS, AM, ARE"
