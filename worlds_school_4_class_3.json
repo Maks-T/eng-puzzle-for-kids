@@ -1,0 +1,70 @@
+﻿{
+  "name": "Morning Routine",
+  "addWords": "",
+  "questions": [
+    {
+      "en": "g e t  u p",
+      "ru": "вставать",
+      "addWord": "a b c",
+      "audioEnUrl": "",
+      "transcript": "[ˈɡɛt ʌp]"
+    },
+    {
+      "en": "m a k e  my  b e d",
+      "ru": "застелить постель",
+      "addWord": "d e f",
+      "audioEnUrl": "",
+      "transcript": "[meɪk maɪ bɛd]"
+    },
+    {
+      "en": "d o  my  e x e r c i s e s",
+      "ru": "делать упражнения",
+      "addWord": "g h i",
+      "audioEnUrl": "",
+      "transcript": "[duː maɪ ˈɛksəsaɪzɪz]"
+    },
+    {
+      "en": "w a s h  my  h a n d s a n d  f a c e",
+      "ru": "мыть руки и лицо",
+      "addWord": "j k l",
+      "audioEnUrl": "",
+      "transcript": "[wɒʃ maɪ hændz ænd feɪs]"
+    },
+    {
+      "en": "b r u s h  my  h a i r",
+      "ru": "чесать волосы",
+      "addWord": "m n o",
+      "audioEnUrl": "",
+      "transcript": "[brʌʃ maɪ hɛr]"
+    },
+    {
+      "en": "h a v e  b r e a k f a s t",
+      "ru": "позавтракать",
+      "addWord": "p q r",
+      "audioEnUrl": "",
+      "transcript": "[hæv ˈbrɛkfəst]"
+    },
+    {
+      "en": "b r u s h  my  t e e t h",
+      "ru": "чистить зубы",
+      "addWord": "s t u",
+      "audioEnUrl": "",
+      "transcript": "[brʌʃ maɪ tiːθ]"
+    },
+    {
+      "en": "g e t  d r e s s e d",
+      "ru": "одеваться",
+      "addWord": "v x y",
+      "audioEnUrl": "",
+      "transcript": "[ɡɛt drɛst]"
+    },
+    {
+      "en": "g o  t o  s c h o o l",
+      "ru": "идти в школу",
+      "addWord": "z a b",
+      "audioEnUrl": "",
+      "transcript": "[ɡoʊ tu skul]"
+    }
+  ],
+  "colors": []
+}
