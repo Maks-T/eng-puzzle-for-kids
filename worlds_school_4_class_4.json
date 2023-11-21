@@ -1,0 +1,84 @@
+﻿{
+  "name": "Daily Routine and Meals",
+  "addWords": "morning afternoon evening porridge sandwiches breakfast lunch pasta dinner come home take a shower go to bed",
+  "questions": [
+    {
+      "ru": "утро",
+      "en": "M o r n i n g",
+      "addWord": "o a i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/morning.mp3",
+      "transcript": "[ˈmɔːrnɪŋ]"
+    },
+    {
+      "ru": "день",
+      "en": "A f t e r n o o n",
+      "addWord": "f r n e o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/afternoon.mp3",
+      "transcript": "[ˌæftərˈnuːn]"
+    },
+    {
+      "ru": "вечер",
+      "en": "E v e n i n g",
+      "addWord": "v n i g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/evening.mp3",
+      "transcript": "[ˈiːv(ə)nɪŋ]"
+    },
+    {
+      "ru": "каша",
+      "en": "P o r r i d g e",
+      "addWord": "o r i d e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/porridge.mp3",
+      "transcript": "[ˈpɒrɪdʒ]"
+    },
+    {
+      "ru": "бутерброды",
+      "en": "S a n d w i c h e s",
+      "addWord": "a n w i c e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sandwiches.mp3",
+      "transcript": "[ˈsændwɪʧɪz]"
+    },
+    {
+      "ru": "завтрак",
+      "en": "B r e a k f a s t",
+      "addWord": "r e a s t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/breakfast.mp3",
+      "transcript": "[ˈbrekfəst]"
+    },
+    {
+      "ru": "обед",
+      "en": "L u n c h",
+      "addWord": "u n c h",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/lunch.mp3",
+      "transcript": "[lʌntʃ]"
+    },
+    {
+      "ru": "ужин",
+      "en": "D i n n e r",
+      "addWord": "i n e r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/dinner.mp3",
+      "transcript": "[ˈdɪnər]"
+    },
+    {
+      "ru": "прийти домой",
+      "en": "C o m e  h o m e",
+      "addWord": "o m e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/",
+      "transcript": "[kʌm hoʊm]"
+    },
+    {
+      "ru": "принять душ",
+      "en": "T a k e  a  s h o w e r",
+      "addWord": "a k e a o e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/",
+      "transcript": "[teɪk ə ʃaʊər]"
+    },
+    {
+      "ru": "пойти спать",
+      "en": "G o  t o  b e d",
+      "addWord": "o t o e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/",
+      "transcript": "[ɡoʊ tuː bɛd]"
+    }
+  ],
+  "colors": []
+}
