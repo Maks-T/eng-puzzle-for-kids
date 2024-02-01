@@ -14,13 +14,18 @@
       "id": "In-the-morning",
       "url": "worlds_school_4_class_3.json",
       "name": "In the morning"
-    },    
+    },
     {
       "id": "Daily-Routine-and-Meals",
       "url": "worlds_school_4_class_4.json",
       "name": "Daily Routine and Meals"
-    },    
-    
+    },
+    {
+      "id": "Wild_African_Animals",
+      "url": "worlds_school_4_class_5.json",
+      "name": "Wild African Animals"
+    },
+
     {
       "id": "unit1",
       "url": "unit1.json",
@@ -142,7 +147,5 @@
       "url": " 3class-russian.json",
       "name": "3class-russian: Русский 3 класс"
     }
-
- 
   ]
 }

@@ -1,0 +1,70 @@
+﻿{
+  "name": "Wild African Animals",
+  "addWords": "cheetah whale python collie soth piranha elephant monkey giraffe",
+  "questions": [
+    {
+      "ru": "гепард",
+      "en": "c h e e t a h",
+      "addWord": "i s h",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cheetah.mp3",
+      "transcript": "[ˈʧiːtə]"
+    },
+    {
+      "ru": "кит",
+      "en": "w h a l e",
+      "addWord": "e i v",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/whale.mp3",
+      "transcript": "[weɪl]"
+    },
+    {
+      "ru": "питон",
+      "en": "p y t h o n",
+      "addWord": "a s e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/python.mp3",
+      "transcript": "[ˈpaɪθən]"
+    },
+    {
+      "ru": "колли",
+      "en": "c o l l i e",
+      "addWord": "a y j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/collie.mp3",
+      "transcript": "[ˈkɒlɪ]"
+    },
+    {
+      "ru": "сом",
+      "en": "s o t h",
+      "addWord": "a s i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/",
+      "transcript": "[sɑːθ]"
+    },
+    {
+      "ru": "пиранья",
+      "en": "p i r a n h a",
+      "addWord": "e a f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/piranha.mp3",
+      "transcript": "[pɪˈrɑːnə]"
+    },
+    {
+      "ru": "слон",
+      "en": "e l e p h a n t",
+      "addWord": "f i d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/elephant.mp3",
+      "transcript": "[ˈelɪfənt]"
+    },
+    {
+      "ru": "обезьяна",
+      "en": "m o n k e y",
+      "addWord": "j i c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/monkey.mp3",
+      "transcript": "[ˈmʌŋki]"
+    },
+    {
+      "ru": "жираф",
+      "en": "g i r a f f e",
+      "addWord": "p h j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/giraffe.mp3",
+      "transcript": "[ʤɪˈræf]"
+    }
+  ],
+  "colors": []
+}
