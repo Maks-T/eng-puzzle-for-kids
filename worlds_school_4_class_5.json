@@ -1,6 +1,6 @@
 ﻿{
   "name": "Wild African Animals",
-  "addWords": "cheetah whale python collie soth piranha elephant monkey giraffe",
+  "addWords": "cheetah whale python collie sloth piranha elephant monkey giraffe",
   "questions": [
     {
       "ru": "гепард",
@@ -31,11 +31,11 @@
       "transcript": "[ˈkɒlɪ]"
     },
     {
-      "ru": "сом",
-      "en": "s o t h",
-      "addWord": "a s i",
-      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/",
-      "transcript": "[sɑːθ]"
+      "ru": "линивец",
+      "en": "s l o t h",
+      "addWord": "a s e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sloth.mp3",
+      "transcript": "[sləʊθ]"
     },
     {
       "ru": "пиранья",
