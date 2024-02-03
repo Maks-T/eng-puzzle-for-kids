@@ -1,0 +1,84 @@
+﻿{
+  "name": "My house and flat",
+  "addWords": "bathroom bedroom hall living room kitchen garden upstairs downstairs stairs flat balcony",
+  "questions": [
+    {
+      "ru": "ванная",
+      "en": "b a t h r o o m",
+      "addWord": "s u s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/bathroom.mp3",
+      "transcript": "[ˈbɑːθruːm]"
+    },
+    {
+      "ru": "спальня",
+      "en": "b e d r o o m",
+      "addWord": "y a u t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/bedroom.mp3",
+      "transcript": "[ˈbedruːm]"
+    },
+    {
+      "ru": "прихожая",
+      "en": "h a l l",
+      "addWord": "w",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/hall.mp3",
+      "transcript": "[hɔːl]"
+    },
+    {
+      "ru": "гостиная",
+      "en": "l i v i n g  r o o m",
+      "addWord": "n e e u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/living-room.mp3",
+      "transcript": "[ˈlɪvɪŋ ruːm]"
+    },
+    {
+      "ru": "кухня",
+      "en": "k i t c h e n",
+      "addWord": "s h c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/kitchen.mp3",
+      "transcript": "[ˈkɪtʃɪn]"
+    },
+    {
+      "ru": "сад",
+      "en": "g a r d e n",
+      "addWord": "t j u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/garden.mp3",
+      "transcript": "[ˈɡɑːrdn]"
+    },
+    {
+      "ru": "наверху (верхний этаж)",
+      "en": "u p s t a i r s",
+      "addWord": "o d у с",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/upstairs.mp3",
+      "transcript": "[ˈʌpˈsteərz]"
+    },
+    {
+      "ru": "внизу (нижний этаж)",
+      "en": "d o w n s t a i r s",
+      "addWord": "e v c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/downstairs.mp3",
+      "transcript": "[daʊnˈsteərz]"
+    },
+    {
+      "ru": "лестница",
+      "en": "s t a i r s",
+      "addWord": "c e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/stairs.mp3",
+      "transcript": "[steərz]"
+    },
+    {
+      "ru": "квартира",
+      "en": "f l a t",
+      "addWord": "h s d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/flat.mp3",
+      "transcript": "[flæt]"
+    },
+    {
+      "ru": "балкон",
+      "en": "b a l c o n y",
+      "addWord": "e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/balcony.mp3",
+      "transcript": "[ˈbælkəni]"
+    }
+  ],
+  "colors": []
+}

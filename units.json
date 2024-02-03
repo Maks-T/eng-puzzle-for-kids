@@ -25,7 +25,16 @@
       "url": "worlds_school_4_class_5.json",
       "name": "Wild African Animals"
     },
-
+    {
+      "id": "My_house_and_flat",
+      "url": "worlds_school_4_class_6.json",
+      "name": "My house and flat"
+    },
+    {
+      "id": "Household_Items",
+      "url": "worlds_school_4_class_7.json",
+      "name": "Household Items"
+    },
     {
       "id": "unit1",
       "url": "unit1.json",

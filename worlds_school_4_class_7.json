@@ -1,0 +1,112 @@
+﻿{
+  "name": "Household Items",
+  "addWords": "cupboard cooker fridge wardrobe pot pan plate knife fork spoon sofa carpet mirror bookcase floor",
+  "questions": [
+    {
+      "ru": "шкаф",
+      "en": "c u p b o a r d",
+      "addWord": "d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cupboard.mp3",
+      "transcript": "[ˈkʌbərd]"
+    },
+    {
+      "ru": "плита",
+      "en": "c o o k e r",
+      "addWord": "f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cooker.mp3",
+      "transcript": "[ˈkʊkər]"
+    },
+    {
+      "ru": "холодильник",
+      "en": "f r i d g e",
+      "addWord": "o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fridge.mp3",
+      "transcript": "[frɪʤ]"
+    },
+    {
+      "ru": "шкаф",
+      "en": "w a r d r o b e",
+      "addWord": "r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/wardrobe.mp3",
+      "transcript": "[ˈwɔːdrəʊb]"
+    },
+    {
+      "ru": "кастрюля",
+      "en": "p o t",
+      "addWord": "n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/pot.mp3",
+      "transcript": "[pɒt]"
+    },
+    {
+      "ru": "сковорода",
+      "en": "p a n",
+      "addWord": "t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/pan.mp3",
+      "transcript": "[pæn]"
+    },
+    {
+      "ru": "тарелка",
+      "en": "p l a t e",
+      "addWord": "e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/plate.mp3",
+      "transcript": "[pleɪt]"
+    },
+    {
+      "ru": "нож",
+      "en": "k n i f e",
+      "addWord": "r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/knife.mp3",
+      "transcript": "[naɪf]"
+    },
+    {
+      "ru": "вилка",
+      "en": "f o r k",
+      "addWord": "k",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fork.mp3",
+      "transcript": "[fɔːrk]"
+    },
+    {
+      "ru": "ложка",
+      "en": "s p o o n",
+      "addWord": "n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spoon.mp3",
+      "transcript": "[spuːn]"
+    },
+    {
+      "ru": "диван",
+      "en": "s o f a",
+      "addWord": "o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sofa.mp3",
+      "transcript": "[ˈsəʊfə]"
+    },
+    {
+      "ru": "ковер",
+      "en": "c a r p e t",
+      "addWord": "t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/carpet.mp3",
+      "transcript": "[ˈkɑːrpɪt]"
+    },
+    {
+      "ru": "зеркало",
+      "en": "m i r r o r",
+      "addWord": "r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/mirror.mp3",
+      "transcript": "[ˈmɪrə(r)]"
+    },
+    {
+      "ru": "книжный шкаф",
+      "en": "b o o k c a s e",
+      "addWord": "e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/bookcase.mp3",
+      "transcript": "[ˈbʊkkeɪs]"
+    },
+    {
+      "ru": "пол",
+      "en": "f l o o r",
+      "addWord": "r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/floor.mp3",
+      "transcript": "[flɔːr]"
+    }
+  ],
+  "colors": []
+}
