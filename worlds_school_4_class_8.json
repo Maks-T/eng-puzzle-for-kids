@@ -1,0 +1,77 @@
+﻿{
+  "name": "Places and Objects",
+  "addWords": "lane yard room house bed flowers basket kingdom city street",
+  "questions": [
+    {
+      "ru": "переулок",
+      "en": "l a n e",
+      "addWord": "e i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/lane.mp3",
+      "transcript": "[leɪn]"
+    },
+    {
+      "ru": "двор",
+      "en": "y a r d",
+      "addWord": "r t i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/yard.mp3",
+      "transcript": "[jɑːrd]"
+    },
+    {
+      "ru": "комната",
+      "en": "r o o m",
+      "addWord": "m u y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/room.mp3",
+      "transcript": "[ruːm]"
+    },
+    {
+      "ru": "дом",
+      "en": "h o u s e",
+      "addWord": "e a z",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/house.mp3",
+      "transcript": "[haʊs]"
+    },
+    {
+      "ru": "кровать",
+      "en": "b e d",
+      "addWord": "d a e t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/bed.mp3",
+      "transcript": "[bed]"
+    },
+    {
+      "ru": "цветы",
+      "en": "f l o w e r s",
+      "addWord": "s a u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/flowers.mp3",
+      "transcript": "[ˈflaʊərz]"
+    },
+    {
+      "ru": "корзина",
+      "en": "b a s k e t",
+      "addWord": "t d c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/basket.mp3",
+      "transcript": "[ˈbæskɪt]"
+    },
+    {
+      "ru": "королевство",
+      "en": "k i n g d o m",
+      "addWord": "m c h e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/kingdom.mp3",
+      "transcript": "[ˈkɪŋdəm]"
+    },
+    {
+      "ru": "город",
+      "en": "c i t y",
+      "addWord": "y e s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/city.mp3",
+      "transcript": "[ˈsɪti]"
+    },
+    {
+      "ru": "улица",
+      "en": "s t r e e t",
+      "addWord": "t i c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/street.mp3",
+      "transcript": "[striːt]"
+    }
+  ],
+  "colors": []
+}
