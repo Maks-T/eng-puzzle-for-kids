@@ -1,6 +1,11 @@
 {
   "units": [
     {
+      "id": "Places-to-go",
+      "url": "worlds_school_5_class_1.json",
+      "name": "Places to go"
+    },
+    {
       "id": "Places-and-Objects",
       "url": "worlds_school_4_class_8.json",
       "name": "Places and Objects"

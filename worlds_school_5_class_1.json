@@ -1,0 +1,56 @@
+﻿{
+  "name": "Places to go",
+  
+  "questions": [
+    {
+      "ru": "на море",
+      "en": "a t  t h e  s e a s i d e",
+      "addWord": "e n r",
+      "audioEnUrl": "./audios/class5/unit1/at-the-seaside.mp3",
+      "transcript": "[æt ðə ˈsiːsaɪd]"
+    },
+    {
+      "ru": "дома",
+      "en": "a t  h o m e",
+      "addWord": "e n r",
+      "audioEnUrl": "./audios/class5/unit1/at-home.mp3",
+      "transcript": "[æt həʊm]"
+    },
+    {
+      "ru": "в летнем лагере",
+      "en": "a t  s u m m e r  c a m p",
+      "addWord": "b i n",
+      "audioEnUrl": "./audios/class5/unit1/at-summer-camp.mp3",
+      "transcript": "[æt ˈsʌmər kæmp]"
+    },
+    {
+      "ru": "в деревне",
+      "en": "i n  t h e  c o u n t r y",
+      "addWord": "o s u",
+      "audioEnUrl": "./audios/class5/unit1/in-the-country.mp3",
+      "transcript": "[ɪn ðə ˈkʌntri]"
+    },
+    {
+      "ru": "в горах",
+      "en": "i n  t h e  m o u n t a i n s",
+      "addWord": "o p w",
+      "audioEnUrl": "./audios/class5/unit1/in-the-mountains.mp3",
+      "transcript": "[ɪn ðə ˈmaʊntɪnz]"
+    },
+    {
+      "ru": "в городе",
+      "en": "i n  t o w n",
+      "addWord": "e u p",
+      "audioEnUrl": "./audios/class5/unit1/in-town.mp3",
+      "transcript": "[ɪn taʊn]"
+    },
+    {
+      "ru": "каникулы (отпуск)",
+      "en": "h o l i d a y s",
+      "addWord": "r t u",
+      "audioEnUrl": "./audios/class5/unit1/holidays.mp3",
+      "transcript": "[ˈhɒlɪdeɪz]"
+    }
+  ],
+  "colors": []
+}
