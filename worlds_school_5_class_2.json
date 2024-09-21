@@ -1,0 +1,77 @@
+﻿{
+  "name": "Places to go - Nature Activities",
+  
+  "questions": [
+    {
+      "ru": "лес",
+      "en": "a  w o o d",
+      "addWord": "f r t",
+      "audioEnUrl": "./audios/class5/unit2/a-wood.mp3",
+      "transcript": "[ə wʊd]"
+    },
+    {
+      "ru": "река",
+      "en": "a  r i v e r",
+      "addWord": "n s t",
+      "audioEnUrl": "./audios/class5/unit2/a-river.mp3",
+      "transcript": "[ə ˈrɪvər]"
+    },
+    {
+      "ru": "озеро",
+      "en": "a  l a k e",
+      "addWord": "n m p",
+      "audioEnUrl": "./audios/class5/unit2/a-lake.mp3",
+      "transcript": "[ə leɪk]"
+    },
+    {
+      "ru": "летний дом",
+      "en": "a  s u m m e r  h o u s e",
+      "addWord": "v l b",
+      "audioEnUrl": "./audios/class5/unit2/a-summer-house.mp3",
+      "transcript": "[ə ˈsʌmər haʊs]"
+    },
+    {
+      "ru": "играть на качелях (вдвоем на одной доске)",
+      "en": "p l a y  o n  t h e  s e e - s a w",
+      "addWord": "n p r",
+      "audioEnUrl": "./audios/class5/unit2/play-on-the-see-saw.mp3",
+      "transcript": "[pleɪ ɒn ðə ˈsiː sɔː]"
+    },
+    {
+      "ru": "кататься на горках",
+      "en": "p l a y  o n  t h e  s l i d e",
+      "addWord": "r t u",
+      "audioEnUrl": "./audios/class5/unit2/play-on-the-slide.mp3",
+      "transcript": "[pleɪ ɒn ðə slaɪd]"
+    },
+    {
+      "ru": "играть на качелях",
+      "en": "p l a y  o n  t h e  s w i n g",
+      "addWord": "b o r",
+      "audioEnUrl": "./audios/class5/unit2/play-on-the-swing.mp3",
+      "transcript": "[pleɪ ɒn ðə swɪŋ]"
+    },
+    {
+      "ru": "собирать ягоды",
+      "en": "p i c k  b e r r i e s",
+      "addWord": "a t e",
+      "audioEnUrl": "./audios/class5/unit2/pick-berries.mp3",
+      "transcript": "[pɪk ˈberiz]"
+    },
+    {
+      "ru": "нарвать цветов",
+      "en": "p i c k  f l o w e r s",
+      "addWord": "b r u",
+      "audioEnUrl": "./audios/class5/unit2/pick-flowers.mp3",
+      "transcript": "[pɪk ˈflaʊərz]"
+    },
+    {
+      "ru": "собирать грибы",
+      "en": "p i c k  m u s h r o o m s",
+      "addWord": "l v d",
+      "audioEnUrl": "./audios/class5/unit2/pick-mushrooms.mp3",
+      "transcript": "[pɪk ˈmʌʃruːmz]"
+    }
+  ],
+  "colors": []
+}
