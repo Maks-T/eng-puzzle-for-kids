@@ -1,0 +1,98 @@
+﻿{
+  "name": "Action Verbs - Past and Present",
+  
+  "questions": [
+    {
+      "ru": "ходил (пошел)",
+      "en": "w e n t",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/went.mp3",
+      "transcript": "[went]"
+    },
+    {
+      "ru": "встретил",
+      "en": "m e t",
+      "addWord": "r t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/met.mp3",
+      "transcript": "[met]"
+    },
+    {
+      "ru": "сделал (руками что-то)",
+      "en": "m a d e",
+      "addWord": "n o p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/made.mp3",
+      "transcript": "[meɪd]"
+    },
+    {
+      "ru": "взял",
+      "en": "t o o k",
+      "addWord": "e r s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/took.mp3",
+      "transcript": "[tʊk]"
+    },
+    {
+      "ru": "ел",
+      "en": "a t e",
+      "addWord": "b d n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/ate.mp3",
+      "transcript": "[eɪt]"
+    },
+    {
+      "ru": "пил",
+      "en": "d r a n k",
+      "addWord": "e o p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drank.mp3",
+      "transcript": "[dræŋk]"
+    },
+    {
+      "ru": "ездил (на чем-то)",
+      "en": "r o d e",
+      "addWord": "b n t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/rode.mp3",
+      "transcript": "[roʊd]"
+    },
+    {
+      "ru": "встречать",
+      "en": "m e e t",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/meet.mp3",
+      "transcript": "[miːt]"
+    },
+    {
+      "ru": "делать (что-то руками)",
+      "en": "m a k e",
+      "addWord": "r o p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/make.mp3",
+      "transcript": "[meɪk]"
+    },
+    {
+      "ru": "взять",
+      "en": "t a k e",
+      "addWord": "b o u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/take.mp3",
+      "transcript": "[teɪk]"
+    },
+    {
+      "ru": "есть (кушать)",
+      "en": "e a t",
+      "addWord": "c f l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/eat.mp3",
+      "transcript": "[iːt]"
+    },
+    {
+      "ru": "пить",
+      "en": "d r i n k",
+      "addWord": "m n s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drink.mp3",
+      "transcript": "[drɪŋk]"
+    },
+    {
+      "ru": "ездить (на чем-то)",
+      "en": "r i d e",
+      "addWord": "t u w",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/ride.mp3",
+      "transcript": "[raɪd]"
+    }
+  ],
+  "colors": []
+}
