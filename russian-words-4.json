@@ -1,0 +1,68 @@
+{
+    "name": "Русский. Словарные слова, часть 4",
+    "questions": [
+        
+      {
+        "en": "п р о с т о р",
+        "addWord": "а",
+        "audioEnUrl": "./audios/russian-words5/простор.mp3"
+      },
+      {
+        "en": "б а г р я н ы й",
+        "addWord": "о н",
+        "audioEnUrl": "./audios/russian-words5/багряный.mp3"
+      },
+      {
+        "en": "п р а з д н ы й",
+        "addWord": "н",
+        "audioEnUrl": "./audios/russian-words5/праздный.mp3"
+      },
+      {
+        "en": "л а з у р ь",
+        "addWord": "о с",
+        "audioEnUrl": "./audios/russian-words5/лазурь.mp3"
+      },
+      {
+        "en": "н а р я д",
+        "addWord": "о т",
+        "audioEnUrl": "./audios/russian-words5/наряд.mp3"
+      },
+      {
+        "en": "м е р и т ь",
+        "addWord": "е ц",
+        "audioEnUrl": "./audios/russian-words5/мерить.mp3"
+      },
+      {
+        "en": "к л е и т ь",
+        "addWord": "и ц е",
+        "audioEnUrl": "./audios/russian-words5/клеить.mp3"
+      },
+      {
+        "en": "с р е д с т в о",
+        "addWord": "т",
+        "audioEnUrl": "./audios/russian-words5/средство.mp3"
+      },
+      {
+        "en": "т е м п",
+        "addWord": "э",
+        "audioEnUrl": "./audios/russian-words5/темп.mp3"
+      },
+      {
+        "en": "т е м б р",
+        "addWord": "э п",
+        "audioEnUrl": "./audios/russian-words5/тембр.mp3"
+      },
+      {
+        "en": "с р е д с т в а",
+        "addWord": "т",
+        "audioEnUrl": "./audios/russian-words5/средства.mp3"
+      },
+      {
+        "en": "и н т е л л е к т",
+        "addWord": "и",
+        "audioEnUrl": "./audios/russian-words5/интеллект.mp3"
+      }
+    ],
+    "colors": []
+  }
+  

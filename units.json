@@ -1,6 +1,26 @@
 {
   "units": [
-    
+    {
+      "id": "RUSSIAN-5-CLASS-PART1",
+      "url": "russian-words-1.json",
+      "name": "RUSSIAN PART1"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART1",
+      "url": "russian-words-2.json",
+      "name": "RUSSIAN PART1"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART1",
+      "url": "russian-words-3.json",
+      "name": "RUSSIAN PART1"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART1",
+      "url": "russian-words-4.json",
+      "name": "RUSSIAN PART1"
+    },
+
     {
       "id": "Places-to-go-Nature Activities",
       "url": "worlds_school_5_class_2.json",

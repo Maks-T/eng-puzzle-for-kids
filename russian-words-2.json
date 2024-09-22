@@ -1,0 +1,55 @@
+{
+    "name": "Русский. Словарные слова, часть 2",
+    "questions": [
+    
+      {
+        "en": "в е р е с к",
+        "addWord": "и и",
+        "audioEnUrl": "./audios/russian-words5/вереск.mp3"
+      },
+
+      {
+        "en": "и н е й",
+        "addWord": "и",
+        "audioEnUrl": "./audios/russian-words5/иней.mp3"
+      },
+      {
+        "en": "р а с т е н и е",
+        "addWord": "и о ц н",
+        "audioEnUrl": "./audios/russian-words5/растение.mp3"
+      },
+      {
+        "en": "м е т а л л и ч е с к и й",
+        "addWord": "и и",
+        "audioEnUrl": "./audios/russian-words5/металлический.mp3"
+      },
+      {
+        "en": "о п у ш к а",
+        "addWord": "а",
+        "audioEnUrl": "./audios/russian-words5/опушка.mp3"
+      },
+      {
+        "en": "п а у т и н а",
+        "addWord": "о",
+        "audioEnUrl": "./audios/russian-words5/паутина.mp3"
+      },
+      {
+        "en": "о п ё н о к",
+        "addWord": "а а",
+        "audioEnUrl": "./audios/russian-words5/опенок.mp3"
+      },
+      {
+        "en": "о п я т а",
+        "addWord": "а",
+        "audioEnUrl": "./audios/russian-words5/опята.mp3"
+      },
+      {
+        "en": "у р о ж а й",
+        "addWord": "а",
+        "audioEnUrl": "./audios/russian-words5/урожай.mp3"
+      }
+     
+    ],
+    "colors": []
+  }
+  

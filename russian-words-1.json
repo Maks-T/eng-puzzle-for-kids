@@ -1,0 +1,68 @@
+{
+    "name": "Русский. Словарные слова, часть 1",
+    "questions": [
+      {
+        "en": "п о х о ж и й",
+        "addWord": "а ш",
+        "audioEnUrl": "./audios/russian-words5/похожий.mp3"
+      },
+      {
+        "en": "а р о м а т",
+        "addWord": "a",
+        "audioEnUrl": "./audios/russian-words5/аромат.mp3"
+      },
+      {
+        "en": "р я б и н а",
+        "addWord": "е и",
+        "audioEnUrl": "./audios/russian-words5/рябина.mp3"
+      },
+      {
+        "en": "к о р а л л ы",
+        "addWord": "а",
+        "audioEnUrl": "./audios/russian-words5/кораллы.mp3"
+      },
+      {
+        "en": "к о р а л л о в ы й",
+        "addWord": "а а",
+        "audioEnUrl": "./audios/russian-words5/коралловый.mp3"
+      },
+      {
+        "en": "в е р е с к",
+        "addWord": "и я",
+        "audioEnUrl": "./audios/russian-words5/вереск.mp3"
+      },
+      {
+        "en": "б а л о в а т ь",
+        "addWord": "а ц",
+        "audioEnUrl": "./audios/russian-words5/баловать.mp3"
+      },
+      {
+        "en": "б а л у ю",
+        "addWord": "п",
+        "audioEnUrl": "./audios/russian-words5/балую.mp3"
+      },
+      {
+        "en": "б а л у е ш ь",
+        "addWord": "и о",
+        "audioEnUrl": "./audios/russian-words5/балуешь.mp3"
+      },
+      {
+        "en": "б е л о р у с с к и й",
+        "addWord": "и а",
+        "audioEnUrl": "./audios/russian-words5/белорусский.mp3"
+      },
+      {
+        "en": "б е л о р у с с к и й",
+        "addWord": "и а",
+        "audioEnUrl": "./audios/russian-words5/белорусский_повтор.mp3"
+      },
+      {
+        "en": "б е л о р у с к а",
+        "addWord": "и а",
+        "audioEnUrl": "./audios/russian-words5/белоруска.mp3"
+      }
+      
+    ],
+    "colors": []
+  }
+  

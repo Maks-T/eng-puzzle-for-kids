@@ -1,0 +1,53 @@
+{
+  "name": "Русский. Словарные слова, часть 3",
+  "questions": [
+    {
+      "en": "щ е г о л и х а",
+      "addWord": "е и ы",
+      "audioEnUrl": "./audios/russian-words5/щеголиха.mp3"
+    },
+    {
+      "en": "Б е л а р у с ь",
+      "addWord": "и б о",
+      "audioEnUrl": "./audios/russian-words5/беларусь.mp3"
+    },
+    {
+      "en": "с е р ь ё з н ы й",
+      "addWord": "и с",
+      "audioEnUrl": "./audios/russian-words5/серьезный.mp3"
+    },
+    {
+      "en": "с к у ч н о",
+      "addWord": "ш ь",
+      "audioEnUrl": "./audios/russian-words5/скучно.mp3"
+    },
+    {
+      "en": "ш у т о ч н ы й",
+      "addWord": "ш а",
+      "audioEnUrl": "./audios/russian-words5/шуточный.mp3"
+    },
+    {
+      "en": "о б ъ я т ь",
+      "addWord": "ь а ц",
+      "audioEnUrl": "./audios/russian-words5/объять.mp3"
+    },
+
+    {
+      "en": "и з - з а",
+      "addWord": "и  ",
+      "audioEnUrl": "./audios/russian-words5/из-за.mp3"
+    },
+    {
+      "en": "о б ъ ё м",
+      "addWord": "ь а",
+      "audioEnUrl": "./audios/russian-words5/объем.mp3"
+    },
+    {
+      "en": "щ е г о л ь",
+      "addWord": "и",
+      "audioEnUrl": "./audios/russian-words5/щеголь.mp3"
+    }
+   
+  ],
+  "colors": []
+}
