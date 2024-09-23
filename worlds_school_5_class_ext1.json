@@ -3,6 +3,13 @@
   
   "questions": [
     {
+      "ru": "имел (прошедщее от  have)",
+      "en": "h a d",
+      "addWord": "e t v",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/had.mp3",
+      "transcript": "[hæd]"
+    },
+    {
       "ru": "ходил (пошел)",
       "en": "w e n t",
       "addWord": "a b c",
