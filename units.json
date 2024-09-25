@@ -196,6 +196,11 @@
       "id": " 3class-russian",
       "url": " 3class-russian.json",
       "name": "3class-russian: Русский 3 класс"
+    },
+    {
+      "id": "personality-traits",
+      "url": "adult-b2-unit1.json",
+      "name": "Personality Traits"
     }
   ]
 }
