@@ -1,76 +1,104 @@
 ﻿{
-  "name": "Places to go - Nature Activities",
+  "name": "Action Verbs - Present and Past (Set2)",
   
   "questions": [
     {
-      "ru": "лес",
-      "en": "a  w o o d",
-      "addWord": "f r t",
-      "audioEnUrl": "./audios/class5/unit2/a-wood.mp3",
-      "transcript": "[ə wʊd]"
+      "ru": "бегать",
+      "en": "r u n",
+      "addWord": "e t v",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/run.mp3",
+      "transcript": "[rʌn]"
     },
     {
-      "ru": "река",
-      "en": "a  r i v e r",
-      "addWord": "n s t",
-      "audioEnUrl": "./audios/class5/unit2/a-river.mp3",
-      "transcript": "[ə ˈrɪvər]"
+      "ru": "бегал",
+      "en": "r a n",
+      "addWord": "m t p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/ran.mp3",
+      "transcript": "[ræn]"
     },
     {
-      "ru": "озеро",
-      "en": "a  l a k e",
-      "addWord": "n m p",
-      "audioEnUrl": "./audios/class5/unit2/a-lake.mp3",
-      "transcript": "[ə leɪk]"
+      "ru": "давать",
+      "en": "g i v e",
+      "addWord": "r t w",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/give.mp3",
+      "transcript": "[ɡɪv]"
     },
     {
-      "ru": "летний дом",
-      "en": "a  s u m m e r  h o u s e",
-      "addWord": "v l b",
-      "audioEnUrl": "./audios/class5/unit2/a-summer-house.mp3",
-      "transcript": "[ə ˈsʌmər haʊs]"
+      "ru": "дал",
+      "en": "g a v e",
+      "addWord": "r t w",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/gave.mp3",
+      "transcript": "[ɡeɪv]"
     },
     {
-      "ru": "играть на качелях (вдвоем на одной доске)",
-      "en": "p l a y  o n  t h e  s e e - s a w",
-      "addWord": "n p r",
-      "audioEnUrl": "./audios/class5/unit2/play-on-the-see-saw.mp3",
-      "transcript": "[pleɪ ɒn ðə ˈsiː sɔː]"
+      "ru": "водить (машину)",
+      "en": "d r i v e",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drive.mp3",
+      "transcript": "[draɪv]"
     },
     {
-      "ru": "кататься на горках",
-      "en": "p l a y  o n  t h e  s l i d e",
-      "addWord": "r t u",
-      "audioEnUrl": "./audios/class5/unit2/play-on-the-slide.mp3",
-      "transcript": "[pleɪ ɒn ðə slaɪd]"
+      "ru": "водил (машину)",
+      "en": "d r o v e",
+      "addWord": "m t n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drove.mp3",
+      "transcript": "[droʊv]"
     },
     {
-      "ru": "играть на качелях",
-      "en": "p l a y  o n  t h e  s w i n g",
-      "addWord": "b o r",
-      "audioEnUrl": "./audios/class5/unit2/play-on-the-swing.mp3",
-      "transcript": "[pleɪ ɒn ðə swɪŋ]"
+      "ru": "плавать",
+      "en": "s w i m",
+      "addWord": "r t e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/swim.mp3",
+      "transcript": "[swɪm]"
     },
     {
-      "ru": "собирать ягоды",
-      "en": "p i c k  b e r r i e s",
-      "addWord": "a t e",
-      "audioEnUrl": "./audios/class5/unit2/pick-berries.mp3",
-      "transcript": "[pɪk ˈberiz]"
+      "ru": "плавал ",
+      "en": "s w a m",
+      "addWord": "n r u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/swam.mp3",
+      "transcript": "[swæm]"
     },
     {
-      "ru": "нарвать цветов",
-      "en": "p i c k  f l o w e r s",
-      "addWord": "b r u",
-      "audioEnUrl": "./audios/class5/unit2/pick-flowers.mp3",
-      "transcript": "[pɪk ˈflaʊərz]"
+      "ru": "сказать",
+      "en": "s a y",
+      "addWord": "p r e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/say.mp3",
+      "transcript": "[seɪ]"
     },
     {
-      "ru": "собирать грибы",
-      "en": "p i c k  m u s h r o o m s",
-      "addWord": "l v d",
-      "audioEnUrl": "./audios/class5/unit2/pick-mushrooms.mp3",
-      "transcript": "[pɪk ˈmʌʃruːmz]"
+      "ru": "сказал",
+      "en": "s a i d",
+      "addWord": "r t p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/said.mp3",
+      "transcript": "[sɛd]"
+    },
+    {
+      "ru": "вставать (просыпаться)",
+      "en": "g e t  u p",
+      "addWord": "r s l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/get_up.mp3",
+      "transcript": "[ɡet ʌp]"
+    },
+    {
+      "ru": "встал (проснулся)",
+      "en": "g o t  u p",
+      "addWord": "m r p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/got_up.mp3",
+      "transcript": "[ɡɒt ʌp]"
+    },
+    {
+      "ru": "приходить",
+      "en": "c o m e",
+      "addWord": "r p n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/come.mp3",
+      "transcript": "[kʌm]"
+    },
+    {
+      "ru": "пришел",
+      "en": "c a m e",
+      "addWord": "r t p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/came.mp3",
+      "transcript": "[keɪm]"
     }
   ],
   "colors": []
