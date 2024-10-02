@@ -1,0 +1,203 @@
+﻿{
+  "name": "Places to go - Summer Memories",
+  
+  "questions": [
+    {
+      "ru": "летом я был",
+      "en": "I  w a s  i n  t h e  s u m m e r",
+      "addWord": "v p n",
+      "audioEnUrl": "./audios/class5/ext2/i-was-in-the-summer.mp3",
+      "transcript": "[aɪ wəz ɪn ðə ˈsʌmər]"
+    },
+    {
+      "ru": "я ездил туда с",
+      "en": "I  w e n t  t h e r e  w i t h",
+      "addWord": "r p t",
+      "audioEnUrl": "./audios/class5/ext2/i-went-there-with.mp3",
+      "transcript": "[aɪ wɛnt ðɛər wɪð]"
+    },
+    {
+      "ru": "за границей",
+      "en": "a b r o a d",
+      "addWord": "v n s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/abroad.mp3",
+      "transcript": "[əˈbrɔːd]"
+    },
+    {
+      "ru": "мой учитель английского",
+      "en": "m y  E n g l i s h  t e a c h e r",
+      "addWord": "r o f",
+      "audioEnUrl": "./audios/class5/ext2/my-english-teacher.mp3",
+      "transcript": "[maɪ ˈɪŋɡlɪʃ ˈtiːʧə]"
+    },
+    {
+      "ru": "в городе",
+      "en": "i n  t o w n",
+      "addWord": "l m b",
+      "audioEnUrl": "./audios/class5/ext2/in-town.mp3",
+      "transcript": "[ɪn taʊn]"
+    },
+    {
+      "ru": "моя бабушка",
+      "en": "m y  g r a n n y",
+      "addWord": "d t l",
+      "audioEnUrl": "./audios/class5/ext2/my-granny.mp3",
+      "transcript": "[maɪ ˈɡræni]"
+    },
+    {
+      "ru": "в горах",
+      "en": "i n  t h e  m o u n t a i n s",
+      "addWord": "r l s",
+      "audioEnUrl": "./audios/class5/ext2/in-the-mountains.mp3",
+      "transcript": "[ɪn ðə ˈmaʊntɪnz]"
+    },
+    {
+      "ru": "мой друг",
+      "en": "m y  f r i e n d",
+      "addWord": "b p s",
+      "audioEnUrl": "./audios/class5/ext2/my-friend.mp3",
+      "transcript": "[maɪ frɛnd]"
+    },
+    {
+      "ru": "на берегу моря",
+      "en": "a t  t h e  s e a s i d e",
+      "addWord": "n r p",
+      "audioEnUrl": "./audios/class5/ext2/at-the-seaside.mp3",
+      "transcript": "[æt ðə ˈsiːsaɪd]"
+    },
+    {
+      "ru": "мой двоюродный брат (сестра)",
+      "en": "m y  c o u s i n",
+      "addWord": "r b n",
+      "audioEnUrl": "./audios/class5/ext2/my-cousin.mp3",
+      "transcript": "[maɪ ˈkʌzɪn]"
+    },
+    {
+      "ru": "в деревне",
+      "en": "i n  t h e  c o u n t r y",
+      "addWord": "f p s",
+      "audioEnUrl": "./audios/class5/ext2/in-the-country.mp3",
+      "transcript": "[ɪn ðə ˈkʌntri]"
+    },
+    {
+      "ru": "в летнем лагере",
+      "en": "a t  s u m m e r  c a m p",
+      "addWord": "b r v",
+      "audioEnUrl": "./audios/class5/ext2/at-summer-camp.mp3",
+      "transcript": "[æt ˈsʌmər kæmp]"
+    },
+    {
+      "ru": "мой питомец",
+      "en": "m y  p e t",
+      "addWord": "r s l",
+      "audioEnUrl": "./audios/class5/ext2/my-pet.mp3",
+      "transcript": "[maɪ pɛt]"
+    },
+    {
+      "ru": "это было",
+      "en": "I t  w a s",
+      "addWord": "r s t",
+      "audioEnUrl": "./audios/class5/ext2/it-was.mp3",
+      "transcript": "[ɪt wəz]"
+    },
+    {
+      "ru": "там было много",
+      "en": "T h e r e  w e r e  a  l o t  o f",
+      "addWord": "n r p",
+      "audioEnUrl": "./audios/class5/ext2/there-were-a-lot-of.mp3",
+      "transcript": "[ðɛər wər ə lɒt əv]"
+    },
+    {
+      "ru": "солнечно",
+      "en": "s u n n y",
+      "addWord": "r t b",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sunny.mp3",
+      "transcript": "[ˈsʌni]"
+    },
+    {
+      "ru": "ветренно",
+      "en": "w i n d y",
+      "addWord": "b p t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/windy.mp3",
+      "transcript": "[ˈwɪndi]"
+    },
+    {
+      "ru": "дождливо",
+      "en": "r a i n y",
+      "addWord": "l n m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/rainy.mp3",
+      "transcript": "[ˈreɪni]"
+    },
+    {
+      "ru": "туманно",
+      "en": "f o g g y",
+      "addWord": "r n b",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/foggy.mp3",
+      "transcript": "[ˈfɒɡi]"
+    },
+    {
+      "ru": "облачно",
+      "en": "c l o u d y",
+      "addWord": "r t b",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cloudy.mp3",
+      "transcript": "[ˈklaʊdi]"
+    },
+    {
+      "ru": "холодно",
+      "en": "c o l d",
+      "addWord": "r t v",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cold.mp3",
+      "transcript": "[kəʊld]"
+    },
+    {
+      "ru": "мои каникулы были...",
+      "en": "M y  h o l i d a y s  w e r e",
+      "addWord": "r s n",
+      "audioEnUrl": "./audios/class5/ext2/my-holidays-were.mp3",
+      "transcript": "[maɪ ˈhɒlɪdeɪz wər]"
+    },
+    {
+      "ru": "увидел много животных",
+      "en": "s a w  a  l o t  o f  a n i m a l s",
+      "addWord": "n t r",
+      "audioEnUrl": "./audios/class5/ext2/saw-a-lot-of-animals.mp3",
+      "transcript": "[sɔː ə lɒt əv ˈænɪməlz]"
+    },
+    {
+      "ru": "съел много картошки",
+      "en": "a t e  l o t s  o f  p o t a t o e s",
+      "addWord": "r p b",
+      "audioEnUrl": "./audios/class5/ext2/ate-lots-of-potatoes.mp3",
+      "transcript": "[eɪt lɒts əv pəˈteɪtəʊz]"
+    },
+    {
+      "ru": "собирал цветы",
+      "en": "p i c k e d  f l o w e r s",
+      "addWord": "r b t",
+      "audioEnUrl": "./audios/class5/ext2/picked-flowers.mp3",
+      "transcript": "[pɪkt ˈflaʊərz]"
+    },
+    {
+      "ru": "купил много мороженного",
+      "en": "b o u g h t  a  l o t  o f  i c e  c r e a m",
+      "addWord": "r n t",
+      "audioEnUrl": "./audios/class5/ext2/bought-a-lot-of-ice-cream.mp3",
+      "transcript": "[bɔːt ə lɒt əv aɪs kriːm]"
+    },
+    {
+      "ru": "катался на велосипеде",
+      "en": "r o d e  o u r  b i k e s",
+      "addWord": "n t p",
+      "audioEnUrl": "./audios/class5/ext2/rode-our-bikes.mp3",
+      "transcript": "[rəʊd aʊər baɪks]"
+    },
+    {
+      "ru": "водил машину",
+      "en": "d r o v e  a  c a r",
+      "addWord": "n s t",
+      "audioEnUrl": "./audios/class5/ext2/drove-a-car.mp3",
+      "transcript": "[drəʊv ə kɑːr]"
+    }
+  ],
+  "colors": []
+}

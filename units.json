@@ -1,10 +1,17 @@
 {
   "units": [
     {
+      "id": "Places-to-go-Summer-Memories",
+      "url": "worlds_school_5_class_ext2.json",
+      "name": "Places to go - Summer Memories"
+    },
+    
+    {
       "id": "RUSSIAN-5-CLASS-PART1",
       "url": "russian-words-1.json",
       "name": "RUSSIAN PART1"
     },
+    
     {
       "id": "RUSSIAN-5-CLASS-PART2",
       "url": "russian-words-2.json",
