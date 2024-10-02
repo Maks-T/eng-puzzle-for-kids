@@ -1,6 +1,7 @@
 {
   "units": [
     {
+<<<<<<< HEAD
       "id": "Places-to-go-Summer-Memories",
       "url": "worlds_school_5_class_ext2.json",
       "name": "Places to go - Summer Memories"
@@ -28,6 +29,12 @@
       "name": "RUSSIAN PART4"
     },
 
+=======
+      "id": "Action-Verbs-Past-and-Presents-SET-2",
+      "url": "worlds_school_5_class_4.json",
+      "name": "Action Verbs - Past and Present (Set 2)"
+    },  
+>>>>>>> 60fdb3fdc0d042f1f557a15c519b262501cdc528
     {
       "id": "Places-to-go-Nature Activities",
       "url": "worlds_school_5_class_2.json",
@@ -208,6 +215,26 @@
       "id": "personality-traits",
       "url": "adult-b2-unit1.json",
       "name": "Personality Traits"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART1",
+      "url": "russian-words-1.json",
+      "name": "RUSSIAN PART1"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART2",
+      "url": "russian-words-2.json",
+      "name": "RUSSIAN PART2"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART3",
+      "url": "russian-words-3.json",
+      "name": "RUSSIAN PART3"
+    },
+    {
+      "id": "RUSSIAN-5-CLASS-PART4",
+      "url": "russian-words-4.json",
+      "name": "RUSSIAN PART4"
     }
   ]
 }
