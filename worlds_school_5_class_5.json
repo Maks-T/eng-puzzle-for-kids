@@ -1,0 +1,70 @@
+﻿{
+  "name": "Outdoor Activities",
+
+  "questions": [
+    {
+      "ru": "идти в лес",
+      "en": "g o  t o  t h e  w o o d s",
+      "addWord": "r e f",
+      "audioEnUrl": "./audios/class5/unit5/go-to-the-woods.mp3",
+      "transcript": "[ɡoʊ tə ðə wʊdz]"
+    },
+    {
+      "ru": "идти к реке",
+      "en": "g o  t o  t h e  r i v e r",
+      "addWord": "l p s",
+      "audioEnUrl": "./audios/class5/unit5/go-to-the-river.mp3",
+      "transcript": "[ɡoʊ tə ðə ˈrɪvər]"
+    },
+    {
+      "ru": "идти к озеру",
+      "en": "g o  t o  t h e  l a k e",
+      "addWord": "r w n",
+      "audioEnUrl": "./audios/class5/unit5/go-to-the-lake.mp3",
+      "transcript": "[ɡoʊ tə ðə leɪk]"
+    },
+    {
+      "ru": "рыбачить(заниматься рыбалкой)",
+      "en": "g o  f i s h i n g",
+      "addWord": "a e n",
+      "audioEnUrl": "./audios/class5/unit5/go-fishing.mp3",
+      "transcript": "[ɡoʊ ˈfɪʃɪŋ]"
+    },
+    {
+      "ru": "заниматься плаванием",
+      "en": "g o  s w i m m i n g",
+      "addWord": "b n p",
+      "audioEnUrl": "./audios/class5/unit5/go-swimming.mp3",
+      "transcript": "[ɡoʊ ˈswɪmɪŋ]"
+    },
+    {
+      "ru": "заниматься альпинизмом",
+      "en": "g o  m o u n t a i n  c l i m b i n g",
+      "addWord": "s r f",
+      "audioEnUrl": "./audios/class5/unit5/go-mountain-climbing.mp3",
+      "transcript": "[ɡoʊ ˈmaʊntɪn ˈklaɪmɪŋ]"
+    },
+    {
+      "ru": "идти поплавать",
+      "en": "g o  f o r  a  s w i m",
+      "addWord": "c e n",
+      "audioEnUrl": "./audios/class5/unit5/go-for-a-swim.mp3",
+      "transcript": "[ɡoʊ fɔr ə swɪm]"
+    },
+    {
+      "ru": "идти на пикник",
+      "en": "g o  f o r  a  p i c n i c",
+      "addWord": "r u m",
+      "audioEnUrl": "./audios/class5/unit5/go-for-a-picnic.mp3",
+      "transcript": "[ɡoʊ fɔr ə ˈpɪknɪk]"
+    },
+    {
+      "ru": "идти на прогулку",
+      "en": "g o  f o r  a  w a l k",
+      "addWord": "t v r",
+      "audioEnUrl": "./audios/class5/unit5/go-for-a-walk.mp3",
+      "transcript": "[ɡoʊ fɔr ə wɔːk]"
+    }
+  ],
+  "colors": []
+}
