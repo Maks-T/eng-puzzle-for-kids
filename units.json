@@ -1,5 +1,16 @@
 {
-  "units": [   
+  "units": [ 
+    {
+      "id": "Action-Verbs-Present-set-2",
+      "url": "worlds_school_5_class_6.json",
+      "name": "Action Verbs - Present (Set 2)"
+    },
+    {
+      "id": "Action-Verbs-Past-set2",
+      "url": "worlds_school_5_class_7.json",
+      "name": "Action Verbs - Past (Set 2)"
+    },
+
     {
       "id": "Outdoor-Activities",
       "url": "worlds_school_5_class_5.json",

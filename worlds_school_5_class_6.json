@@ -1,0 +1,91 @@
+﻿{
+  "name": "Action Verbs - Present",
+  
+  "questions": [
+    {
+      "ru": "видеть",
+      "en": "s e e",
+      "addWord": "r i y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/see.mp3",
+      "transcript": "[siː]"
+    },
+    {
+      "ru": "летать",
+      "en": "f l y",
+      "addWord": "t h j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fly.mp3",
+      "transcript": "[flaɪ]"
+    },
+    {
+      "ru": "делать (руками что-то)",
+      "en": "m a k e",
+      "addWord": "c e j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/make.mp3",
+      "transcript": "[meɪk]"
+    },
+    {
+      "ru": "носить (одежду)",
+      "en": "w e a r",
+      "addWord": "e e v",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/wear.mp3",
+      "transcript": "[weə]"
+    },
+    {
+      "ru": "становиться",
+      "en": "b e c o m e",
+      "addWord": "e e a ",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/become.mp3",
+      "transcript": "[bɪˈkʌm]"
+    },
+    {
+      "ru": "думать",
+      "en": "t h i n k",
+      "addWord": "s e e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/think.mp3",
+      "transcript": "[θɪŋk]"
+    },
+    {
+      "ru": "платить",
+      "en": "p a y",
+      "addWord": "e j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/pay.mp3",
+      "transcript": "[peɪ]"
+    },
+    {
+      "ru": "покупать",
+      "en": "b u y",
+      "addWord": "a j t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/buy.mp3",
+      "transcript": "[baɪ]"
+    },
+    {
+      "ru": "кормить",
+      "en": "f e e d",
+      "addWord": "i t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/feed.mp3",
+      "transcript": "[fiːd]"
+    },
+    {
+      "ru": "тратить (проводить время)",
+      "en": "s p e n d",
+      "addWord": "a t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spend.mp3",
+      "transcript": "[spend]"
+    },
+    {
+      "ru": "находить",
+      "en": "f i n d",
+      "addWord": "y j o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/find.mp3",
+      "transcript": "[faɪnd]"
+    },
+    {
+      "ru": "мочь (могу)",
+      "en": "c a n",
+      "addWord": "d u l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/can.mp3",
+      "transcript": "[kæn]"
+    }
+  ],
+  "colors": []
+}

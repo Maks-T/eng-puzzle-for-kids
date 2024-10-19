@@ -1,0 +1,91 @@
+﻿{
+  "name": "Action Verbs - Past",
+  
+  "questions": [
+    {
+      "ru": "видел",
+      "en": "s a w",
+      "addWord": "e c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/saw.mp3",
+      "transcript": "[sɔː]"
+    },
+    {
+      "ru": "летал",
+      "en": "f l e w",
+      "addWord": "o o u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/flew.mp3",
+      "transcript": "[fluː]"
+    },
+    {
+      "ru": "сделал (руками что-то)",
+      "en": "m a d e",
+      "addWord": "r e t",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/made.mp3",
+      "transcript": "[meɪd]"
+    },
+    {
+      "ru": "носил (одежду)",
+      "en": "w o r e",
+      "addWord": "a v e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/wore.mp3",
+      "transcript": "[wɔː]"
+    },
+    {
+      "ru": "стал",
+      "en": "b e c a m e",
+      "addWord": "i e o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/became.mp3",
+      "transcript": "[bɪˈkeɪm]"
+    },
+    {
+      "ru": "подумал",
+      "en": "t h o u g h t",
+      "addWord": "p a r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/thought.mp3",
+      "transcript": "[θɔːt]"
+    },
+    {
+      "ru": "заплатил",
+      "en": "p a i d",
+      "addWord": "j e g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/paid.mp3",
+      "transcript": "[peɪd]"
+    },
+    {
+      "ru": "купил",
+      "en": "b o u g h t",
+      "addWord": "a w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/bought.mp3",
+      "transcript": "[bɔːt]"
+    },
+    {
+      "ru": "накормил",
+      "en": "f e d",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fed.mp3",
+      "transcript": "[fed]"
+    },
+    {
+      "ru": "потратил (провел время)",
+      "en": "s p e n t",
+      "addWord": "k a m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spent.mp3",
+      "transcript": "[spent]"
+    },
+    {
+      "ru": "нашел",
+      "en": "f o u n d",
+      "addWord": "n a p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/found.mp3",
+      "transcript": "[faʊnd]"
+    },
+    {
+      "ru": "мог",
+      "en": "c o u l d",
+      "addWord": "o f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/could.mp3",
+      "transcript": "[kʊd]"
+    }
+  ],
+  "colors": []
+}
