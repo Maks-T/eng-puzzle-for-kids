@@ -1,0 +1,69 @@
+﻿{
+  "name": "TV Programmes Vocabulary",
+  "questions": [
+    {
+      "ru": "новости",
+      "en": "t h e   n e w s",
+      "addWord": "r o p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/news.mp3",
+      "transcript": "[njuːz]"
+    },
+    {
+      "ru": "документальный фильм",
+      "en": "a   d o c u m e n t a r y",
+      "addWord": "i s p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/documentary.mp3",
+      "transcript": "[ˌdɒkjuˈmɛntəri]"
+    },
+    {
+      "ru": "программа о природе",
+      "en": "a   n a t u r e   p r o g r a m m e",
+      "addWord": "o m e",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/nature.mp3",
+      "transcript": "[ˈneɪʧə ˈprəʊɡræm]"
+    },
+    {
+      "ru": "викторина",
+      "en": "a   q u i z   s h o w",
+      "addWord": "t r b",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/quiz.mp3",
+      "transcript": "[kwɪz]"
+    },
+    {
+      "ru": "шоу талантов",
+      "en": "a   t a l e n t   s h o w",
+      "addWord": "c u y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/talent.mp3",
+      "transcript": "[ˈtælənt ʃəʊ]"
+    },
+    {
+      "ru": "спортивная программа",
+      "en": "a   s p o r t s   p r o g r a m m e",
+      "addWord": "o e i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sports.mp3",
+      "transcript": "[spɔːts prəʊɡræm]"
+    },
+    {
+      "ru": "мультфильм",
+      "en": "a   c a r t o o n",
+      "addWord": "d k m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cartoon.mp3",
+      "transcript": "[kɑːˈtuːn]"
+    },
+    {
+      "ru": "ток-шоу",
+      "en": "a   t a l k   s h o w",
+      "addWord": "n i l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/talk.mp3",
+      "transcript": "[tɔːk ʃəʊ]"
+    },
+    {
+      "ru": "музыкальная программа",
+      "en": "a   m u s i c   p r o g r a m m e",
+      "addWord": "y s d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/music.mp3",
+      "transcript": "[ˈmjuːzɪk prəʊɡræm]"
+    }
+  ],
+  "colors": []
+}

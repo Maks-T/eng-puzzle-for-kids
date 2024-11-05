@@ -1,5 +1,10 @@
 {
-  "units": [ 
+  "units": [     
+    {
+      "id": "TV-Programmes-Vocabulary",
+      "url": "worlds_school_5_class_8.json",
+      "name": "TV Programmes Vocabulary"
+    },
     {
       "id": "Action-Verbs-Present-set-2",
       "url": "worlds_school_5_class_6.json",
