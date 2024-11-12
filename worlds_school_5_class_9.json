@@ -1,0 +1,76 @@
+﻿{
+  "name": "Movie Genres Vocabulary",
+  "questions": [
+    {
+      "ru": "детектив",
+      "en": "a   d e t e c t i v e",
+      "addWord": "o r n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/detective.mp3",
+      "transcript": "[dɪˈtɛktɪv]"
+    },
+    {
+      "ru": "боевик",
+      "en": "a n   a c t i o n",
+      "addWord": "l m d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/action.mp3",
+      "transcript": "[ˈækʃən]"
+    },
+    {
+      "ru": "приключенческий фильм",
+      "en": "a n   a d v e n t u r e",
+      "addWord": "b o r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/adventure.mp3",
+      "transcript": "[ədˈvɛntʃə]"
+    },
+    {
+      "ru": "романтический фильм",
+      "en": "a   r o m a n t i c",
+      "addWord": "h y l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/romantic.mp3",
+      "transcript": "[rəʊˈmæntɪk]"
+    },
+    {
+      "ru": "комедия",
+      "en": "a   c o m e d y",
+      "addWord": "q r s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/comedy.mp3",
+      "transcript": "[ˈkɒmɪdi]"
+    },
+    {
+      "ru": "ужасы",
+      "en": "a   h o r r o r",
+      "addWord": "j k p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/horror.mp3",
+      "transcript": "[ˈhɒrə]"
+    },
+    {
+      "ru": "фэнтези",
+      "en": "a   f a n t a s y",
+      "addWord": "w u l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fantasy.mp3",
+      "transcript": "[ˈfæntəsi]"
+    },
+    {
+      "ru": "ситком",
+      "en": "a   s i t c o m",
+      "addWord": "d g j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sitcom.mp3",
+      "transcript": "[ˈsɪtkɒm]"
+    },
+    {
+      "ru": "сказка",
+      "en": "a   f a i r y   t a l e",
+      "addWord": "o p m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fairy.mp3",
+      "transcript": "[ˈfeəri teɪl]"
+    },
+    {
+      "ru": "научная фантастика",
+      "en": "a   s c i e n c e   f i c t i o n",
+      "addWord": "u k b",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/science_fiction.mp3",
+      "transcript": "[ˈsaɪəns ˈfɪkʃən]"
+    }
+  ],
+  "colors": []
+}
