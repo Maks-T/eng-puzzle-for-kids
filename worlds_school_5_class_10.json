@@ -1,0 +1,76 @@
+﻿{
+  "name": "Holiday Activities Vocabulary",
+  "questions": [
+    {
+      "ru": "пригласить друзей и родственников",
+      "en": "i n v i t e   f r i e n d s   a n d   r e l a t i v e s",
+      "addWord": "a o s",
+      "audioEnUrl": "./audios/class5/holiday-activities/invite-friends-and-relatives.mp3",
+      "transcript": "[ɪnˈvaɪt frɛndz ənd ˈrɛlətɪvz]"
+    },
+    {
+      "ru": "смотреть парад",
+      "en": "w a t c h   a   p a r a d e",
+      "addWord": "f n t",
+      "audioEnUrl": "./audios/class5/holiday-activities/watch-a-parade.mp3",
+      "transcript": "[wɒʧ ə pəˈreɪd]"
+    },
+    {
+      "ru": "украшать",
+      "en": "d e c o r a t e",
+      "addWord": "f g y",
+      "audioEnUrl": "./audios/class5/holiday-activities/decorate.mp3",
+      "transcript": "[ˈdɛkəreɪt]"
+    },
+    {
+      "ru": "разыгрывать",
+      "en": "p l a y   j o k e s   o n",
+      "addWord": "b h w",
+      "audioEnUrl": "./audios/class5/holiday-activities/play-jokes-on.mp3",
+      "transcript": "[pleɪ ʤəʊks ɒn]"
+    },
+    {
+      "ru": "получить подарок",
+      "en": "g e t   a   p r e s e n t",
+      "addWord": "q u v",
+      "audioEnUrl": "./audios/class5/holiday-activities/get-a-present.mp3",
+      "transcript": "[gɛt ə ˈprɛzənt]"
+    },
+    {
+      "ru": "смотреть фейерверки",
+      "en": "w a t c h   f i r e w o r k s",
+      "addWord": "m p q",
+      "audioEnUrl": "./audios/class5/holiday-activities/watch-fireworks.mp3",
+      "transcript": "[wɒʧ ˈfaɪəwɜːks]"
+    },
+    {
+      "ru": "желать счастья",
+      "en": "w i s h   h a p p i n e s s",
+      "addWord": "o x z",
+      "audioEnUrl": "./audios/class5/holiday-activities/wish-happiness.mp3",
+      "transcript": "[wɪʃ ˈhæpɪnɪs]"
+    },
+    {
+      "ru": "красить яйца",
+      "en": "p a i n t   e g g s",
+      "addWord": "r t y",
+      "audioEnUrl": "./audios/class5/holiday-activities/paint-eggs.mp3",
+      "transcript": "[peɪnt ɛgz]"
+    },
+    {
+      "ru": "зажигать свечи",
+      "en": "l i g h t   c a n d l e s",
+      "addWord": "f k w",
+      "audioEnUrl": "./audios/class5/holiday-activities/light-candles.mp3",
+      "transcript": "[laɪt ˈkændlz]"
+    },
+    {
+      "ru": "отправлять открытки",
+      "en": "s e n d   c a r d s",
+      "addWord": "a h p",
+      "audioEnUrl": "./audios/class5/holiday-activities/send-cards.mp3",
+      "transcript": "[sɛnd kɑːdz]"
+    }
+  ],
+  "colors": []
+}
