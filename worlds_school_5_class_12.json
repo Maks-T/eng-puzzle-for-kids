@@ -1,0 +1,153 @@
+﻿{
+  "name": "Parts of the Body",
+  "questions": [
+    {
+      "ru": "волосы",
+      "en": "h a i r",
+      "addWord": "e t o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/hair.mp3",
+      "transcript": "[heə]"
+    },
+    {
+      "ru": "нос",
+      "en": "a  n o s e",
+      "addWord": "r t m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/nose.mp3",
+      "transcript": "[nəʊz]"
+    },
+    {
+      "ru": "лицо",
+      "en": "a  f a c e",
+      "addWord": "t r o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/face.mp3",
+      "transcript": "[feɪs]"
+    },
+    {
+      "ru": "ухо",
+      "en": "a n  e a r",
+      "addWord": "t p m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/ear.mp3",
+      "transcript": "[ɪə]"
+    },
+    {
+      "ru": "зубы",
+      "en": "t e e t h",
+      "addWord": "r o m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/teeth.mp3",
+      "transcript": "[tiːθ]"
+    },
+    {
+      "ru": "шея",
+      "en": "a  n e c k",
+      "addWord": "r t l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/neck.mp3",
+      "transcript": "[nek]"
+    },
+    {
+      "ru": "плечо",
+      "en": "a  s h o u l d e r",
+      "addWord": "t p m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/shoulder.mp3",
+      "transcript": "[ˈʃəʊldə]"
+    },
+    {
+      "ru": "спина",
+      "en": "a  b a c k",
+      "addWord": "t r o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/back.mp3",
+      "transcript": "[bæk]"
+    },
+    {
+      "ru": "нога",
+      "en": "a  l e g",
+      "addWord": "r t m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/leg.mp3",
+      "transcript": "[lɛɡ]"
+    },
+    {
+      "ru": "тело",
+      "en": "a  b o d y",
+      "addWord": "r t m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/body.mp3",
+      "transcript": "[ˈbɒdi]"
+    },
+    {
+      "ru": "стопа",
+      "en": "a  f o o t",
+      "addWord": "r m l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/foot.mp3",
+      "transcript": "[fʊt]"
+    },
+    {
+      "ru": "голова",
+      "en": "a  h e a d",
+      "addWord": "r t m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/head.mp3",
+      "transcript": "[hɛd]"
+    },
+    {
+      "ru": "глаз",
+      "en": "a n  e y e",
+      "addWord": "r t p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/eye.mp3",
+      "transcript": "[aɪ]"
+    },
+    {
+      "ru": "рука",
+      "en": "a h a n d",
+      "addWord": "t r p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/hand.mp3",
+      "transcript": "[hænd]"
+    },
+    {
+      "ru": "рот",
+      "en": "a  m o u t h",
+      "addWord": "r t n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/mouth.mp3",
+      "transcript": "[maʊθ]"
+    },
+    {
+      "ru": "рука (от плеча до кисти)",
+      "en": "a n  a r m",
+      "addWord": "t p s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/arm.mp3",
+      "transcript": "[ɑːm]"
+    },
+    {
+      "ru": "локоть",
+      "en": "a n  e l b o w",
+      "addWord": "r t s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/elbow.mp3",
+      "transcript": "[ˈɛlbəʊ]"
+    },
+    {
+      "ru": "палец",
+      "en": "a  f i n g e r",
+      "addWord": "r t m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/finger.mp3",
+      "transcript": "[ˈfɪŋɡə]"
+    },
+    {
+      "ru": "живот",
+      "en": "a  s t o m a c h",
+      "addWord": "r l p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/stomach.mp3",
+      "transcript": "[ˈstʌmək]"
+    },
+    {
+      "ru": "колено",
+      "en": "a  k n e e",
+      "addWord": "r p m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/knee.mp3",
+      "transcript": "[niː]"
+    },
+    {
+      "ru": "палец на ноге",
+      "en": "a  t o e",
+      "addWord": "r l m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/toe.mp3",
+      "transcript": "[təʊ]"
+    }
+  ],
+  "colors": []
+}
