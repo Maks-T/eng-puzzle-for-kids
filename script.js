@@ -70,6 +70,20 @@ class AppHTML {
       'Проверить'
     );
 
+    this.elemBtnBackspace = this.createElement(
+      'button',
+      ['white', 'btn-backspace'],
+      'Backspace'
+    );
+
+    this.elemBtnBackspace.addEventListener('click', () => {
+      const wordElem = document.querySelector('.word.backspace');
+
+      if (wordElem) {
+        wordElem.click();
+      }
+    })
+
     this.elemBtnNext = this.createElement(
       'button',
       ['btn-next', 'hide'],
@@ -78,7 +92,7 @@ class AppHTML {
 
     this.elemPanelBtn = this.createElement('div', ['panel-btn'], '');
 
-    this.elemPanelBtn.append(this.elemBtnCheck, this.elemBtnNext);
+    this.elemPanelBtn.append(this.elemBtnBackspace, this.elemBtnCheck, this.elemBtnNext);
 
     this.elemSuccessMessage = this.createElement(
       'div',
@@ -211,7 +225,8 @@ class AppHTML {
   }
 
   showRightText(text) {
-    this.elemRightText.innerHTML = text;
+    console.log(text)
+    this.elemRightText.innerHTML = text.replace(/(?<=\S)\s(?=\S)/g, '');
     this.elemBoard.append(this.elemRightText);
   }
 
@@ -384,13 +399,17 @@ class App {
         this.getRandomWords(this.unitData.addWords, 4, this.ques.en)
       );
     }
-
+    
     words = words.sort(() => Math.random() - 0.5);
 
     words.forEach((word) => {
       const wordElem = document.createElement('div');
       wordElem.classList.add('word');
       wordElem.classList.add(this.getColorClass(word));
+
+      if (word === '') {
+        wordElem.classList.add('backspace');
+      }
 
       wordElem.innerHTML = word.replace('+', ' ');
       this.wordElems.push(wordElem);

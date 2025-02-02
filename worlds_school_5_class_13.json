@@ -1,0 +1,69 @@
+﻿{
+  "name": "Health Problems Vocabulary",
+  "questions": [
+    {
+      "ru": "боль в животе",
+      "en": "a   s t o m a c h   a c h e",
+      "addWord": "p l m",
+      "audioEnUrl": "./audios/class5/health/a-stomach-ache.mp3",
+      "transcript": "[ˈstʌmək eɪk]"
+    },
+    {
+      "ru": "головная боль",
+      "en": "a   h e a d a c h e",
+      "addWord": "q r s",
+      "audioEnUrl": "./audios/class5/health/a-headache.mp3",
+      "transcript": "[ˈhɛdeɪk]"
+    },
+    {
+      "ru": "зубная боль",
+      "en": "a   t o o t h a c h e",
+      "addWord": "t u v",
+      "audioEnUrl": "./audios/class5/health/a-toothache.mp3",
+      "transcript": "[ˈtuːθeɪk]"
+    },
+    {
+      "ru": "боль",
+      "en": "h u r t",
+      "addWord": "w x y",
+      "audioEnUrl": "./audios/class5/health/hurt.mp3",
+      "transcript": "[hɜːt]"
+    },
+    {
+      "ru": "кашель",
+      "en": "a   c o u g h",
+      "addWord": "z a b",
+      "audioEnUrl": "./audios/class5/health/a-cough.mp3",
+      "transcript": "[kɒf]"
+    },
+    {
+      "ru": "температура",
+      "en": "a   t e m p e r a t u r e",
+      "addWord": "c d e",
+      "audioEnUrl": "./audios/class5/health/a-temperature.mp3",
+      "transcript": "[ˈtɛmpərətʃə]"
+    },
+    {
+      "ru": "боль в горле",
+      "en": "a   s o r e   t h r o a t",
+      "addWord": "f g h",
+      "audioEnUrl": "./audios/class5/health/a-sore-throat.mp3",
+      "transcript": "[sɔː θrəʊt]"
+    },
+    {
+      "ru": "простуда",
+      "en": "a   c o l d",
+      "addWord": "i j k",
+      "audioEnUrl": "./audios/class5/health/a-cold.mp3",
+      "transcript": "[kəʊld]"
+    },
+    {
+      "ru": "насморк",
+      "en": "a   r u n n y   n o s e",
+      "addWord": "l m n",
+      "audioEnUrl": "./audios/class5/health/a-runny-nose.mp3",
+      "transcript": "[ˈrʌni nəʊz]"
+    }
+  ],
+  "colors": []
+}
