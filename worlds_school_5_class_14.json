@@ -1,0 +1,104 @@
+﻿{
+  "name": "Town and Village Vocabulary",
+  "questions": [
+    {
+      "ru": "город",
+      "en": "a   t o w n",
+      "addWord": "x y z",
+      "audioEnUrl": "./audios/class5/town-village/a-town.mp3",
+      "transcript": "[taʊn]"
+    },
+    {
+      "ru": "деревня",
+      "en": "a   v i l l a g e",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/town-village/a-village.mp3",
+      "transcript": "[ˈvɪlɪdʒ]"
+    },
+    {
+      "ru": "здоровый",
+      "en": "h e a l t h y",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/town-village/healthy.mp3",
+      "transcript": "[ˈhɛlθi]"
+    },
+    {
+      "ru": "нездоровый",
+      "en": "u n h e a l t h y",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/town-village/unhealthy.mp3",
+      "transcript": "[ʌnˈhɛlθi]"
+    },
+    {
+      "ru": "современный",
+      "en": "m o d e r n",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/town-village/modern.mp3",
+      "transcript": "[ˈmɒdən]"
+    },
+    {
+      "ru": "старый",
+      "en": "o l d",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/town-village/old.mp3",
+      "transcript": "[əʊld]"
+    },
+    {
+      "ru": "грязный",
+      "en": "d i r t y",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/town-village/dirty.mp3",
+      "transcript": "[ˈdɜːti]"
+    },
+    {
+      "ru": "чистый",
+      "en": "c l e a n",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/town-village/clean.mp3",
+      "transcript": "[kliːn]"
+    },
+    {
+      "ru": "лучше",
+      "en": "b e t t e r",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/town-village/better.mp3",
+      "transcript": "[ˈbɛtə]"
+    },
+    {
+      "ru": "самый лучший",
+      "en": "t h e   b e s t",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/town-village/the-best.mp3",
+      "transcript": "[ðə bɛst]"
+    },
+    {
+      "ru": "хуже",
+      "en": "w o r s e",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/town-village/worse.mp3",
+      "transcript": "[wɜːs]"
+    },
+    {
+      "ru": "самый худший",
+      "en": "t h e   w o r s t",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/town-village/the-worst.mp3",
+      "transcript": "[ðə wɜːst]"
+    },
+    {
+      "ru": "хороший",
+      "en": "g o o d",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class5/town-village/good.mp3",
+      "transcript": "[ɡʊd]"
+    },
+    {
+      "ru": "плохой",
+      "en": "b a d",
+      "addWord": "b c d",
+      "audioEnUrl": "./audios/class5/town-village/bad.mp3",
+      "transcript": "[bæd]"
+    }
+  ],
+  "colors": []
+}
