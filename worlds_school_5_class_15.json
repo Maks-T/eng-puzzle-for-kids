@@ -1,0 +1,125 @@
+﻿{
+  "name": "Farm Animals and People Vocabulary",
+  "questions": [
+    {
+      "ru": "овца",
+      "en": "a   s h e e p",
+      "addWord": "x y z",
+      "audioEnUrl": "./audios/class5/animals-people/a-sheep.mp3",
+      "transcript": "[ʃiːp]"
+    },
+    {
+      "ru": "лошадь",
+      "en": "a   h o r s e",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/animals-people/a-horse.mp3",
+      "transcript": "[hɔːs]"
+    },
+    {
+      "ru": "корова",
+      "en": "a   c o w",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/animals-people/a-cow.mp3",
+      "transcript": "[kaʊ]"
+    },
+    {
+      "ru": "свинья",
+      "en": "a   p i g",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/animals-people/a-pig.mp3",
+      "transcript": "[pɪɡ]"
+    },
+    {
+      "ru": "индюк",
+      "en": "a   t u r k e y",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/animals-people/a-turkey.mp3",
+      "transcript": "[ˈtɜːki]"
+    },
+    {
+      "ru": "курица",
+      "en": "a   h e n",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/animals-people/a-hen.mp3",
+      "transcript": "[hɛn]"
+    },
+    {
+      "ru": "утка",
+      "en": "a   d u c k",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/animals-people/a-duck.mp3",
+      "transcript": "[dʌk]"
+    },
+    {
+      "ru": "гусь",
+      "en": "a   g o o s e",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/animals-people/a-goose.mp3",
+      "transcript": "[ɡuːs]"
+    },
+    {
+      "ru": "гуси",
+      "en": "g e e s e",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/animals-people/geese.mp3",
+      "transcript": "[ɡiːs]"
+    },
+    {
+      "ru": "овцы",
+      "en": "s h e e p",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/animals-people/sheep.mp3",
+      "transcript": "[ʃiːp]"
+    },
+    {
+      "ru": "мыши",
+      "en": "m i c e",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/animals-people/mice.mp3",
+      "transcript": "[maɪs]"
+    },
+    {
+      "ru": "мужчины",
+      "en": "m e n",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/animals-people/men.mp3",
+      "transcript": "[mɛn]"
+    },
+    {
+      "ru": "мужчина",
+      "en": "a   m a n",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/animals-people/a-man.mp3",
+      "transcript": "[mæn]"
+    },
+    {
+      "ru": "женщина",
+      "en": "a   w o m a n",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/animals-people/a-woman.mp3",
+      "transcript": "[ˈwʊmən]"
+    },
+    {
+      "ru": "женщины",
+      "en": "w o m e n",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/animals-people/women.mp3",
+      "transcript": "[ˈwɪmɪn]"
+    },
+    {
+      "ru": "ребёнок",
+      "en": "a   c h i l d",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/animals-people/a-child.mp3",
+      "transcript": "[tʃaɪld]"
+    },
+    {
+      "ru": "дети",
+      "en": "c h i l d r e n",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/animals-people/children.mp3",
+      "transcript": "[ˈtʃɪldrən]"
+    }
+  ],
+  "colors": []
+}
