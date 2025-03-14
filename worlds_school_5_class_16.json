@@ -1,0 +1,69 @@
+﻿{
+  "name": "Gardening Vocabulary",
+  "questions": [
+    {
+      "ru": "копать клумбы",
+      "en": "d i g   f l o w e r   b e d s",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/gardening/dig-flower-beds.mp3",
+      "transcript": "[dɪɡ flaʊər bɛdz]"
+    },
+    {
+      "ru": "делать грядки для овощей",
+      "en": "m a k e   v e g e t a b l e   b e d s",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/gardening/make-vegetable-beds.mp3",
+      "transcript": "[meɪk ˈvɛdʒtəb(ə)l bɛdz]"
+    },
+    {
+      "ru": "сажать помидоры",
+      "en": "p l a n t   t o m a t o e s",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/gardening/plant-tomatoes.mp3",
+      "transcript": "[plɑːnt təˈmɑːtəʊz]"
+    },
+    {
+      "ru": "сеять морковь, горох и фасоль",
+      "en": "s e e d   c a r r o t s,   p e a s   a n d   b e a n s",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/gardening/seed-carrots-peas-beans.mp3",
+      "transcript": "[siːd ˈkærəts, piːz ənd biːnz]"
+    },
+    {
+      "ru": "поливать цветы и овощи",
+      "en": "w a t e r   f l o w e r s   a n d   v e g e t a b l e s",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/gardening/water-flowers-vegetables.mp3",
+      "transcript": "[ˈwɔːtər ˈflaʊərz ənd ˈvɛdʒtəb(ə)lz]"
+    },
+    {
+      "ru": "выращивать яблони и груши",
+      "en": "g r o w   a p p l e   t r e e s   a n d   p e a r   t r e e s",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/gardening/grow-apple-pear-trees.mp3",
+      "transcript": "[ɡrəʊ ˈæp(ə)l triːz ənd peə triːz]"
+    },
+    {
+      "ru": "пропалывать клумбы и грядки",
+      "en": "w e e d   f l o w e r   b e d s   a n d   v e g e t a b l e   b e d s",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/gardening/weed-flower-vegetable-beds.mp3",
+      "transcript": "[wiːd flaʊər bɛdz ənd ˈvɛdʒtəb(ə)l bɛdz]"
+    },
+    {
+      "ru": "огурцы",
+      "en": "c u c u m b e r s",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/gardening/cucumbers.mp3",
+      "transcript": "[ˈkjuːkʌmbəz]"
+    },
+    {
+      "ru": "капуста",
+      "en": "c a b b a g e s",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class5/gardening/cabbages.mp3",
+      "transcript": "[ˈkæbɪdʒɪz]"
+    }
+  ],
+  "colors": []
+}
