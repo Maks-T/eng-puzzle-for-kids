@@ -1,0 +1,111 @@
+﻿{
+  "name": "Gardening Vocabulary",
+  "questions": [
+    {
+      "ru": "копать",
+      "en": "d i g",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/gardening/dig.mp3",
+      "transcript": "[dɪɡ]"
+    },
+    {
+      "ru": "клумбы",
+      "en": "f l o w e r   b e d s",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/gardening/flower-beds.mp3",
+      "transcript": "[flaʊər bɛdz]"
+    },
+    {
+      "ru": "грядки для овощей",
+      "en": "v e g e t a b l e   b e d s",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/gardening/vegetable-beds.mp3",
+      "transcript": "[ˈvɛdʒtəb(ə)l bɛdz]"
+    },
+    {
+      "ru": "сажать",
+      "en": "p l a n t",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/gardening/plant.mp3",
+      "transcript": "[plɑːnt]"
+    },
+    {
+      "ru": "сеять",
+      "en": "s e e d",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/gardening/seed.mp3",
+      "transcript": "[siːd]"
+    },
+    {
+      "ru": "морковь",
+      "en": "c a r r o t s",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/gardening/carrots.mp3",
+      "transcript": "[ˈkærəts]"
+    },
+    {
+      "ru": "горох",
+      "en": "p e a s",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/gardening/peas.mp3",
+      "transcript": "[piːz]"
+    },
+    {
+      "ru": "фасоль",
+      "en": "b e a n s",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/gardening/beans.mp3",
+      "transcript": "[biːnz]"
+    },
+    {
+      "ru": "поливать",
+      "en": "w a t e r",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class5/gardening/water.mp3",
+      "transcript": "[ˈwɔːtər]"
+    },
+    {
+      "ru": "выращивать",
+      "en": "g r o w",
+      "addWord": "b c d",
+      "audioEnUrl": "./audios/class5/gardening/grow.mp3",
+      "transcript": "[ɡrəʊ]"
+    },
+    {
+      "ru": "яблони",
+      "en": "a p p l e   t r e e s",
+      "addWord": "e f g",
+      "audioEnUrl": "./audios/class5/gardening/apple-trees.mp3",
+      "transcript": "[ˈæp(ə)l triːz]"
+    },
+    {
+      "ru": "груши",
+      "en": "p e a r   t r e e s",
+      "addWord": "h i j",
+      "audioEnUrl": "./audios/class5/gardening/pear-trees.mp3",
+      "transcript": "[peə triːz]"
+    },
+    {
+      "ru": "пропалывать",
+      "en": "w e e d",
+      "addWord": "k l m",
+      "audioEnUrl": "./audios/class5/gardening/weed.mp3",
+      "transcript": "[wiːd]"
+    },
+    {
+      "ru": "огурцы",
+      "en": "c u c u m b e r s",
+      "addWord": "n o p",
+      "audioEnUrl": "./audios/class5/gardening/cucumbers.mp3",
+      "transcript": "[ˈkjuːkʌmbəz]"
+    },
+    {
+      "ru": "капуста",
+      "en": "c a b b a g e s",
+      "addWord": "q r s",
+      "audioEnUrl": "./audios/class5/gardening/cabbages.mp3",
+      "transcript": "[ˈkæbɪdʒɪz]"
+    }
+  ],
+  "colors": []
+}
