@@ -1,0 +1,69 @@
+﻿{
+  "name": "Nature and Description Vocabulary",
+  "questions": [
+    {
+      "ru": "высокий",
+      "en": "h i g h",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/nature-description/high.mp3",
+      "transcript": "[haɪ]"
+    },
+    {
+      "ru": "глубокий",
+      "en": "d e e p",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/nature-description/deep.mp3",
+      "transcript": "[diːp]"
+    },
+    {
+      "ru": "сухой",
+      "en": "d r y",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/nature-description/dry.mp3",
+      "transcript": "[draɪ]"
+    },
+    {
+      "ru": "влажный, мокрый",
+      "en": "w e t",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/nature-description/wet.mp3",
+      "transcript": "[wet]"
+    },
+    {
+      "ru": "пустыня",
+      "en": "a   d e s e r t",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/nature-description/a-desert.mp3",
+      "transcript": "[ˈdezət]"
+    },
+    {
+      "ru": "океан",
+      "en": "an   o c e a n",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/nature-description/an-ocean.mp3",
+      "transcript": "[ˈəʊʃn]"
+    },
+    {
+      "ru": "гора",
+      "en": "a   m o u n t a i n",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/nature-description/a-mountain.mp3",
+      "transcript": "[ˈmaʊntɪn]"
+    },
+    {
+      "ru": "джунгли",
+      "en": "t h e   j u n g l e",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/nature-description/the-jungle.mp3",
+      "transcript": "[ðe ˈdʒuŋɡl]"
+    },
+    {
+      "ru": "степи / луга (grasslands)",
+      "en": "g r a s s l a n d s",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class5/nature-description/grasslands.mp3",
+      "transcript": "[ˈɡræsˌlændz]"
+    }
+  ],
+  "colors": []
+}
