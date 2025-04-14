@@ -1,0 +1,41 @@
+﻿{
+  "name": "Landscape Vocabulary",
+  "questions": [
+    {
+      "ru": "лес",
+      "en": "a   f o r e s t",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/landscape/a-forest.mp3",
+      "transcript": "[ˈfɒrɪst]"
+    },
+    {
+      "ru": "луг",
+      "en": "a   m e a d o w",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/landscape/a-meadow.mp3",
+      "transcript": "[ˈmedəʊ]"
+    },
+    {
+      "ru": "поле",
+      "en": "a   f i e l d",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/landscape/a-field.mp3",
+      "transcript": "[fiːld]"
+    },
+    {
+      "ru": "холм",
+      "en": "a   h i l l",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/landscape/a-hill.mp3",
+      "transcript": "[hɪl]"
+    },
+    {
+      "ru": "болото",
+      "en": "a   s w a m p",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/landscape/a-swamp.mp3",
+      "transcript": "[swɒmp]"
+    }
+  ],
+  "colors": []
+}

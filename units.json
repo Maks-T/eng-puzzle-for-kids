@@ -1,6 +1,16 @@
 {
   "units": [
     {
+      "id": "Landscape-Vocabulary",
+      "url": "worlds_school_5_class_19.json",
+      "name": "Landscape Vocabulary"
+      },
+      {
+        "id": "Animals-Vocabulary",
+        "url": "worlds_school_5_class_18.json",
+        "name": "Animals Vocabulary"
+        },
+    {
       "id": "Nature-and-Description-Vocabulary",
       "url": "worlds_school_5_class_17.json",
       "name": "Nature and Description Vocabulary"

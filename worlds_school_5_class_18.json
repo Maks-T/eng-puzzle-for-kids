@@ -1,0 +1,90 @@
+﻿{
+  "name": "Animals Vocabulary",
+  "questions": [
+    {
+      "ru": "зубр",
+      "en": "a   b i s o n",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class5/animals/a-bison.mp3",
+      "transcript": "[ˈbaɪsən]"
+    },
+    {
+      "ru": "зубры",
+      "en": "b i s o n",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class5/animals/bison.mp3",
+      "transcript": "[ˈbaɪsən]"
+    },
+    {
+      "ru": "рысь",
+      "en": "a   l y n x",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class5/animals/a-lynx.mp3",
+      "transcript": "[lɪŋks]"
+    },
+    {
+      "ru": "аист",
+      "en": "a   s t o r k",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class5/animals/a-stork.mp3",
+      "transcript": "[stɔːk]"
+    },
+    {
+      "ru": "бобр",
+      "en": "a   b e a v e r",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class5/animals/a-beaver.mp3",
+      "transcript": "[ˈbiːvə]"
+    },
+    {
+      "ru": "ёж",
+      "en": "a   h e d g e h o g",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class5/animals/a-hedgehog.mp3",
+      "transcript": "[ˈhedʒhɒɡ]"
+    },
+    {
+      "ru": "олень",
+      "en": "a   d e e r",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class5/animals/a-deer.mp3",
+      "transcript": "[dɪə]"
+    },
+    {
+      "ru": "олени",
+      "en": "d e e r",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class5/animals/deer.mp3",
+      "transcript": "[dɪə]"
+    },
+    {
+      "ru": "лось",
+      "en": "a n   e l k",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class5/animals/an-elk.mp3",
+      "transcript": "[elk]"
+    },
+    {
+      "ru": "лоси",
+      "en": "e l k",
+      "addWord": "b c d",
+      "audioEnUrl": "./audios/class5/animals/elk.mp3",
+      "transcript": "[elk]"
+    },
+    {
+      "ru": "дикий кабан",
+      "en": "a   w i l d   b o a r",
+      "addWord": "e f g",
+      "audioEnUrl": "./audios/class5/animals/a-wild-boar.mp3",
+      "transcript": "[waɪld bɔː]"
+    },
+    {
+      "ru": "кабаны",
+      "en": "w i l d   b o a r",
+      "addWord": "h i j",
+      "audioEnUrl": "./audios/class5/animals/wild-boar.mp3",
+      "transcript": "[bɔː]"
+    }
+  ],
+  "colors": []
+}
