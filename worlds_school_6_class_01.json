@@ -1,0 +1,118 @@
+﻿{
+  "name": "Past Simple: Irregular Verbs",
+  "questions": [
+    {
+      "ru": "был/была",
+      "en": "w a s",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/was.mp3",
+      "transcript": "[wɒz]"
+    },
+    {
+      "ru": "начал",
+      "en": "b e g a n",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/began.mp3",
+      "transcript": "[bɪˈɡæn]"
+    },
+    {
+      "ru": "делал",
+      "en": "d i d",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/did.mp3",
+      "transcript": "[dɪd]"
+    },
+    {
+      "ru": "летел",
+      "en": "f l e w",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/flew.mp3",
+      "transcript": "[fluː]"
+    },
+    {
+      "ru": "забыл",
+      "en": "f o r g o t",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/forgot.mp3",
+      "transcript": "[fəˈɡɒt]"
+    },
+    {
+      "ru": "встал",
+      "en": "g o t  u p",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/got-up.mp3",
+      "transcript": "[ɡɒt ʌp]"
+    },
+    {
+      "ru": "ходил",
+      "en": "w e n t",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/went.mp3",
+      "transcript": "[wɛnt]"
+    },
+    {
+      "ru": "имел",
+      "en": "h a d",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/had.mp3",
+      "transcript": "[hæd]"
+    },
+    {
+      "ru": "сказал",
+      "en": "s a i d",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/said.mp3",
+      "transcript": "[sɛd]"
+    },
+    {
+      "ru": "видел",
+      "en": "s a w",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/saw.mp3",
+      "transcript": "[sɔː]"
+    },
+    {
+      "ru": "пел",
+      "en": "s a n g",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sang.mp3",
+      "transcript": "[sæŋ]"
+    },
+    {
+      "ru": "сидел",
+      "en": "s a t",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/sat.mp3",
+      "transcript": "[sæt]"
+    },
+    {
+      "ru": "потратил",
+      "en": "s p e n t",
+      "addWord": "k l m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spent.mp3",
+      "transcript": "[spɛnt]"
+    },
+    {
+      "ru": "плавал",
+      "en": "s w a m",
+      "addWord": "n o p",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/swam.mp3",
+      "transcript": "[swæm]"
+    },
+    {
+      "ru": "взял",
+      "en": "t o o k",
+      "addWord": "q r s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/took.mp3",
+      "transcript": "[tʊk]"
+    },
+    {
+      "ru": "рассказал",
+      "en": "t o l d",
+      "addWord": "t u v",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/told.mp3",
+      "transcript": "[təʊld]"
+    }
+  ],
+  "colors": []
+}

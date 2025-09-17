@@ -1,6 +1,11 @@
 {
   "units": [
     {
+      "id": "Past-Simple-Irregular-Verbs",
+      "url": "worlds_school_6_class_01.json",
+      "name": "Past Simple: Irregular Verbs"
+      },
+    {
       "id": "Landscape-Vocabulary",
       "url": "worlds_school_5_class_19.json",
       "name": "Landscape Vocabulary"
