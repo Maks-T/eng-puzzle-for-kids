@@ -1,6 +1,21 @@
 {
   "units": [
     {
+      "id": "Present_Simple_Base_Form_p1",
+      "url": "worlds_school_6_class_02_1.json",
+      "name": "Present Simple: Base Form Part1"
+    },
+    {
+      "id": "Past-Simple-Irregular-Verbs_p1",
+      "url": "worlds_school_6_class_02_2.json",
+      "name": "Past Simple: Irregular Verbs Part1"
+    },
+    {
+      "id": "Past-Participle-Third-Form",
+      "url": "worlds_school_6_class_02_3.json",
+      "name": "Past Participle: Third Form Part1"
+    },
+    {
       "id": "Past-Simple-Irregular-Verbs",
       "url": "worlds_school_6_class_01.json",
       "name": "Past Simple: Irregular Verbs"

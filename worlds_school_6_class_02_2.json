@@ -1,0 +1,90 @@
+﻿{
+  "name": "Past Simple: Irregular Verbs",
+  "questions": [
+    {
+      "ru": "видел",
+      "en": "s a w",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/saw.mp3",
+      "transcript": "[sɔː]"
+    },
+    {
+      "ru": "взял",
+      "en": "t o o k",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/took.mp3",
+      "transcript": "[tʊk]"
+    },
+    {
+      "ru": "говорил",
+      "en": "s p o k e",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spoke.mp3",
+      "transcript": "[spəʊk]"
+    },
+    {
+      "ru": "поймал",
+      "en": "c a u g h t",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/caught.mp3",
+      "transcript": "[kɔːt]"
+    },
+    {
+      "ru": "пил",
+      "en": "d r a n k",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drank.mp3",
+      "transcript": "[dræŋk]"
+    },
+    {
+      "ru": "думал",
+      "en": "t h o u g h t",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/thought.mp3",
+      "transcript": "[θɔːt]"
+    },
+    {
+      "ru": "начал",
+      "en": "b e g a n",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/began.mp3",
+      "transcript": "[bɪˈɡæn]"
+    },
+    {
+      "ru": "построил",
+      "en": "b u i l t",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/built.mp3",
+      "transcript": "[bɪlt]"
+    },
+    {
+      "ru": "чувствовал",
+      "en": "f e l t",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/felt.mp3",
+      "transcript": "[fɛlt]"
+    },
+    {
+      "ru": "делал",
+      "en": "d i d",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/did.mp3",
+      "transcript": "[dɪd]"
+    },
+    {
+      "ru": "положил",
+      "en": "p u t",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/put.mp3",
+      "transcript": "[pʊt]"
+    },
+    {
+      "ru": "упал",
+      "en": "f e l l",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fell.mp3",
+      "transcript": "[fɛl]"
+    }
+  ],
+  "colors": []
+}

@@ -1,0 +1,90 @@
+﻿{
+  "name": "Present Simple: Base Form",
+  "questions": [
+    {
+      "ru": "видеть",
+      "en": "s e e",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/see.mp3",
+      "transcript": "[siː]"
+    },
+    {
+      "ru": "брать",
+      "en": "t a k e",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/take.mp3",
+      "transcript": "[teɪk]"
+    },
+    {
+      "ru": "говорить",
+      "en": "s p e a k",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/speak.mp3",
+      "transcript": "[spiːk]"
+    },
+    {
+      "ru": "ловить",
+      "en": "c a t c h",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/catch.mp3",
+      "transcript": "[kætʃ]"
+    },
+    {
+      "ru": "пить",
+      "en": "d r i n k",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drink.mp3",
+      "transcript": "[drɪŋk]"
+    },
+    {
+      "ru": "думать",
+      "en": "t h i n k",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/think.mp3",
+      "transcript": "[θɪŋk]"
+    },
+    {
+      "ru": "начинать",
+      "en": "b e g i n",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/begin.mp3",
+      "transcript": "[bɪˈɡɪn]"
+    },
+    {
+      "ru": "строить",
+      "en": "b u i l d",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/build.mp3",
+      "transcript": "[bɪld]"
+    },
+    {
+      "ru": "чувствовать",
+      "en": "f e e l",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/feel.mp3",
+      "transcript": "[fiːl]"
+    },
+    {
+      "ru": "делать",
+      "en": "d o",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/do.mp3",
+      "transcript": "[duː]"
+    },
+    {
+      "ru": "класть",
+      "en": "p u t",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/put.mp3",
+      "transcript": "[pʊt]"
+    },
+    {
+      "ru": "падать",
+      "en": "f a l l",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fall.mp3",
+      "transcript": "[fɔːl]"
+    }
+  ],
+  "colors": []
+}

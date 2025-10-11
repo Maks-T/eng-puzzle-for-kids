@@ -1,0 +1,90 @@
+﻿{
+  "name": "Past Participle: Third Form",
+  "questions": [
+    {
+      "ru": "увидел (третья форма)",
+      "en": "s e e n",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/seen.mp3",
+      "transcript": "[siːn]"
+    },
+    {
+      "ru": "взял (третья форма)",
+      "en": "t a k e n",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/taken.mp3",
+      "transcript": "[ˈteɪkən]"
+    },
+    {
+      "ru": "сказал/говорил (третья форма)",
+      "en": "s p o k e n",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/spoken.mp3",
+      "transcript": "[ˈspəʊkən]"
+    },
+    {
+      "ru": "поймал (третья форма)",
+      "en": "c a u g h t",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/caught.mp3",
+      "transcript": "[kɔːt]"
+    },
+    {
+      "ru": "выпил (третья форма)",
+      "en": "d r u n k",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/drunk.mp3",
+      "transcript": "[drʌŋk]"
+    },
+    {
+      "ru": "подумал (третья форма)",
+      "en": "t h o u g h t",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/thought.mp3",
+      "transcript": "[θɔːt]"
+    },
+    {
+      "ru": "начал (третья форма)",
+      "en": "b e g u n",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/begun.mp3",
+      "transcript": "[bɪˈɡʌn]"
+    },
+    {
+      "ru": "построил (третья форма)",
+      "en": "b u i l t",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/built.mp3",
+      "transcript": "[bɪlt]"
+    },
+    {
+      "ru": "почувствовал (третья форма)",
+      "en": "f e l t",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/felt.mp3",
+      "transcript": "[fɛlt]"
+    },
+    {
+      "ru": "сделал (третья форма)",
+      "en": "d o n e",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/done.mp3",
+      "transcript": "[dʌn]"
+    },
+    {
+      "ru": "положил (третья форма)",
+      "en": "p u t",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/put.mp3",
+      "transcript": "[pʊt]"
+    },
+    {
+      "ru": "упал (третья форма)",
+      "en": "f a l l e n",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/fallen.mp3",
+      "transcript": "[ˈfɔːlən]"
+    }
+  ],
+  "colors": []
+}
