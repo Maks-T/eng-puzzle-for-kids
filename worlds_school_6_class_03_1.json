@@ -1,0 +1,90 @@
+﻿{
+  "name": "Present Simple: Base Form 2",
+  "questions": [
+    {
+      "ru": "есть, кушать",
+      "en": "e a t",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/eat.mp3",
+      "transcript": "[iːt]"
+    },
+    {
+      "ru": "резать",
+      "en": "c u t",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cut.mp3",
+      "transcript": "[kʌt]"
+    },
+    {
+      "ru": "учить, изучать",
+      "en": "l e a r n",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/learn.mp3",
+      "transcript": "[lɜːn]"
+    },
+    {
+      "ru": "приходить",
+      "en": "c o m e",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/come.mp3",
+      "transcript": "[kʌm]"
+    },
+    {
+      "ru": "рассказывать",
+      "en": "t e l l",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/tell.mp3",
+      "transcript": "[tɛl]"
+    },
+    {
+      "ru": "идти, ходить",
+      "en": "g o",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/go.mp3",
+      "transcript": "[ɡəʊ]"
+    },
+    {
+      "ru": "делать, создавать",
+      "en": "m a k e",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/make.mp3",
+      "transcript": "[meɪk]"
+    },
+    {
+      "ru": "быть",
+      "en": "b e",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/be.mp3",
+      "transcript": "[biː]"
+    },
+    {
+      "ru": "находить",
+      "en": "f i n d",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/find.mp3",
+      "transcript": "[faɪnd]"
+    },
+    {
+      "ru": "иметь",
+      "en": "h a v e",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/have.mp3",
+      "transcript": "[hæv]"
+    },
+    {
+      "ru": "писать",
+      "en": "w r i t e",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/write.mp3",
+      "transcript": "[raɪt]"
+    },
+    {
+      "ru": "терять",
+      "en": "l o s e",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/lose.mp3",
+      "transcript": "[luːz]"
+    }
+  ],
+  "colors": []
+}

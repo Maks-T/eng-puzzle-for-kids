@@ -1,0 +1,97 @@
+﻿{
+  "name": "Past Simple: Irregular Verbs 2",
+  "questions": [
+    {
+      "ru": "ел",
+      "en": "a t e",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/ate.mp3",
+      "transcript": "[eɪt]"
+    },
+    {
+      "ru": "резал",
+      "en": "c u t",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cut.mp3",
+      "transcript": "[kʌt]"
+    },
+    {
+      "ru": "учил",
+      "en": "l e a r n e d",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/learned.mp3",
+      "transcript": "[lɜːnd]"
+    },
+    {
+      "ru": "пришел",
+      "en": "c a m e",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/came.mp3",
+      "transcript": "[keɪm]"
+    },
+    {
+      "ru": "рассказал",
+      "en": "t o l d",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/told.mp3",
+      "transcript": "[təʊld]"
+    },
+    {
+      "ru": "пошел",
+      "en": "w e n t",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/went.mp3",
+      "transcript": "[wɛnt]"
+    },
+    {
+      "ru": "сделал",
+      "en": "m a d e",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/made.mp3",
+      "transcript": "[meɪd]"
+    },
+    {
+      "ru": "были",
+      "en": "w e r e",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/were.mp3",
+      "transcript": "[wɒz / wɜː]"
+    },
+    {
+      "ru": "был",
+      "en": "w a s",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/was.mp3",
+      "transcript": "[wɒz / wɜː]"
+    },
+    {
+      "ru": "нашел",
+      "en": "f o u n d",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/found.mp3",
+      "transcript": "[faʊnd]"
+    },
+    {
+      "ru": "имел",
+      "en": "h a d",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/had.mp3",
+      "transcript": "[hæd]"
+    },
+    {
+      "ru": "написал",
+      "en": "w r o t e",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/wrote.mp3",
+      "transcript": "[rəʊt]"
+    },
+    {
+      "ru": "потерял",
+      "en": "l o s t",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/lost.mp3",
+      "transcript": "[lɒst]"
+    }
+  ],
+  "colors": []
+}

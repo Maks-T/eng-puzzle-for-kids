@@ -1,0 +1,90 @@
+﻿{
+  "name": "Past Participle: Third Form 2",
+  "questions": [
+    {
+      "ru": "съел (третья форма)",
+      "en": "e a t e n",
+      "addWord": "a b c",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/eaten.mp3",
+      "transcript": "[ˈiːtən]"
+    },
+    {
+      "ru": "порезал (третья форма)",
+      "en": "c u t",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/cut.mp3",
+      "transcript": "[kʌt]"
+    },
+    {
+      "ru": "выучил (третья форма)",
+      "en": "l e a r n e d",
+      "addWord": "g h i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/learned.mp3",
+      "transcript": "[lɜːnd]"
+    },
+    {
+      "ru": "пришел (третья форма)",
+      "en": "c o m e",
+      "addWord": "j k l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/come.mp3",
+      "transcript": "[kʌm]"
+    },
+    {
+      "ru": "рассказал (третья форма)",
+      "en": "t o l d",
+      "addWord": "m n o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/told.mp3",
+      "transcript": "[təʊld]"
+    },
+    {
+      "ru": "пошел (третья форма)",
+      "en": "g o n e",
+      "addWord": "p q r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/gone.mp3",
+      "transcript": "[ɡɒn]"
+    },
+    {
+      "ru": "сделал (третья форма)",
+      "en": "m a d e",
+      "addWord": "s t u",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/made.mp3",
+      "transcript": "[meɪd]"
+    },
+    {
+      "ru": "был (третья форма)",
+      "en": "b e e n",
+      "addWord": "v w x",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/been.mp3",
+      "transcript": "[biːn]"
+    },
+    {
+      "ru": "нашел (третья форма)",
+      "en": "f o u n d",
+      "addWord": "y z a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/found.mp3",
+      "transcript": "[faʊnd]"
+    },
+    {
+      "ru": "имел (третья форма)",
+      "en": "h a d",
+      "addWord": "b c d",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/had.mp3",
+      "transcript": "[hæd]"
+    },
+    {
+      "ru": "написал (третья форма)",
+      "en": "w r i t t e n",
+      "addWord": "e f g",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/written.mp3",
+      "transcript": "[ˈrɪtən]"
+    },
+    {
+      "ru": "потерял (третья форма)",
+      "en": "l o s t",
+      "addWord": "h i j",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/lost.mp3",
+      "transcript": "[lɒst]"
+    }
+  ],
+  "colors": []
+}
