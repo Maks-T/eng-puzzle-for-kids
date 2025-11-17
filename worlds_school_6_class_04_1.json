@@ -1,0 +1,76 @@
+﻿{
+  "name": "Geography Vocabulary",
+  "questions": [
+    {
+      "ru": "тысяча",
+      "en": "t h o u s a n d",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class6/geography/thousand.mp3",
+      "transcript": "[ˈθaʊzənd]"
+    },
+    {
+      "ru": "сто",
+      "en": "h u n d r e d",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class6/geography/hundred.mp3",
+      "transcript": "[ˈhʌndrəd]"
+    },
+    {
+      "ru": "миллион",
+      "en": "m i l l i o n",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class6/geography/million.mp3",
+      "transcript": "[ˈmɪljən]"
+    },
+    {
+      "ru": "население",
+      "en": "p o p u l a t i o n",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class6/geography/population.mp3",
+      "transcript": "[ˌpɒpjʊˈleɪʃən]"
+    },
+    {
+      "ru": "площадь, территория",
+      "en": "a n   a r e a",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class6/geography/an-area.mp3",
+      "transcript": "[ən ˈeəriə]"
+    },
+    {
+      "ru": "температура",
+      "en": "t e m p e r a t u r e",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class6/geography/temperature.mp3",
+      "transcript": "[ˈtɛmprɪtʃə]"
+    },
+    {
+      "ru": "столица",
+      "en": "a   c a p i t a l",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class6/geography/a-capital.mp3",
+      "transcript": "[ə ˈkæpɪtəl]"
+    },
+    {
+      "ru": "гордиться",
+      "en": "t o   b e   p r o u d   o f",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class6/geography/to-be-proud-of.mp3",
+      "transcript": "[tuː biː praʊd ɒv]"
+    },
+    {
+      "ru": "быть известным чем-либо",
+      "en": "t o   b e   f a m o u s   f o r",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class6/geography/to-be-famous-for.mp3",
+      "transcript": "[tuː biː ˈfeɪməs fɔː]"
+    },
+    {
+      "ru": "лежать, находиться",
+      "en": "t o   l i e",
+      "addWord": "b c d",
+      "audioEnUrl": "./audios/class6/geography/to-lie.mp3",
+      "transcript": "[tuː laɪ]"
+    }
+  ],
+  "colors": []
+}

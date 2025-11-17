@@ -1,0 +1,62 @@
+﻿{
+  "name": "National Symbols Vocabulary",
+  "questions": [
+    {
+      "ru": "символ",
+      "en": "a   s y m b o l",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class6/symbols/a-symbol.mp3",
+      "transcript": "[ə ˈsɪmbəl]"
+    },
+    {
+      "ru": "эмблема",
+      "en": "a n   e m b l e m",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class6/symbols/an-emblem.mp3",
+      "transcript": "[æn ˈɛmbləm]"
+    },
+    {
+      "ru": "нация",
+      "en": "a   n a t i o n",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class6/symbols/a-nation.mp3",
+      "transcript": "[ə ˈneɪʃən]"
+    },
+    {
+      "ru": "национальный",
+      "en": "n a t i o n a l",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class6/symbols/national.mp3",
+      "transcript": "[ˈnæʃənəl]"
+    },
+    {
+      "ru": "гимн",
+      "en": "a n   a n t h e m",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class6/symbols/an-anthem.mp3",
+      "transcript": "[æn ˈænθəm]"
+    },
+    {
+      "ru": "костюм (народный)",
+      "en": "a   c o s t u m e",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class6/symbols/a-costume.mp3",
+      "transcript": "[ə ˈkɒstjuːm]"
+    },
+    {
+      "ru": "полоса",
+      "en": "a   s t r i p e",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class6/symbols/a-stripe.mp3",
+      "transcript": "[ə straɪp]"
+    },
+    {
+      "ru": "крест",
+      "en": "a   c r o s s",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class6/symbols/a-cross.mp3",
+      "transcript": "[ə krɒs]"
+    }
+  ],
+  "colors": []
+}

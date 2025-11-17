@@ -1,6 +1,16 @@
 {
   "units": [
     {
+      "id": "Geography_Vocabulary",
+      "url": "worlds_school_6_class_04_1.json",
+      "name": "Geography Vocabulary"
+    },
+    {
+      "id": "National-Symbols-Vocabulary",
+      "url": "worlds_school_6_class_04_2.json",
+      "name": "National Symbols Vocabulary"
+    },
+    {
       "id": "Present_Simple_Base_Form_p2",
       "url": "worlds_school_6_class_03_1.json",
       "name": "Present Simple: Base Form Part2"
