@@ -1,5 +1,11 @@
 {
   "units": [
+    
+    {
+      "id": "Imagination_Vocabulary",
+      "url": "worlds_school_6_class_05.json",
+      "name": "Imagination Vocabulary"
+    },
     {
       "id": "Geography_Vocabulary",
       "url": "worlds_school_6_class_04_1.json",

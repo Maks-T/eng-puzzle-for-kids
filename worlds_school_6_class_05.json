@@ -1,0 +1,76 @@
+﻿{
+  "name": "Imagination Vocabulary",
+  "questions": [
+    {
+      "ru": "верить",
+      "en": "b e l i e v e",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class6/imagination/believe.mp3",
+      "transcript": "[bɪˈliːv]"
+    },
+    {
+      "ru": "ужасный",
+      "en": "t e r r i b l e",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class6/imagination/terrible.mp3",
+      "transcript": "[ˈtɛrəbəl]"
+    },
+    {
+      "ru": "воображать",
+      "en": "i m a g i n e",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class6/imagination/imagine.mp3",
+      "transcript": "[ɪˈmædʒɪn]"
+    },
+    {
+      "ru": "воображение",
+      "en": "i m a g i n a t i o n",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class6/imagination/imagination.mp3",
+      "transcript": "[ɪˌmædʒɪˈneɪʃən]"
+    },
+    {
+      "ru": "необычный",
+      "en": "u n u s u a l",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class6/imagination/unusual.mp3",
+      "transcript": "[ʌnˈjuːʒuəl]"
+    },
+    {
+      "ru": "фокусник",
+      "en": "a   m a g i c i a n",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class6/imagination/a-magician.mp3",
+      "transcript": "[ə məˈdʒɪʃən]"
+    },
+    {
+      "ru": "инопланетянин",
+      "en": "a n   a l i e n",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class6/imagination/an-alien.mp3",
+      "transcript": "[æn ˈeɪliən]"
+    },
+    {
+      "ru": "тайна",
+      "en": "a   m y s t e r y",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class6/imagination/a-mystery.mp3",
+      "transcript": "[ə ˈmɪstəri]"
+    },
+    {
+      "ru": "миф",
+      "en": "a   m y t h",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class6/imagination/a-myth.mp3",
+      "transcript": "[ə mɪθ]"
+    },
+    {
+      "ru": "реальность",
+      "en": "r e a l i t y",
+      "addWord": "b c d",
+      "audioEnUrl": "./audios/class6/imagination/reality.mp3",
+      "transcript": "[riˈæləti]"
+    }
+  ],
+  "colors": []
+}
