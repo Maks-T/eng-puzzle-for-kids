@@ -2,6 +2,11 @@
   "units": [
     
     {
+      "id": "Housework-Vocabulary",
+      "url": "worlds_school_6_class_06.json",
+      "name": "Housework Vocabulary"
+    },
+    {
       "id": "Imagination_Vocabulary",
       "url": "worlds_school_6_class_05.json",
       "name": "Imagination Vocabulary"

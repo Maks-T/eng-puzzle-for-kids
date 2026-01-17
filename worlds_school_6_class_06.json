@@ -1,0 +1,97 @@
+﻿{
+  "name": "Housework Vocabulary",
+  "questions": [
+    {
+      "ru": "застилать постель",
+      "en": "t o   m a k e   t h e   b e d s",
+      "addWord": "a b c",
+      "audioEnUrl": "./audios/class6/housework/make-the-beds.mp3",
+      "transcript": "[tə meɪk ðə bɛdz]"
+    },
+    {
+      "ru": "стирать",
+      "en": "t o   d o   t h e   w a s h i n g",
+      "addWord": "d e f",
+      "audioEnUrl": "./audios/class6/housework/do-the-washing.mp3",
+      "transcript": "[tə duː ðə ˈwɒʃɪŋ]"
+    },
+    {
+      "ru": "гладить",
+      "en": "t o   d o   t h e   i r o n i n g",
+      "addWord": "g h i",
+      "audioEnUrl": "./audios/class6/housework/do-the-ironing.mp3",
+      "transcript": "[tə duː ðə ˈaɪənɪŋ]"
+    },
+    {
+      "ru": "убираться, наводить порядок",
+      "en": "t o   t i d y   u p",
+      "addWord": "j k l",
+      "audioEnUrl": "./audios/class6/housework/tidy-up.mp3",
+      "transcript": "[tə ˈtaɪdi ʌp]"
+    },
+    {
+      "ru": "подметать пол",
+      "en": "s w e e p   t h e   f l o o r",
+      "addWord": "m n o",
+      "audioEnUrl": "./audios/class6/housework/sweep-the-floor.mp3",
+      "transcript": "[swiːp ðə flɔː]"
+    },
+    {
+      "ru": "накрывать на стол",
+      "en": "t o   l a y   t h e   t a b l e",
+      "addWord": "p q r",
+      "audioEnUrl": "./audios/class6/housework/lay-the-table.mp3",
+      "transcript": "[tə leɪ ðə ˈteɪbəl]"
+    },
+    {
+      "ru": "мыть посуду",
+      "en": "t o   d o   t h e   w a s h i n g   u p",
+      "addWord": "s t u",
+      "audioEnUrl": "./audios/class6/housework/do-the-washing-up.mp3",
+      "transcript": "[tə duː ðə ˈwɒʃɪŋ ʌp]"
+    },
+    {
+      "ru": "стиральная машина",
+      "en": "a   w a s h i n g   m a c h i n e",
+      "addWord": "v w x",
+      "audioEnUrl": "./audios/class6/housework/a-washing-machine.mp3",
+      "transcript": "[ə ˈwɒʃɪŋ məˌʃiːn]"
+    },
+    {
+      "ru": "плита",
+      "en": "a   c o o k e r",
+      "addWord": "y z a",
+      "audioEnUrl": "./audios/class6/housework/a-cooker.mp3",
+      "transcript": "[ə ˈkʊkə]"
+    },
+    {
+      "ru": "утюг",
+      "en": "a n   i r o n",
+      "addWord": "b c d",
+      "audioEnUrl": "./audios/class6/housework/an-iron.mp3",
+      "transcript": "[ən ˈaɪən]"
+    },
+    {
+      "ru": "посудомоечная машина",
+      "en": "a   d i s h w a s h e r",
+      "addWord": "e f g",
+      "audioEnUrl": "./audios/class6/housework/a-dishwasher.mp3",
+      "transcript": "[ə ˈdɪʃˌwɒʃə]"
+    },
+    {
+      "ru": "пылесос",
+      "en": "a   v a c u u m   c l e a n e r",
+      "addWord": "h i j",
+      "audioEnUrl": "./audios/class6/housework/a-vacuum-cleaner.mp3",
+      "transcript": "[ə ˈvækjuːm ˌkliːnə]"
+    },
+    {
+      "ru": "быть хорошим в чём-то",
+      "en": "t o   b e   g o o d   a t",
+      "addWord": "k l m",
+      "audioEnUrl": "./audios/class6/housework/be-good-at.mp3",
+      "transcript": "[tə biː ɡʊd æt]"
+    }
+  ],
+  "colors": []
+}
