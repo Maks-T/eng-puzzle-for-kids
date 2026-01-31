@@ -1,0 +1,76 @@
+﻿{
+  "name": "Menu B Vocabulary – Green Mama Café",
+  "questions": [
+    {
+      "ru": "овощной суп",
+      "en": "v e g e t a b l e   s o u p",
+      "addWord": "v e g e",
+      "audioEnUrl": "./audios/class6/food/vegetable-soup.mp3",
+      "transcript": "[ˈvɛdʒtəbəl suːp]"
+    },
+    {
+      "ru": "фруктовый салат",
+      "en": "f r u i t   s a l a d",
+      "addWord": "f r u i t",
+      "audioEnUrl": "./audios/class6/food/fruit-salad.mp3",
+      "transcript": "[fruːt ˈsæləd]"
+    },
+    {
+      "ru": "рыба с картошкой фри",
+      "en": "f i s h   &   c h i p s",
+      "addWord": "f i s h 2",
+      "audioEnUrl": "./audios/class6/food/fish-and-chips.mp3",
+      "transcript": "[fɪʃ ənd tʃɪps]"
+    },
+    {
+      "ru": "овощная пицца",
+      "en": "v e g e t a b l e   p i z z a",
+      "addWord": "v e g p",
+      "audioEnUrl": "./audios/class6/food/vegetable-pizza.mp3",
+      "transcript": "[ˈvɛdʒtəbəl ˈpiːtsə]"
+    },
+    {
+      "ru": "зелёный салат",
+      "en": "g r e e n   s a l a d",
+      "addWord": "g r e e n",
+      "audioEnUrl": "./audios/class6/food/green-salad.mp3",
+      "transcript": "[ɡriːn ˈsæləd]"
+    },
+    {
+      "ru": "йогурт",
+      "en": "y o g h u r t",
+      "addWord": "y o g h",
+      "audioEnUrl": "./audios/class6/food/yoghurt.mp3",
+      "transcript": "[ˈjɒɡət]"
+    },
+    {
+      "ru": "яблочный сок",
+      "en": "a p p l e   j u i c e",
+      "addWord": "a p p l e",
+      "audioEnUrl": "./audios/class6/food/apple-juice.mp3",
+      "transcript": "[ˈæpəl dʒuːs]"
+    },
+    {
+      "ru": "томатный сок",
+      "en": "t o m a t o   j u i c e",
+      "addWord": "t o m a",
+      "audioEnUrl": "./audios/class6/food/tomato-juice.mp3",
+      "transcript": "[təˈmɑːtəʊ dʒuːs]"
+    },
+    {
+      "ru": "хлеб с сыром",
+      "en": "b r e a d   a n d   c h e e s e",
+      "addWord": "b r e a d",
+      "audioEnUrl": "./audios/class6/food/bread-and-cheese.mp3",
+      "transcript": "[brɛd ənd tʃiːz]"
+    },
+    {
+      "ru": "рыбная котлета / рыбный пирожок",
+      "en": "f i s h   c a k e",
+      "addWord": "f i s h c",
+      "audioEnUrl": "./audios/class6/food/fish-cake.mp3",
+      "transcript": "[fɪʃ keɪk]"
+    }
+  ],
+  "colors": []
+}

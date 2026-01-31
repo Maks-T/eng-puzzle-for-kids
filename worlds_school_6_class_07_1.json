@@ -1,0 +1,77 @@
+﻿{
+  "name": "Menu A Vocabulary – Sweet Tooth Café",
+  "questions": [
+    
+    {
+      "ru": "бекон",
+      "en": "b a c o n",
+      "addWord": "b a c",
+      "audioEnUrl": "./audios/class6/food/bacon.mp3",
+      "transcript": "[ˈbeɪkən]"
+    },
+    {
+      "ru": "яичница на тосте",
+      "en": "e g g s   o n   t o a s t",
+      "addWord": "e g g s",
+      "audioEnUrl": "./audios/class6/food/eggs-on-toast.mp3",
+      "transcript": "[ɛɡz ɒn təʊst]"
+    },
+    {
+      "ru": "рыба с картошкой фри",
+      "en": "f i s h   &   c h i p s",
+      "addWord": "f i s h",
+      "audioEnUrl": "./audios/class6/food/fish-and-chips.mp3",
+      "transcript": "[fɪʃ ənd tʃɪps]"
+    },
+    {
+      "ru": "гамбургер",
+      "en": "h a m b u r g e r",
+      "addWord": "h a m",
+      "audioEnUrl": "./audios/class6/food/hamburger.mp3",
+      "transcript": "[ˈhæmbɜːɡə]"
+    },
+    {
+      "ru": "шоколадный торт",
+      "en": "c h o c o l a t e   c a k e",
+      "addWord": "c h o c",
+      "audioEnUrl": "./audios/class6/food/chocolate-cake.mp3",
+      "transcript": "[ˈtʃɒkələt keɪk]"
+    },
+    {
+      "ru": "банановое мороженое",
+      "en": "b a n a n a   i c e  c r e a m",
+      "addWord": "b a n a",
+      "audioEnUrl": "./audios/class6/food/banana-ice-cream.mp3",
+      "transcript": "[bəˈnɑːnə aɪs kriːm]"
+    },
+    {
+      "ru": "киви мороженое",
+      "en": "k i w i   i c e   c r e a m",
+      "addWord": "k i w i",
+      "audioEnUrl": "./audios/class6/food/kiwi-ice-cream.mp3",
+      "transcript": "[ˈkiːwiː aɪs kriːm]"
+    },
+    {
+      "ru": "горячий шоколад",
+      "en": "h o t   c h o c o l a t e",
+      "addWord": "h o t c",
+      "audioEnUrl": "./audios/class6/food/hot-chocolate.mp3",
+      "transcript": "[hɒt ˈtʃɒkələt]"
+    },
+    {
+      "ru": "апельсиновый сок",
+      "en": "o r a n g e   j u i c e",
+      "addWord": "o r a n",
+      "audioEnUrl": "./audios/class6/food/orange-juice.mp3",
+      "transcript": "[ˈɒrɪndʒ dʒuːs]"
+    },
+    {
+      "ru": "лимонад",
+      "en": "l e m o n a d e",
+      "addWord": "l e m o",
+      "audioEnUrl": "./audios/class6/food/lemonade.mp3",
+      "transcript": "[ˌlɛməˈneɪd]"
+    }
+  ],
+  "colors": []
+}

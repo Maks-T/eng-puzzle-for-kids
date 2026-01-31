@@ -1,6 +1,15 @@
 {
   "units": [
-    
+     {
+      "id": "Menu-A-Vocabulary-Sweet-Tooth-Сafe",
+      "url": "worlds_school_6_class_07_1.json",
+      "name": "Menu A Vocabulary – Sweet Tooth Café"
+    },
+     {
+      "id": "Menu-B-Vocabulary-Sweet-Tooth-Сafe",
+      "url": "worlds_school_6_class_07_2.json",
+      "name": "Menu B Vocabulary – Green Mama Café "
+    },
     {
       "id": "Housework-Vocabulary",
       "url": "worlds_school_6_class_06.json",
