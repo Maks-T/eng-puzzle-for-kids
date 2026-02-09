@@ -1,5 +1,10 @@
 {
   "units": [
+    {
+        "id": "Menu-B-Vocabulary-Cooking-and-Healthy-Eating",
+      "url": "worlds_school_6_class_08.json",
+      "name": "Menu-B-Vocabulary-Cooking-and-Healthy-Eating"
+    },
      {
       "id": "Menu-A-Vocabulary-Sweet-Tooth-Сafe",
       "url": "worlds_school_6_class_07_1.json",

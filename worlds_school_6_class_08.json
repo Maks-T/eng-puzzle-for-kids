@@ -1,0 +1,161 @@
+﻿{
+  "name": "Menu B Vocabulary – Cooking and Healthy Eating (Short AddWord)",
+  "questions": [
+    {
+      "ru": "кипятить, варить",
+      "en": "b o i l",
+      "addWord": "b a i",
+      "audioEnUrl": "./audios/class6/food-prep/boil.mp3",
+      "transcript": "[bɔɪl]"
+    },
+    {
+      "ru": "подавать (еду)",
+      "en": "s e r v e",
+      "addWord": "s a r",
+      "audioEnUrl": "./audios/class6/food-prep/serve.mp3",
+      "transcript": "[sɜːv]"
+    },
+    {
+      "ru": "резать",
+      "en": "c u t",
+      "addWord": "c a t",
+      "audioEnUrl": "./audios/class6/food-prep/cut.mp3",
+      "transcript": "[kʌt]"
+    },
+    {
+      "ru": "смешивать",
+      "en": "m i x",
+      "addWord": "m a x",
+      "audioEnUrl": "./audios/class6/food-prep/mix.mp3",
+      "transcript": "[mɪks]"
+    },
+    {
+      "ru": "добавлять",
+      "en": "a d d",
+      "addWord": "a d o",
+      "audioEnUrl": "./audios/class6/food-prep/add.mp3",
+      "transcript": "[æd]"
+    },
+    {
+      "ru": "сметана",
+      "en": "s o u r   c r e a m",
+      "addWord": "s a u",
+      "audioEnUrl": "./audios/class6/food/sour-cream.mp3",
+      "transcript": "[ˌsaʊə ˈkriːm]"
+    },
+    {
+      "ru": "литр",
+      "en": "a   l i t r e",
+      "addWord": "l a t",
+      "audioEnUrl": "./audios/class6/measure/litre.mp3",
+      "transcript": "[ˈliːtə]"
+    },
+    {
+      "ru": "грамм",
+      "en": "a   g r a m",
+      "addWord": "g r o",
+      "audioEnUrl": "./audios/class6/measure/gram.mp3",
+      "transcript": "[ɡræm]"
+    },
+    {
+      "ru": "мало / немного (неисчисляемое)",
+      "en": "l i t t l e",
+      "addWord": "l a t",
+      "audioEnUrl": "./audios/class6/quantity/little.mp3",
+      "transcript": "[ˈlɪtl]"
+    },
+    {
+      "ru": "немного",
+      "en": "a   l i t t l e",
+      "addWord": "l i a",
+      "audioEnUrl": "./audios/class6/quantity/a-little.mp3",
+      "transcript": "[ə ˈlɪtl]"
+    },
+    {
+      "ru": "мало / несколько (исчисляемое)",
+      "en": "f e w",
+      "addWord": "f a w",
+      "audioEnUrl": "./audios/class6/quantity/few.mp3",
+      "transcript": "[fjuː]"
+    },
+    {
+      "ru": "несколько",
+      "en": "a   f e w",
+      "addWord": "f e a",
+      "audioEnUrl": "./audios/class6/quantity/a-few.mp3",
+      "transcript": "[ə fjuː]"
+    },
+    {
+      "ru": "здоровый",
+      "en": "h e a l t h y",
+      "addWord": "h a e",
+      "audioEnUrl": "./audios/class6/food/healthy.mp3",
+      "transcript": "[ˈhelθi]"
+    },
+    {
+      "ru": "нездоровый",
+      "en": "u n h e a l t h y",
+      "addWord": "u a h",
+      "audioEnUrl": "./audios/class6/food/unhealthy.mp3",
+      "transcript": "[ʌnˈhelθi]"
+    },
+    {
+      "ru": "вредная еда, джанк-фуд",
+      "en": "j u n k   f o o d",
+      "addWord": "j a n",
+      "audioEnUrl": "./audios/class6/food/junk-food.mp3",
+      "transcript": "[dʒʌŋk fuːd]"
+    },
+    {
+      "ru": "фастфуд, быстрая еда",
+      "en": "f a s t   f o o d",
+      "addWord": "f a o",
+      "audioEnUrl": "./audios/class6/food/fast-food.mp3",
+      "transcript": "[fɑːst fuːd]"
+    },
+    {
+      "ru": "диета",
+      "en": "a   d i e t",
+      "addWord": "d a e",
+      "audioEnUrl": "./audios/class6/food/diet.mp3",
+      "transcript": "[ˈdaɪət]"
+    },
+     {
+    "ru": "официант",
+    "en": "a   w a i t e r",
+    "addWord": "w a i",
+    "audioEnUrl": "./audios/class6/restaurant/waiter.mp3",
+    "transcript": "[ˈweɪtə]"
+  },
+  {
+    "ru": "заказ",
+    "en": "a n   o r d e r",
+    "addWord": "o a r",
+    "audioEnUrl": "./audios/class6/restaurant/order.mp3",
+    "transcript": "[ˈɔːdə]"
+  },
+  {
+    "ru": "счёт (в ресторане)",
+    "en": "a   b i l l",
+    "addWord": "b i a",
+    "audioEnUrl": "./audios/class6/restaurant/bill.mp3",
+    "transcript": "[bɪl]"
+  },
+  {
+    "ru": "наличные",
+    "en": "c a s h",
+    "addWord": "c a o",
+    "audioEnUrl": "./audios/class6/payment/cash.mp3",
+    "transcript": "[kæʃ]"
+  },
+  {
+    "ru": "кредитная карта",
+    "en": "a   c r e d i t   c a r d",
+    "addWord": "c r a",
+    "audioEnUrl": "./audios/class6/payment/credit-card.mp3",
+    "transcript": "[ˈkredɪt kɑːd]"
+  }
+
+  ],
+  "colors": []
+}
