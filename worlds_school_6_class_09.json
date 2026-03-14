@@ -1,0 +1,153 @@
+﻿{
+  "name": "Menu C Vocabulary – School and Subjects (Short AddWord)",
+  "questions":[
+    {
+      "ru": "история",
+      "en": "h i s t o r y",
+      "addWord": "h e a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/history.mp3",
+      "transcript": "[ˈhɪstəri]"
+    },
+    {
+      "ru": "география",
+      "en": "g e o g r a p h y",
+      "addWord": "g i o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/geography.mp3",
+      "transcript": "[dʒiˈɒɡrəfi]"
+    },
+    {
+      "ru": "наука / естествознание",
+      "en": "s c i e n c e",
+      "addWord": "s a i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/science.mp3",
+      "transcript": "[ˈsaɪəns]"
+    },
+    {
+      "ru": "литература",
+      "en": "l i t e r a t u r e",
+      "addWord": "l e a",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/literature.mp3",
+      "transcript": "[ˈlɪtrətʃə]"
+    },
+    {
+      "ru": "делать ошибки",
+      "en": "t o   m a k e   m i s t a k e s",
+      "addWord": "m e a",
+      "audioEnUrl": "./audios/class6/school/make_mistakes.mp3",
+      "transcript": "[tə meɪk mɪˈsteɪks]"
+    },
+    {
+      "ru": "получать хорошие оценки",
+      "en": "t o   g e t   g o o d   m a r k s",
+      "addWord": "g a t",
+      "audioEnUrl": "./audios/class6/school/get_good_marks.mp3",
+      "transcript": "[tə ɡet ɡʊd mɑːks]"
+    },
+    {
+      "ru": "получать плохие оценки",
+      "en": "t o   g e t   b a d   m a r k s",
+      "addWord": "b e d",
+      "audioEnUrl": "./audios/class6/school/get_bad_marks.mp3",
+      "transcript": "[tə ɡet bæd mɑːks]"
+    },
+    {
+      "ru": "предмет (учебный)",
+      "en": "a   s u b j e c t",
+      "addWord": "s a b",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/subject.mp3",
+      "transcript": "[ə ˈsʌbdʒɪkt]"
+    },
+    {
+      "ru": "дневник",
+      "en": "a   d a y b o o k",
+      "addWord": "d e y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/daybook.mp3",
+      "transcript": "[ə ˈdeɪbʊk]"
+    },
+    {
+      "ru": "форма (школьная)",
+      "en": "a   u n i f o r m",
+      "addWord": "y u n",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/uniform.mp3",
+      "transcript": "[ə ˈjuːnɪfɔːm]"
+    },
+    {
+      "ru": "вежливый",
+      "en": "p o l i t e",
+      "addWord": "p a l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/polite.mp3",
+      "transcript": "[pəˈlaɪt]"
+    },
+    {
+      "ru": "вести себя",
+      "en": "b e h a v e",
+      "addWord": "b i h",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/behave.mp3",
+      "transcript": "[bɪˈheɪv]"
+    },
+    {
+      "ru": "следовать / соблюдать",
+      "en": "f o l l o w",
+      "addWord": "f a l",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/follow.mp3",
+      "transcript": "[ˈfɒləʊ]"
+    },
+    {
+      "ru": "должен / приходится",
+      "en": "h a v e   t o",
+      "addWord": "h e v",
+      "audioEnUrl": "/audios/class6/school/have_to.mp3",
+      "transcript": "[hæv tə]"
+    },
+    {
+      "ru": "правило",
+      "en": "a   r u l e",
+      "addWord": "r o o",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/rule.mp3",
+      "transcript": "[ə ruːl]"
+    },
+    {
+      "ru": "расписание",
+      "en": "a   t i m e t a b l e",
+      "addWord": "t a m",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/timetable.mp3",
+      "transcript": "[ə ˈtaɪmteɪbl]"
+    },
+    {
+      "ru": "перемена / перерыв",
+      "en": "a   b r e a k",
+      "addWord": "b r i",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/break.mp3",
+      "transcript": "[ə breɪk]"
+    },
+    {
+      "ru": "длиться (о времени)",
+      "en": "l a s t",
+      "addWord": "l e s",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/last.mp3",
+      "transcript": "[lɑːst]"
+    },
+    {
+      "ru": "скучный",
+      "en": "b o r i n g",
+      "addWord": "b a r",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/boring.mp3",
+      "transcript": "[ˈbɔːrɪŋ]"
+    },
+    {
+      "ru": "легкий",
+      "en": "e a s y",
+      "addWord": "i z y",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/easy.mp3",
+      "transcript": "[ˈiːzi]"
+    },
+    {
+      "ru": "трудный / сложный",
+      "en": "d i f f i c u l t",
+      "addWord": "d e f",
+      "audioEnUrl": "https://wooordhunt.ru/data/sound/sow/uk/difficult.mp3",
+      "transcript": "[ˈdɪfɪkəlt]"
+    }
+  ], 
+  "colors": []
+}
