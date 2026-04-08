@@ -1,0 +1,125 @@
+﻿{
+  "name": "Films, Books and Adjectives (Short AddWord)",
+  "questions":[
+    {
+      "ru": "боевик, экшен",
+      "en": "a n   a c t i o n   f i l m",
+      "addWord": "a e c",
+      "audioEnUrl": "./audios/class6/movies-books/action-film.mp3",
+      "transcript": "[ən ˈækʃn fɪlm]"
+    },
+    {
+      "ru": "романтический фильм",
+      "en": "a   r o m a n t i c   f i l m",
+      "addWord": "r a m",
+      "audioEnUrl": "./audios/class6/movies-books/romantic-film.mp3",
+      "transcript": "[ə rəʊˈmæntɪk fɪlm]"
+    },
+    {
+      "ru": "приключенческий фильм",
+      "en": "a n   a d v e n t u r e   f i l m",
+      "addWord": "a v e",
+      "audioEnUrl": "./audios/class6/movies-books/adventure-film.mp3",
+      "transcript": "[ən ədˈventʃə fɪlm]"
+    },
+    {
+      "ru": "вестерн",
+      "en": "a   w e s t e r n",
+      "addWord": "w a s",
+      "audioEnUrl": "./audios/class6/movies-books/western.mp3",
+      "transcript": "[ə ˈwestən]"
+    },
+    {
+      "ru": "фильм ужасов",
+      "en": "a   h o r r o r   f i l m",
+      "addWord": "h a r",
+      "audioEnUrl": "./audios/class6/movies-books/horror-film.mp3",
+      "transcript": "[ə ˈhɒrə fɪlm]"
+    },
+    {
+      "ru": "мюзикл",
+      "en": "a   m u s i c a l",
+      "addWord": "m a s",
+      "audioEnUrl": "./audios/class6/movies-books/musical.mp3",
+      "transcript": "[ə ˈmjuːzɪkl]"
+    },
+    {
+      "ru": "мультфильм",
+      "en": "a   c a r t o o n",
+      "addWord": "c o r",
+      "audioEnUrl": "./audios/class6/movies-books/cartoon.mp3",
+      "transcript": "[ə kɑːˈtuːn]"
+    },
+    {
+      "ru": "комедия",
+      "en": "a   c o m e d y",
+      "addWord": "c a m",
+      "audioEnUrl": "./audios/class6/movies-books/comedy.mp3",
+      "transcript": "[ə ˈkɒmədi]"
+    },
+    {
+      "ru": "скучный",
+      "en": "b o r i n g",
+      "addWord": "b a r",
+      "audioEnUrl": "./audios/class6/movies-books/boring.mp3",
+      "transcript": "[ˈbɔːrɪŋ]"
+    },
+    {
+      "ru": "шокирующий",
+      "en": "s h o c k i n g",
+      "addWord": "s a h",
+      "audioEnUrl": "./audios/class6/movies-books/shocking.mp3",
+      "transcript": "[ˈʃɒkɪŋ]"
+    },
+    {
+      "ru": "удивительный",
+      "en": "s u r p r i s i n g",
+      "addWord": "s a r",
+      "audioEnUrl": "./audios/class6/movies-books/surprising.mp3",
+      "transcript": "[səˈpraɪzɪŋ]"
+    },
+    {
+      "ru": "сказка",
+      "en": "a   f a i r y   t a l e",
+      "addWord": "f e a",
+      "audioEnUrl": "./audios/class6/movies-books/fairy-tale.mp3",
+      "transcript": "[ə ˈfeəri teɪl]"
+    },
+    {
+      "ru": "детектив",
+      "en": "a   d e t e c t i v e",
+      "addWord": "d a t",
+      "audioEnUrl": "./audios/class6/movies-books/detective.mp3",
+      "transcript": "[ə dɪˈtektɪv]"
+    },
+    {
+      "ru": "история любви, любовный роман",
+      "en": "a   l o v e   s t o r y",
+      "addWord": "l a v",
+      "audioEnUrl": "./audios/class6/movies-books/love-story.mp3",
+      "transcript": "[ə lʌv ˈstɔːri]"
+    },
+    {
+      "ru": "научная фантастика",
+      "en": "s c i e n c e   f i c t i o n",
+      "addWord": "s a c",
+      "audioEnUrl": "./audios/class6/movies-books/science-fiction.mp3",
+      "transcript": "[ˌsaɪəns ˈfɪkʃn]"
+    },
+    {
+      "ru": "фэнтези",
+      "en": "a   f a n t a s y",
+      "addWord": "f e n",
+      "audioEnUrl": "./audios/class6/movies-books/fantasy.mp3",
+      "transcript": "[ə ˈfæntəsi]"
+    },
+    {
+      "ru": "книжный червь, любитель книг",
+      "en": "a   b o o k w o r m",
+      "addWord": "b a k",
+      "audioEnUrl": "./audios/class6/movies-books/bookworm.mp3",
+      "transcript": "[ə ˈbʊkwɜːm]"
+    }
+  ],
+  "colors":[]
+}

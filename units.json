@@ -1,5 +1,15 @@
 {
   "units": [
+     {
+        "id": "russian-words-6",
+      "url": "worlds_school_6_class_11.json",
+      "name": "Cловарные слова (Русский язык)"
+    },
+    {
+        "id": "Films-Books-and-Adjective",
+      "url": "worlds_school_6_class_10.json",
+      "name": "Films, Books and Adjective"
+    },
     {
         "id": "School-and-Subjects",
       "url": "worlds_school_6_class_09.json",

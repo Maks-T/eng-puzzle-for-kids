@@ -1,0 +1,364 @@
+﻿{
+  "name": "Словарные слова (Русский язык)",
+  "questions":[
+    {
+      "ru": "as if",
+      "en": "к а к   б у д т о",
+      "addWord": "т ш щ",
+      "audioEnUrl": "./audios/russian/kak-budto.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "climb",
+      "en": "к а р а б к а т ь с я",
+      "addWord": "о п р",
+      "audioEnUrl": "./audios/russian/karabkatsya.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "swing",
+      "en": "к а ч е л и",
+      "addWord": "и о я",
+      "audioEnUrl": "./audios/russian/kacheli.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "keyboard",
+      "en": "к л а в и а т у р а",
+      "addWord": "о е ё",
+      "audioEnUrl": "./audios/russian/klaviatura.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "typography",
+      "en": "к н и г о п е ч а т а н и е",
+      "addWord": "а и я",
+      "audioEnUrl": "./audios/russian/knigopechatanie.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "colleague",
+      "en": "к о л л е г а",
+      "addWord": "а и я",
+      "audioEnUrl": "./audios/russian/kollega.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "corridor",
+      "en": "к о р и д о р",
+      "addWord": "а е у",
+      "audioEnUrl": "./audios/russian/koridor.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "sneaker",
+      "en": "к р о с с о в к а",
+      "addWord": "а з д",
+      "audioEnUrl": "./audios/russian/krossovka.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "confetti",
+      "en": "к о н ф е т т и",
+      "addWord": "а е я",
+      "audioEnUrl": "./audios/russian/konfetti.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "cottage",
+      "en": "к о т т е д ж",
+      "addWord": "ш ч щ",
+      "audioEnUrl": "./audios/russian/kottedzh.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "elbow",
+      "en": "л о к о т ь",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/lokot.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "route",
+      "en": "м а р ш р у т",
+      "addWord": "о е и",
+      "audioEnUrl": "./audios/russian/marshrut.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "macaroni",
+      "en": "м а к а р о н ы",
+      "addWord": "о е и",
+      "audioEnUrl": "./audios/russian/makarony.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "medallion",
+      "en": "м е д а л ь о н",
+      "addWord": "и а ё",
+      "audioEnUrl": "./audios/russian/medalion.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "billion",
+      "en": "м и л л и а р д",
+      "addWord": "е о я",
+      "audioEnUrl": "./audios/russian/milliard.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "million",
+      "en": "м и л л и о н",
+      "addWord": "е а у",
+      "audioEnUrl": "./audios/russian/million.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "monitor",
+      "en": "м о н и т о р",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/monitor.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "motorcycle",
+      "en": "м о т о ц и к л",
+      "addWord": "а е ы",
+      "audioEnUrl": "./audios/russian/mototsikl.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "region",
+      "en": "о б л а с т ь",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/oblast.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "alder",
+      "en": "о л ь х а",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/olha.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "neat",
+      "en": "о п р я т н ы й",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/opryatny.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "pavilion",
+      "en": "п а в и л ь о н",
+      "addWord": "е а и",
+      "audioEnUrl": "./audios/russian/pavilion.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "jacket",
+      "en": "п и д ж а к",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/pidzhak.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "pastry",
+      "en": "п и р о ж н о е",
+      "addWord": "е а и",
+      "audioEnUrl": "./audios/russian/pirozhnoe.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "legend",
+      "en": "п р е д а н и е",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/predanie.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "president",
+      "en": "п р е з и д е н т",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/prezident.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "presidium",
+      "en": "п р е з и д и у м",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/prezidium.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "contempt",
+      "en": "п р е з р е н и е",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/prezrenie.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "award",
+      "en": "п р е м и р о в а т ь",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/premirovat.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "premiere",
+      "en": "п р е м ь е р а",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/premyera.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "punctuation mark",
+      "en": "з н а к   п р е п и н а н и я",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/znak-prepinaniya.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "obstacle",
+      "en": "п р е п я т с т в и е",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/prepyatstvie.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "prestigious",
+      "en": "п р е с т и ж н ы й",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/prestizhny.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "claim",
+      "en": "п р е т е н з и я",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/pretenziya.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "privilege",
+      "en": "п р и в и л е г и я",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/privilegiya.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "invitation",
+      "en": "п р и г л а ш е н и е",
+      "addWord": "е о у",
+      "audioEnUrl": "./audios/russian/priglashenie.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "come",
+      "en": "п р и й т и",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/priyti.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "diligence",
+      "en": "п р и л е ж а н и е",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/prilezhanie.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "example",
+      "en": "п р и м е р",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/primer.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "primitive",
+      "en": "п р и м и т и в н ы й",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/primitivny.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "principled",
+      "en": "п р и н ц и п и а л ь н ы й",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/printsipialny.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "nature",
+      "en": "п р и р о д а",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/priroda.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "reason",
+      "en": "п р и ч и н а",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/prichina.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "friend",
+      "en": "п р и я т е л ь",
+      "addWord": "е а о",
+      "audioEnUrl": "./audios/russian/priyatel.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "popular",
+      "en": "п о п у л я р н ы й",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/populyarny.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "postman",
+      "en": "п о ч т а л ь о н",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/pochtalion.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "post office",
+      "en": "п о ч т а м т",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/pochtamt.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "protocol",
+      "en": "п р о т о к о л",
+      "addWord": "а е и",
+      "audioEnUrl": "./audios/russian/protokol.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "profession",
+      "en": "п р о ф е с с и я",
+      "addWord": "а и о",
+      "audioEnUrl": "./audios/russian/professiya.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "calculating",
+      "en": "р а с ч ё т л и в ы й",
+      "addWord": "е и о",
+      "audioEnUrl": "./audios/russian/raschetlivy.mp3",
+      "transcript": "[]"
+    },
+    {
+      "ru": "advertisement",
+      "en": "р е к л а м а",
+      "addWord": "и а о",
+      "audioEnUrl": "./audios/russian/reklama.mp3",
+      "transcript": "[]"
+    }
+  ],
+  
+  "colors":[]
+}
