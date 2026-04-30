@@ -1,23 +1,24 @@
 from gtts import gTTS
 import os
 
-# Твои слова и названия файлов
+# Новые слова и названия файлов для модуля "Hobbies and Activities"
 words = {
-    "action-film": "an action film", "romantic-film": "a romantic film",
-    "adventure-film": "an adventure film", "western": "a western",
-    "horror-film": "a horror film", "musical": "a musical",
-    "cartoon": "a cartoon", "comedy": "a comedy",
-    "boring": "boring", "shocking": "shocking",
-    "surprising": "surprising", "fairy-tale": "a fairy tale",
-    "detective": "a detective", "love-story": "a love story",
-    "science-fiction": "science fiction", "fantasy": "a fantasy",
-    "bookworm": "a bookworm"
+    "painting": "painting", 
+    "collecting": "collecting",
+    "making-models": "making models", 
+    "keeping-pets": "keeping pets",
+    "playing-chess": "playing chess", 
+    "musical-instruments": "musical instruments",
+    "diving": "diving", 
+    "knitting": "knitting",
+    "learning-languages": "learning languages", 
+    "enjoyable": "enjoyable"
 }
 
-# Создаем папку, если ее нет
-os.makedirs("movies-books", exist_ok=True)
+# Создаем папку для новых слов, если ее нет
+os.makedirs("hobbies", exist_ok=True)
 
 for filename, text in words.items():
     tts = gTTS(text, lang='en', tld='co.uk') # tld='co.uk' для британского акцента
-    tts.save(f"movies-books/{filename}.mp3")
+    tts.save(f"hobbies/{filename}.mp3")
     print(f"Saved {filename}.mp3")

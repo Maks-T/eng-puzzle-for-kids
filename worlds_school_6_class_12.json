@@ -1,0 +1,76 @@
+﻿{
+  "name": "Hobbies and Activities (Short AddWord)",
+  "questions":[
+    {
+      "ru": "рисование, живопись",
+      "en": "p a i n t i n g",
+      "addWord": "p e n",
+      "audioEnUrl": "./audios/class6/hobbies/painting.mp3",
+      "transcript": "[ˈpeɪntɪŋ]"
+    },
+    {
+      "ru": "коллекционирование",
+      "en": "c o l l e c t i n g",
+      "addWord": "c a l",
+      "audioEnUrl": "./audios/class6/hobbies/collecting.mp3",
+      "transcript": "[kəˈlektɪŋ]"
+    },
+    {
+      "ru": "моделирование, создание моделей",
+      "en": "m a k i n g   m o d e l s",
+      "addWord": "m e k",
+      "audioEnUrl": "./audios/class6/hobbies/making-models.mp3",
+      "transcript": "[ˈmeɪkɪŋ ˈmɒdlz]"
+    },
+    {
+      "ru": "содержание питомцев",
+      "en": "k e e p i n g   p e t s",
+      "addWord": "k a p",
+      "audioEnUrl": "./audios/class6/hobbies/keeping-pets.mp3",
+      "transcript": "[ˈkiːpɪŋ pets]"
+    },
+    {
+      "ru": "игра в шахматы",
+      "en": "p l a y i n g   c h e s s",
+      "addWord": "p e i",
+      "audioEnUrl": "./audios/class6/hobbies/playing-chess.mp3",
+      "transcript": "[ˈpleɪɪŋ tʃes]"
+    },
+    {
+      "ru": "музыкальные инструменты",
+      "en": "m u s i c a l   i n s t r u m e n t s",
+      "addWord": "m e z",
+      "audioEnUrl": "./audios/class6/hobbies/musical-instruments.mp3",
+      "transcript": "[ˈmjuːzɪkl ˈɪnstrəmənts]"
+    },
+    {
+      "ru": "дайвинг, ныряние",
+      "en": "d i v i n g",
+      "addWord": "d e v",
+      "audioEnUrl": "./audios/class6/hobbies/diving.mp3",
+      "transcript": "[ˈdaɪvɪŋ]"
+    },
+    {
+      "ru": "вязание",
+      "en": "k n i t t i n g",
+      "addWord": "n a t",
+      "audioEnUrl": "./audios/class6/hobbies/knitting.mp3",
+      "transcript": "[ˈnɪtɪŋ]"
+    },
+    {
+      "ru": "изучение языков",
+      "en": "l e a r n i n g   l a n g u a g e s",
+      "addWord": "l a r",
+      "audioEnUrl": "./audios/class6/hobbies/learning-languages.mp3",
+      "transcript": "[ˈlɜːnɪŋ ˈlæŋɡwɪdʒɪz]"
+    },
+    {
+      "ru": "приятный, доставляющий удовольствие",
+      "en": "e n j o y a b l e",
+      "addWord": "i n j",
+      "audioEnUrl": "./audios/class6/hobbies/enjoyable.mp3",
+      "transcript": "[ɪnˈdʒɔɪəbl]"
+    }
+  ],
+  "colors":[]
+}

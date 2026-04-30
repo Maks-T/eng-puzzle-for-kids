@@ -1,5 +1,10 @@
 {
   "units": [
+   {
+        "id": "Hobbies-and Activities",
+      "url": "worlds_school_6_class_12.json",
+      "name": "Hobbies and Activities"
+    },
      {
         "id": "russian-words-6",
       "url": "worlds_school_6_class_11.json",
