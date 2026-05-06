@@ -1,5 +1,11 @@
 {
   "units": [
+
+    {
+      "id": "Holidays-and-Activities",
+      "url": "worlds_school_6_class_13.json",
+      "name": "Holidays and Activities"
+    },
    {
         "id": "Hobbies-and Activities",
       "url": "worlds_school_6_class_12.json",

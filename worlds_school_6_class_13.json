@@ -1,0 +1,41 @@
+﻿{
+  "name": "Holidays and Activities (Short AddWord)",
+  "questions":[
+    {
+      "ru": "осмотр достопримечательностей",
+      "en": "s i g h t s e e i n g",
+      "addWord": "s e a",
+      "audioEnUrl": "./audios/class6/holidays/sightseeing.mp3",
+      "transcript": "[ˈsaɪtsiːɪŋ]"
+    },
+    {
+      "ru": "загорание, принятие солнечных ванн",
+      "en": "s u n b a t h i n g",
+      "addWord": "s a n",
+      "audioEnUrl": "./audios/class6/holidays/sunbathing.mp3",
+      "transcript": "[ˈsʌnbeɪðɪŋ]"
+    },
+    {
+      "ru": "охота",
+      "en": "h u n t i n g",
+      "addWord": "h a n",
+      "audioEnUrl": "./audios/class6/holidays/hunting.mp3",
+      "transcript": "[ˈhʌntɪŋ]"
+    },
+    {
+      "ru": "любой (из двух), также (в отрицаниях)",
+      "en": "e i t h e r",
+      "addWord": "i t a",
+      "audioEnUrl": "./audios/class6/holidays/either.mp3",
+      "transcript": "[ˈaɪðə]"
+    },
+    {
+      "ru": "идеальный",
+      "en": "i d e a l",
+      "addWord": "e d o",
+      "audioEnUrl": "./audios/class6/holidays/ideal.mp3",
+      "transcript": "[aɪˈdɪəl]"
+    }
+  ],
+  "colors":[]
+}
