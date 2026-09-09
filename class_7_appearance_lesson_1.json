@@ -1,0 +1,97 @@
+{
+  "name": "Appearance: Lesson 1 (Short AddWord)",
+  "questions": [
+    {
+      "ru": "кудрявый, вьющийся",
+      "en": "c u r l y",
+      "addWord": "e a o",
+      "audioEnUrl": "./audios/class7/appearance/curly.mp3",
+      "transcript": "[ˈkɜːli]"
+    },
+    {
+      "ru": "светлый (о волосах, коже)",
+      "en": "f a i r",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/appearance/fair.mp3",
+      "transcript": "[feə]"
+    },
+    {
+      "ru": "в хорошей форме, подтянутый",
+      "en": "f i t",
+      "addWord": "e a d",
+      "audioEnUrl": "./audios/class7/appearance/fit.mp3",
+      "transcript": "[fɪt]"
+    },
+    {
+      "ru": "веснушки",
+      "en": "f r e c k l e s",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/appearance/freckles.mp3",
+      "transcript": "[ˈfreklz]"
+    },
+    {
+      "ru": "дружелюбный",
+      "en": "f r i e n d l y",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/appearance/friendly.mp3",
+      "transcript": "[ˈfrendli]"
+    },
+    {
+      "ru": "привлекательный, симпатичный",
+      "en": "g o o d - l o o k i n g",
+      "addWord": "e a s",
+      "audioEnUrl": "./audios/class7/appearance/good_looking.mp3",
+      "transcript": "[ˌɡʊdˈlʊkɪŋ]"
+    },
+    {
+      "ru": "красивый, статный (о мужчине)",
+      "en": "h a n d s o m e",
+      "addWord": "i u r",
+      "audioEnUrl": "./audios/class7/appearance/handsome.mp3",
+      "transcript": "[ˈhænsəm]"
+    },
+    {
+      "ru": "полный, с лишним весом",
+      "en": "o v e r w e i g h t",
+      "addWord": "a u s",
+      "audioEnUrl": "./audios/class7/appearance/overweight.mp3",
+      "transcript": "[ˌəʊvəˈweɪt]"
+    },
+    {
+      "ru": "бледный",
+      "en": "p a l e",
+      "addWord": "i o u",
+      "audioEnUrl": "./audios/class7/appearance/pale.mp3",
+      "transcript": "[peɪl]"
+    },
+    {
+      "ru": "хорошенькая, симпатичная (о девушке)",
+      "en": "p r e t t y",
+      "addWord": "a o i",
+      "audioEnUrl": "./audios/class7/appearance/pretty.mp3",
+      "transcript": "[ˈprɪti]"
+    },
+    {
+      "ru": "кожа",
+      "en": "s k i n",
+      "addWord": "e a o",
+      "audioEnUrl": "./audios/class7/appearance/skin.mp3",
+      "transcript": "[skɪn]"
+    },
+    {
+      "ru": "прямой (о волосах)",
+      "en": "s t r a i g h t",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/appearance/straight.mp3",
+      "transcript": "[streɪt]"
+    },
+    {
+      "ru": "загорелый",
+      "en": "s u n t a n n e d",
+      "addWord": "i o r",
+      "audioEnUrl": "./audios/class7/appearance/suntanned.mp3",
+      "transcript": "[ˈsʌntænd]"
+    }
+  ],
+  "colors": []
+}

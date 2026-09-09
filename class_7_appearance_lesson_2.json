@@ -1,0 +1,76 @@
+{
+  "name": "Appearance: Lesson 2 (Short AddWord)",
+  "questions": [
+    {
+      "ru": "борода",
+      "en": "b e a r d",
+      "addWord": "o u t",
+      "audioEnUrl": "./audios/class7/appearance/beard.mp3",
+      "transcript": "[bɪəd]"
+    },
+    {
+      "ru": "густые (о бровях)",
+      "en": "b u s h y",
+      "addWord": "a e o",
+      "audioEnUrl": "./audios/class7/appearance/bushy.mp3",
+      "transcript": "[ˈbʊʃi]"
+    },
+    {
+      "ru": "щёки",
+      "en": "c h e e k s",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/appearance/cheeks.mp3",
+      "transcript": "[tʃiːks]"
+    },
+    {
+      "ru": "пожилой",
+      "en": "e l d e r l y",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/appearance/elderly.mp3",
+      "transcript": "[ˈeldəli]"
+    },
+    {
+      "ru": "брови",
+      "en": "e y e b r o w s",
+      "addWord": "u i a",
+      "audioEnUrl": "./audios/class7/appearance/eyebrows.mp3",
+      "transcript": "[ˈaɪbraʊz]"
+    },
+    {
+      "ru": "лоб",
+      "en": "f o r e h e a d",
+      "addWord": "i u s",
+      "audioEnUrl": "./audios/class7/appearance/forehead.mp3",
+      "transcript": "[ˈfɔːhed]"
+    },
+    {
+      "ru": "губы",
+      "en": "l i p s",
+      "addWord": "e a o",
+      "audioEnUrl": "./audios/class7/appearance/lips.mp3",
+      "transcript": "[lɪps]"
+    },
+    {
+      "ru": "среднего возраста",
+      "en": "m i d d l e - a g e d",
+      "addWord": "o u r",
+      "audioEnUrl": "./audios/class7/appearance/middle_aged.mp3",
+      "transcript": "[ˌmɪdlˈeɪdʒd]"
+    },
+    {
+      "ru": "усы",
+      "en": "m o u s t a c h e",
+      "addWord": "i r n",
+      "audioEnUrl": "./audios/class7/appearance/moustache.mp3",
+      "transcript": "[məˈstɑːʃ]"
+    },
+    {
+      "ru": "морщины",
+      "en": "w r i n k l e s",
+      "addWord": "a e o",
+      "audioEnUrl": "./audios/class7/appearance/wrinkles.mp3",
+      "transcript": "[ˈrɪŋklz]"
+    }
+  ],
+  "colors": []
+}
