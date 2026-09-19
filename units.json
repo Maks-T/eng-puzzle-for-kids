@@ -1,6 +1,11 @@
 {
   "units": [
     {
+      "id": "Appearance-Lesson-4",
+      "url": "class_7_appearance_lesson_4.json",
+      "name": "Appearance – Lesson 4"
+    },
+    {
       "id": "Appearance-Lesson-1",
       "url": "class_7_appearance_lesson_1.json",
       "name": "Appearance – Lesson 1"

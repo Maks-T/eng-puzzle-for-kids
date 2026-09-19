@@ -1,0 +1,62 @@
+{
+  "name": "Appearance: Lesson 4 (Short AddWord)",
+  "questions": [
+    {
+      "ru": "немного, чуть-чуть",
+      "en": "a   b i t",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/appearance/a_bit.mp3",
+      "transcript": "[ə bɪt]"
+    },
+    {
+      "ru": "светлый, белокурый (о волосах)",
+      "en": "b l o n d",
+      "addWord": "a e u",
+      "audioEnUrl": "./audios/class7/appearance/blond.mp3",
+      "transcript": "[blɒnd]"
+    },
+    {
+      "ru": "чёлка",
+      "en": "f r i n g e",
+      "addWord": "a o y",
+      "audioEnUrl": "./audios/class7/appearance/fringe.mp3",
+      "transcript": "[frɪndʒ]"
+    },
+    {
+      "ru": "парикмахерская",
+      "en": "h a i r d r e s s e r ' s",
+      "addWord": "o u t",
+      "audioEnUrl": "./audios/class7/appearance/hairdressers.mp3",
+      "transcript": "[ˈheədresəz]"
+    },
+    {
+      "ru": "хвостик (причёска «конский хвост»)",
+      "en": "p o n y t a i l",
+      "addWord": "e u r",
+      "audioEnUrl": "./audios/class7/appearance/ponytail.mp3",
+      "transcript": "[ˈpəʊnɪteɪl]"
+    },
+    {
+      "ru": "до плеч (о длине волос)",
+      "en": "s h o u l d e r - l e n g t h",
+      "addWord": "a i y",
+      "audioEnUrl": "./audios/class7/appearance/shoulder_length.mp3",
+      "transcript": "[ˈʃəʊldəleŋθ]"
+    },
+    {
+      "ru": "слегка, немного",
+      "en": "s l i g h t l y",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/appearance/slightly.mp3",
+      "transcript": "[ˈslaɪtli]"
+    },
+    {
+      "ru": "волнистый (о волосах)",
+      "en": "w a v y",
+      "addWord": "e o i",
+      "audioEnUrl": "./audios/class7/appearance/wavy.mp3",
+      "transcript": "[ˈweɪvi]"
+    }
+  ],
+  "colors": []
+}

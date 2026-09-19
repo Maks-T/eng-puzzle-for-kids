@@ -4,8 +4,7 @@ from gtts import gTTS
 
 # Список файлов модулей для обработки
 MODULE_FILES = [
-    "class_7_appearance_lesson_1.json",
-    "class_7_appearance_lesson_2.json"
+    "class_7_appearance_lesson_4.json",
 ]
 
 def generate_audio_for_modules():
