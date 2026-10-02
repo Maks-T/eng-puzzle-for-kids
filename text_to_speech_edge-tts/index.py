@@ -1,37 +1,42 @@
 import asyncio
-import edge_tts
 import os
+import edge_tts
 
-dialogue =[
-    ("Nick", "Hi, Yan! You watch many films, don't you? Can you recommend a good film to watch?"),
-    ("Yan", "Well, yes. I recently watched a film called Gamer's Rules. It's about three friends, who spend all their time playing computer games."),
-    ("Nick", "Oh, I don't think I've seen this film. Is it a fantasy or mystery film?"),
-    ("Yan", "It's a fun adventure. One day, the boys find something mysterious, and their action begins. I enjoyed watching it, you know?"),
-    ("Nick", "That's interesting. Is it a Hollywood film?"),
-    ("Yan", "No, it is filmed in Belarus in 2018 by Igor Chetverikov. And the actors did all the tricks themselves."),
-    ("Nick", "Thanks, Yan. That's what I'm going to watch today. I must go now. See you later!"),
-    ("Yan", "Enjoy your film, Nick! Bye!")
+# Список предложений для озвучки
+sentences = [
+    "I think my parents are really good-looking.",
+  
+    "My mum has green eyes and dark eyebrows.",
+    "My mum's hair is straight and brown.",
+    "My father is a lot taller than my mum!",
+    "Dad has straight fair hair and blue eyes.",
+    "Mum says he is really handsome.",
+    "It's hard to say if I resemble my mum or dad.",
+    "I have got short fair hair and blue eyes like my dad.",
+    "My skin is pale and I don't have any freckles.",
+   
 ]
 
-# Выбираем два разных мужских голоса
-# 'en-US-GuyNeural' - американский мужской
-# 'en-GB-RyanNeural' - британский мужской
-voices = {
-    "Nick": "en-GB-RyanNeural",
-    "Yan": "en-US-GuyNeural"
-}
+# Британский мужской голос (отлично подходит для школы и рассказа от лица Арсения)
+# Доступные варианты: 'en-GB-RyanNeural', 'en-GB-ThomasNeural' (подростковый), 'en-US-GuyNeural'
+VOICE = "en-GB-RyanNeural"
 
-os.makedirs("dialogue_audio_edge", exist_ok=True)
+# Папка, куда сохранятся файлы
+OUTPUT_DIR = "arseniy_sentences_audio"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 async def main():
-    for index, (speaker, text) in enumerate(dialogue, start=1):
-        voice = voices[speaker]
-        filename = f"dialogue_audio_edge/{index}_{speaker}.mp3"
+    print("Начинаем озвучку предложений...\n")
+    for index, text in enumerate(sentences, start=1):
+        filename = os.path.join(OUTPUT_DIR, f"{index}.mp3")
         
-        # Генерируем и сохраняем аудио
-        communicate = edge_tts.Communicate(text, voice)
+        # Создаем аудиопоток и сохраняем в файл
+        communicate = edge_tts.Communicate(text, VOICE)
         await communicate.save(filename)
-        print(f"Saved {filename} ({voice})")
+        print(f"[{index}/11] Сохранён: {filename}")
+        print(f"       Текст: \"{text}\"")
 
-# Запускаем асинхронную функцию
-asyncio.run(main())
+    print(f"\nВсе 11 аудиофайлов успешно сохранены в папку '{OUTPUT_DIR}'!")
+
+if __name__ == "__main__":
+    asyncio.run(main())
