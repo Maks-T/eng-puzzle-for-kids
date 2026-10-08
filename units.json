@@ -1,6 +1,11 @@
 {
   "units": [
     {
+      "id": "Character-Lesson-2",
+      "url": "class_7_character_lesson_2.json",
+      "name": "Character – Lesson 2"
+    },
+    {
       "id": "Character-Lesson-1",
       "url": "class_7_character_lesson_1.json",
       "name": "Character – Lesson 1"

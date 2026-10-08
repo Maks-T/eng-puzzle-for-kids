@@ -1,0 +1,76 @@
+{
+  "name": "Character: Lesson 2 (Short AddWord)",
+  "questions": [
+    {
+      "ru": "рассеянный",
+      "en": "a b s e n t - m i n d e d",
+      "addWord": "o u r",
+      "audioEnUrl": "./audios/class7/character/absent_minded.mp3",
+      "transcript": "[ˌæbsəntˈmaɪndɪd]"
+    },
+    {
+      "ru": "покладистый, лёгкий в общении",
+      "en": "e a s y - g o i n g",
+      "addWord": "a u t",
+      "audioEnUrl": "./audios/class7/character/easy_going.mp3",
+      "transcript": "[ˌiːziˈɡəʊɪŋ]"
+    },
+    {
+      "ru": "добросердечный, мягкосердечный",
+      "en": "k i n d - h e a r t e d",
+      "addWord": "o u s",
+      "audioEnUrl": "./audios/class7/character/kind_hearted.mp3",
+      "transcript": "[ˌkaɪndˈhɑːtɪd]"
+    },
+    {
+      "ru": "широких взглядов, непредубеждённый",
+      "en": "o p e n - m i n d e d",
+      "addWord": "a u r",
+      "audioEnUrl": "./audios/class7/character/open_minded.mp3",
+      "transcript": "[ˌəʊpənˈmaɪndɪd]"
+    },
+    {
+      "ru": "находчивый, сообразительный",
+      "en": "q u i c k - w i t t e d",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/character/quick_witted.mp3",
+      "transcript": "[ˌkwɪkˈwɪtɪd]"
+    },
+    {
+      "ru": "эгоцентричный, зацикленный на себе",
+      "en": "s e l f - c e n t r e d",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/character/self_centred.mp3",
+      "transcript": "[ˌselfˈsentəd]"
+    },
+    {
+      "ru": "обидчивый, тонкокожий, ранимый",
+      "en": "t h i n - s k i n n e d",
+      "addWord": "a e o",
+      "audioEnUrl": "./audios/class7/character/thin_skinned.mp3",
+      "transcript": "[ˌθɪnˈskɪnd]"
+    },
+    {
+      "ru": "трудолюбивый, прилежный",
+      "en": "h a r d - w o r k i n g",
+      "addWord": "e u s",
+      "audioEnUrl": "./audios/class7/character/hard_working.mp3",
+      "transcript": "[ˌhɑːdˈwɜːkɪŋ]"
+    },
+    {
+      "ru": "темноволосый",
+      "en": "d a r k - h a i r e d",
+      "addWord": "o u t",
+      "audioEnUrl": "./audios/class7/character/dark_haired.mp3",
+      "transcript": "[ˌdɑːkˈheəd]"
+    },
+    {
+      "ru": "голубоглазый",
+      "en": "b l u e - e y e d",
+      "addWord": "o r t",
+      "audioEnUrl": "./audios/class7/character/blue_eyed.mp3",
+      "transcript": "[ˌbluːˈaɪd]"
+    }
+  ],
+  "colors": []
+}
