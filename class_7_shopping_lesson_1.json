@@ -1,0 +1,97 @@
+{
+  "name": "Shopping: Lesson 1 & 2 (Short AddWord)",
+  "questions": [
+    {
+      "ru": "булочная, пекарня",
+      "en": "a   b a k e r y",
+      "addWord": "o u s",
+      "audioEnUrl": "./audios/class7/shopping/a_bakery.mp3",
+      "transcript": "[ə ˈbeɪkəri]"
+    },
+    {
+      "ru": "аптека",
+      "en": "a   c h e m i s t ' s",
+      "addWord": "o u r",
+      "audioEnUrl": "./audios/class7/shopping/a_chemists.mp3",
+      "transcript": "[ə ˈkemɪsts]"
+    },
+    {
+      "ru": "универмаг",
+      "en": "a   d e p a r t m e n t   s t o r e",
+      "addWord": "u i l",
+      "audioEnUrl": "./audios/class7/shopping/a_department_store.mp3",
+      "transcript": "[ə dɪˈpɑːtmənt stɔː]"
+    },
+    {
+      "ru": "целую вечность, очень давно",
+      "en": "f o r   a g e s",
+      "addWord": "u i t",
+      "audioEnUrl": "./audios/class7/shopping/for_ages.mp3",
+      "transcript": "[fər ˈeɪdʒɪz]"
+    },
+    {
+      "ru": "бакалея, продуктовый магазин",
+      "en": "a   g r o c e r y",
+      "addWord": "a u d",
+      "audioEnUrl": "./audios/class7/shopping/a_grocery.mp3",
+      "transcript": "[ə ˈɡrəʊsəri]"
+    },
+    {
+      "ru": "торговый центр, молл",
+      "en": "a   m a l l",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/shopping/a_mall.mp3",
+      "transcript": "[ə mɔːl]"
+    },
+    {
+      "ru": "газетный киоск",
+      "en": "a   n e w s a g e n t ' s",
+      "addWord": "o u r",
+      "audioEnUrl": "./audios/class7/shopping/a_newsagents.mp3",
+      "transcript": "[ə ˈnjuːzˌeɪdʒənts]"
+    },
+    {
+      "ru": "магазин, универмаг",
+      "en": "a   s t o r e",
+      "addWord": "a i u",
+      "audioEnUrl": "./audios/class7/shopping/a_store.mp3",
+      "transcript": "[ə stɔː]"
+    },
+    {
+      "ru": "рассматривание витрин (без покупок)",
+      "en": "w i n d o w - s h o p p i n g",
+      "addWord": "e a u",
+      "audioEnUrl": "./audios/class7/shopping/window_shopping.mp3",
+      "transcript": "[ˈwɪndəʊˌʃɒpɪŋ]"
+    },
+    {
+      "ru": "бренд, торговая марка",
+      "en": "a   b r a n d",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/shopping/a_brand.mp3",
+      "transcript": "[ə brænd]"
+    },
+    {
+      "ru": "товары",
+      "en": "g o o d s",
+      "addWord": "a e u",
+      "audioEnUrl": "./audios/class7/shopping/goods.mp3",
+      "transcript": "[ɡʊdz]"
+    },
+    {
+      "ru": "качество",
+      "en": "q u a l i t y",
+      "addWord": "e o r",
+      "audioEnUrl": "./audios/class7/shopping/quality.mp3",
+      "transcript": "[ˈkwɒləti]"
+    },
+    {
+      "ru": "сувенир",
+      "en": "a   s o u v e n i r",
+      "addWord": "e t u",
+      "audioEnUrl": "./audios/class7/shopping/a_souvenir.mp3",
+      "transcript": "[ə ˌsuːvəˈnɪə]"
+    }
+  ],
+  "colors": []
+}
