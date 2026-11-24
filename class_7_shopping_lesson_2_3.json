@@ -1,0 +1,104 @@
+{
+  "name": "Shopping: Lesson 2 & 3 (Short AddWord)",
+  "questions": [
+    {
+      "ru": "бренд, торговая марка",
+      "en": "a   b r a n d",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/shopping/a_brand.mp3",
+      "transcript": "[ə brænd]"
+    },
+    {
+      "ru": "товары",
+      "en": "g o o d s",
+      "addWord": "a e u",
+      "audioEnUrl": "./audios/class7/shopping/goods.mp3",
+      "transcript": "[ɡʊdz]"
+    },
+    {
+      "ru": "качество",
+      "en": "q u a l i t y",
+      "addWord": "e o r",
+      "audioEnUrl": "./audios/class7/shopping/quality.mp3",
+      "transcript": "[ˈkwɒləti]"
+    },
+    {
+      "ru": "сувенир",
+      "en": "a   s o u v e n i r",
+      "addWord": "e t u",
+      "audioEnUrl": "./audios/class7/shopping/a_souvenir.mp3",
+      "transcript": "[ə ˌsuːvəˈnɪə]"
+    },
+    {
+      "ru": "мешковатый, свободный (об одежде)",
+      "en": "b a g g y",
+      "addWord": "e o i",
+      "audioEnUrl": "./audios/class7/shopping/baggy.mp3",
+      "transcript": "[ˈbæɡi]"
+    },
+    {
+      "ru": "ремень, пояс",
+      "en": "a   b e l t",
+      "addWord": "o i r",
+      "audioEnUrl": "./audios/class7/shopping/a_belt.mp3",
+      "transcript": "[ə belt]"
+    },
+    {
+      "ru": "клетчатый, в клетку",
+      "en": "c h e c k e d",
+      "addWord": "a i o",
+      "audioEnUrl": "./audios/class7/shopping/checked.mp3",
+      "transcript": "[tʃekt]"
+    },
+    {
+      "ru": "старомодный",
+      "en": "o l d - f a s h i o n e d",
+      "addWord": "u r t",
+      "audioEnUrl": "./audios/class7/shopping/old_fashioned.mp3",
+      "transcript": "[ˌəʊldˈfæʃnd]"
+    },
+    {
+      "ru": "нарядный, элегантный",
+      "en": "s m a r t",
+      "addWord": "e o u",
+      "audioEnUrl": "./audios/class7/shopping/smart.mp3",
+      "transcript": "[smɑːt]"
+    },
+    {
+      "ru": "полосатый, в полоску",
+      "en": "s t r i p e d",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/shopping/striped.mp3",
+      "transcript": "[straɪpt]"
+    },
+    {
+      "ru": "галстук",
+      "en": "a   t i e",
+      "addWord": "o u r",
+      "audioEnUrl": "./audios/class7/shopping/a_tie.mp3",
+      "transcript": "[ə taɪ]"
+    },
+    {
+      "ru": "тесный, обтягивающий",
+      "en": "t i g h t",
+      "addWord": "a e o",
+      "audioEnUrl": "./audios/class7/shopping/tight.mp3",
+      "transcript": "[taɪt]"
+    },
+    {
+      "ru": "кроссовки",
+      "en": "t r a i n e r s",
+      "addWord": "o u d",
+      "audioEnUrl": "./audios/class7/shopping/trainers.mp3",
+      "transcript": "[ˈtreɪnəz]"
+    },
+    {
+      "ru": "модный, трендовый",
+      "en": "t r e n d y",
+      "addWord": "a o u",
+      "audioEnUrl": "./audios/class7/shopping/trendy.mp3",
+      "transcript": "[ˈtrendi]"
+    }
+  ],
+  "colors": []
+}

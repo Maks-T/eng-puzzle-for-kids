@@ -1,6 +1,11 @@
 {
   "units": [
     {
+      "id": "Shopping-Lesson-2-3",
+      "url": "class_7_shopping_lesson_2_3.json",
+      "name": "Shopping – Lesson 2 & 3"
+    },
+    {
       "id": "Shopping-Lesson-1",
       "url": "class_7_shopping_lesson_1.json",
       "name": "Shopping – Lesson 1 & 2"
